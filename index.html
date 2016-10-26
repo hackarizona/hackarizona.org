@@ -1,85 +1,172 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Hack Arizona</title>
-<meta name="description" content="Cultivating a world-class Hacker culture in the Southwest.">
-<link rel="icon"
-		      type="image/png"
-		      href="favicon.png">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<link rel="stylesheet" type="text/css" href="style.css">
-<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="icon" type="image/png" href="images/favicon.png">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	<meta charset="utf-8">
+	<title>Hack Arizona</title>
+	<meta name="description" content="Cultivating a world-class Hacker culture in the Southwest.">
+	<link rel="icon"
+			      type="image/png"
+			      href="favicon.png">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link rel="icon" type="image/png" href="favicon.png">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-67218010-2', 'auto');
-  ga('send', 'pageview');
+	  ga('create', 'UA-67218010-2', 'auto');
+	  ga('send', 'pageview');
 
-</script>
+	</script>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+		* {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			text-decoration: none;
+			outline: none;
+			border: none;
+			outline: none;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+			box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+		}
+		html, body {
+			position: relative;
+			min-width: 100%;
+			height: 100%;
+		}
+		body {
+			font-family: 'Karla', sans-serif;
+			background-image: linear-gradient(0deg, #E0C038 0%, #C06020 50%, #7C30C0 100%);
+		}
+		#wrapper {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			padding: 24px;
+		}
+		#wrapper .content {
+			position: relative;
+			width: 100%;
+			height: 100%;
+			background: #fff;
+			text-align: center;
+		}
+		.content-wrapper {
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			margin: auto;
+			width: 320px;
+			height: 380px;
+		}
+		.email {
+			width: 320px;
+			height: 56px;
+			position: relative;
+			margin: 32px auto 24px;
+			background-image: linear-gradient(0deg, #E0C038 0%, #C06020 50%, #7C30C0 100%);
+		}
+		.email .inputs {
+			padding: 4px;
+			width: 100%;
+			height: 100%;
+			background-image: url(grid.png);
+		}
+		input {
+			font-family: 'Karla', sans-serif;
+		}
+		.email form {
+			width: 100%;
+			height: 100%;
+		}
+		.email input[type=email] {
+			width: 80%;
+			height: 100%;
+			background: #fff;
+			font-size: 16px;
+			padding: 0 16px;
+			border: 1px solid #C06020;
+			color: #000;
+			float: left;
+		}
+		.email input[type=submit] {
+			width: 20%;
+			height: 100%;
+			font-size: 16px;
+			padding: 0 16px;
+			background: #C06020;
+			color: #fff;
+			float: left;
+			cursor: pointer;
+			font-weight: 700;
+		}
+		h3 {
+			font-weight: 700;
+			font-size: 18px;
+			margin-top: 24px;
+			color: #C06020;
+		}
+		a.link, i {
+			color: #C06020;
+			font-size: 16px;
+			margin: 0 4px;
+		}
+		@media screen and (max-width: 400px) {
+			#wrapper {
+				padding: 16px;
+			}
+			.email {
+				width: 80%;
+			}
+		}
+	</style>
 </head>
 <body>
-	<div id="header">
-		<div class="inner">
-			<a href="/"><img src="logo.svg" id="logo"></a>
-			<ul>
-				<li><a href="positions.html"><strong>Open Positions</strong></a></li>
-				<li><a href="http://forum.hackarizona.org" target="_blank">Community</a></li>
-				<li><a href="#events">Events</a></li>
-        		<li><a href="mailto:team@hackarizona.org">Contact</a></li>
-			</ul>
-			<div class="clear"></div>
-		</div>
-	</div>
-	<div id="hero">
-		<div class="inner">
-			<h2>Cultivating a world-class Hacker culture in the Southwest.</h2>
-		</div>
-		<div class="cover"></div>
-	</div>
+<div id="wrapper">
+	<div class="content">
+		<div class="content-wrapper">
+			<div class="logo-wrapper">
+				<svg width="123px" height="192px" viewBox="0 0 123 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="logo">
+				    <defs>
+				        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+				            <stop stop-color="#E0C038" offset="0%"></stop>
+				            <stop stop-color="#E0A430" offset="25%"></stop>
+				            <stop stop-color="#C06020" offset="50%"></stop>
+				            <stop stop-color="#904084" offset="75%"></stop>
+				            <stop stop-color="#7C30C0" offset="100%"></stop>
+				        </linearGradient>
+				        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+				            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+				        </filter>
+				    </defs>
+				    <path d="M50.9915731,67.2901698 C50.9915731,56.317709 50.9615878,45.3452483 51.0301256,34.3727875 C51.0344092,32.8606519 50.563212,31.9297828 49.3466666,30.9736414 C41.0835814,24.4870427 40.2696953,13.1270709 47.4190417,5.48215099 C54.217132,-1.78789401 66.3140489,-1.83422686 73.1378408,5.38527322 C80.3086053,12.971224 79.5161373,24.3859528 71.441531,30.9904897 C70.6319285,31.6517858 69.7880572,32.8480156 69.7880572,33.795733 C69.7366539,58.2089316 69.7966244,82.6221302 69.8480278,107.026905 C69.8480278,107.338598 69.9122819,107.650292 69.9208491,107.76823 C75.0440476,105.973885 80.1329772,104.406993 85.0419952,102.397832 C88.7216169,100.889908 90.5293006,97.583428 91.5059639,93.923133 C91.6516066,93.3671388 91.1332897,92.503663 90.7177795,91.9392447 C86.0443601,85.6421895 85.8387468,78.127844 90.2251642,72.2351482 C94.8514639,66.0223346 102.92607,63.5245729 110.572315,65.9338809 C117.567452,68.1325852 122.780606,74.8129394 122.553575,81.8723805 C122.313693,89.0876685 118.548399,94.1463731 111.887384,97.1874927 C110.962124,97.6129125 109.741295,98.3416018 109.501413,99.1629569 C106.014554,111.121044 97.4516156,117.860367 85.8901501,121.474329 C74.9583754,124.886111 70.726168,131.124198 69.77949,143.221283 C69.4025322,148.039899 69.6209964,152.921696 69.7880572,157.761373 C69.8266097,158.83124 70.494853,160.166469 71.3301571,160.87831 C76.8131789,165.608472 79.2291354,171.429563 77.5413927,178.446883 C75.832232,185.527385 71.1416782,190.084852 63.8766743,191.575928 C56.8301346,193.024882 50.9059009,190.725088 46.3695571,185.224115 C40.3767856,177.975131 41.5290769,167.221698 49.033963,161.265821 C50.5846301,160.035895 51.0344092,158.822816 51.0301256,156.982139 C50.9701551,137.762431 50.948737,118.534299 51.0515437,99.3103796 C51.0558273,97.1790686 50.3447479,96.4967121 48.3485853,95.8943851 C42.0902299,93.9989504 35.7205007,92.2551505 29.7834161,89.6183902 C21.366121,85.8696417 16.2643405,78.9702594 13.6042182,70.3355015 C13.1458719,68.8486383 12.4519269,67.9514659 10.9055434,67.2943818 C1.26313557,63.2465758 -2.76774217,52.1730252 2.01705107,43.2097252 C7.05886095,33.7536122 18.5560723,30.678796 27.7144321,36.3314034 C36.4187292,41.7060137 38.6290724,53.2808015 32.4435384,61.565957 C31.5139949,62.8127318 31.3555013,63.8404786 31.865251,65.2767969 C33.0903637,68.722276 35.0608246,71.6286091 38.479146,73.098624 C42.3815154,74.7750307 46.4852146,76.0133813 50.9915731,77.6181827 L50.9915731,67.2901698 Z M9.55620604,51.2632165 C9.59904215,55.9259858 13.5313968,59.7126431 18.2005326,59.594705 C22.7839961,59.4767668 26.5278719,55.6858975 26.5193047,51.1621267 C26.5107375,46.5414782 22.5526811,42.759033 17.8364257,42.8643349 C13.1972752,42.9612127 9.52622076,46.6889009 9.55620604,51.2632165 L9.55620604,51.2632165 Z M60.4626365,25.6032431 C65.0846526,25.5484861 68.832812,21.7239201 68.6957365,17.2085735 C68.5586609,12.7606201 64.8105015,9.16350634 60.3169938,9.16771842 C55.6778433,9.16771842 51.9511019,12.8954066 51.9982216,17.4781465 C52.0410578,22.0819467 55.7592319,25.6580001 60.4626365,25.6032431 L60.4626365,25.6032431 Z M60.4626365,182.848508 C65.0846526,182.793751 68.832812,178.969185 68.6957365,174.453838 C68.5586609,170.005885 64.8105015,166.408771 60.3169938,166.412983 C55.6778433,166.412983 51.9511019,170.140671 51.9982216,174.723411 C52.0410578,179.327211 55.7592319,182.903265 60.4626365,182.848508 L60.4626365,182.848508 Z M113.125347,81.7839269 C113.112497,77.3780943 109.390039,73.865222 104.746605,73.8904945 C100.13744,73.9115549 96.3550113,77.5297291 96.4106982,81.8681685 C96.4706688,86.2403044 100.283082,89.824782 104.840844,89.7952975 C109.458577,89.7573888 113.133915,86.2108199 113.125347,81.7839269 L113.125347,81.7839269 Z" id="Fill-1" stroke="none" fill="url(#linearGradient-1)" fill-rule="evenodd" filter="url(#filter-2)"></path>
+				</svg>
+			</div>
 
-	<div class="section" id="about">
-		<div class="inner">
-			<p>Hack Arizona is about bringing together the most talented students to represent the burgeoning tech ecosystem that is appearing in the Southwest and across the country.
-			<br><br>
-			Hosted at the University of Arizona, participants will build software and hardware projects from start to finish in under 36 hours amongst their peers, mentors and company sponsors.</p>
-		</div>
-	</div>
+				<h3>January 13th &mdash; 15th, 2017</h3>
 
-	<div id="sections">
-		<div class="section blue" id="events">
-			<div class="inner">
-				<h3>Events</h3>
-				<ul>
-					<li>
-						<h4><a href="http://hackarizona.org/2016">Hack Arizona 2016</a></h4>
-						<span>January 22nd - 24th, 2016</span>
-						<p>After the launch of Hack Arizona in Spring 2015, we set out on a mission to scale our community in order to provide opportunities to more students. While focusing all of our resources on improving the overall hacker experience, we are proud to announce that we increased the attendance rate by 49% and received over 97 project submissions.</p>
-					</li>
-
-					<li>
-						<h4><a href="http://hackarizona.org/2015">Hack Arizona 2015</a></h4>
-						<span>March 6th - 8th, 2015</span>
-						<p>With over 67 project submissions, Hack Arizona Spring 2015 experienced one of the highest submission rates amongst the major collegiate hackathon circuit.</p>
-					</li>
-				</ul>
+				<div class="email">
+					<div class="inputs">
+					<form action="http://hackarizona.createsend.com/t/i/s/ptllhh/" method="post" id="subForm">
+						<input id="fieldEmail" name="cm-ptllhh-ptllhh" type="email" placeholder="Email address" required />
+						<input type="submit" value="Go">
+					</form>
+					</div>
+				</div>
+				<a href="./home" class="link">Home</a> • <a href="sponsor.pdf" class="link">Sponsor</a> • <a href="https://www.facebook.com/hackarizona" target="_blank"><i class="fa fa-facebook-square"></i></a> • <a href="https://twitter.com/hack_arizona" target="_blank"><i class="fa fa-twitter"></i></a>
 			</div>
 		</div>
 	</div>
-
-	<div id="footer">
-		<div class="inner">
-		<p class="copyright">&copy; 2016 Hack Arizona</p>
-		<ul class="social">
-		  <li><a href="https://twitter.com/hack_arizona" target="_blank"><i class="fa fa-twitter"></i></a></li>
-		  <li><a href="https://www.facebook.com/hackarizona" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
-		</ul>
-		</div>
-	</div>
+</div>
 </body>
 </html>
