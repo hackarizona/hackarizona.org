@@ -307,6 +307,10 @@ body {
 	#hero, #content .section {
 		padding: 64px 0;
 	}
+	#mlh-trust-badge { 
+		right: 0 !important;
+		position: absolute !important;
+	}
 }
 @media screen and (max-width: 320px) {
 	#hero #logo-text {
