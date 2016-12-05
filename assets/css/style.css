@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i');
+=@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i');
 ::selection{background:#C06020;color:#FFF}
 * {
   margin: 0;
@@ -237,7 +237,7 @@ body {
 }
 #sponsors img {
 	max-width: 80%;
-	max-height: 48px;
+	max-height: 70px;
 	vertical-align: middle;
 }
 #sponsors .mlh img {
@@ -316,4 +316,8 @@ body {
 	#hero #logo-text {
 		width: 80%;
 	}
+}
+
+#coder-camps-logo {
+  fill: #ff0000;
 }
