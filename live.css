@@ -23,6 +23,10 @@ body {
 	background-attachment: fixed !important;
     min-width: 960px;
 }
+#logo {
+	display: block;
+	margin: 0 auto 24px;
+}
 a {
 	color: #C06020;
 }
@@ -31,6 +35,25 @@ a {
 }
 #header p {
 	color: #C06020 !important;
+}
+.buttons {
+	text-align: center;
+}
+.apply {
+	display: inline-block;
+	margin: 24px 12px 0;
+	background: #000;
+	height: 48px;
+	width: 192px;
+	text-align: center;
+	line-height: 48px;
+	color: #fff;
+	border-radius: 4px;
+	font-weight: 700;
+}
+.date {
+	color: #fff;
+	text-align: center;
 }
 #main {
 	padding: 48px 0;
