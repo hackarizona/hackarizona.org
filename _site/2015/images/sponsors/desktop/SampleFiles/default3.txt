@@ -1,3 +1,0 @@
-bar same
-foo different
-wrong different
