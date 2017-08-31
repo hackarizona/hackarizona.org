@@ -43,7 +43,8 @@ h1#title{
 	font-family: 'Dosis', sans-serif;
 	font-weight: 400;
 	color: #333333;
-	display: block;
+	position: absolute;
+	z-index: 10;
 }
 
 #title-svg{
@@ -51,7 +52,7 @@ h1#title{
 	fill:#FCEEAF;
 	stroke:#333333;
 	stroke-width:2;
-	position: absolute;
+	position: relative;
 }
 
 #navigation{
@@ -77,12 +78,6 @@ h1#title{
 	float: left;
 	padding-top: 20px;
 	display: inline-block;
-}
-
-#navigation svg{
-	float: left;
-	display: inline-block;
-	position: absolute;
 }
 
 #container{
