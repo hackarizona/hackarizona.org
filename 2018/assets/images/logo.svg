@@ -5,11 +5,8 @@
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
-            <stop stop-color="#E0C038" offset="0%"></stop>
-            <stop stop-color="#E0A430" offset="25%"></stop>
-            <stop stop-color="#C06020" offset="50%"></stop>
-            <stop stop-color="#904084" offset="75%"></stop>
-            <stop stop-color="#7C30C0" offset="100%"></stop>
+            <stop stop-color="#B478FF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
         </linearGradient>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
             <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
