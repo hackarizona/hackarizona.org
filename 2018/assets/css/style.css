@@ -259,7 +259,7 @@ body {
 	margin-bottom: 48px;
 }
 #faq h4 {
-	color: #C06020;
+	color: #000000;
 	font-weight: 700;
 	font-size: 22px;
 	margin-bottom: 12px;
@@ -270,7 +270,7 @@ body {
 	color: rgba(0, 0, 0, 0.64);
 }
 #faq a {
-	color: #C06020;
+	color: #000000;
 	text-decoration: underline;
 }
 #contact {
