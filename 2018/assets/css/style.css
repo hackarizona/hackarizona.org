@@ -33,7 +33,7 @@ body {
 #header {
 	width: 100%;
 	height: 48px;
-	background-image: linear-gradient(-270deg, #B478FF 0%, #000000 100%);
+	background-image: linear-gradient(-270deg, #A17FC5 0%, #7C80C7 50%, #424876 100%);
 	background-color: #C06020;
 	background-size: 200% 200%;
 	-webkit-animation: gradient 5s ease infinite;
@@ -103,7 +103,7 @@ body {
 	padding: 96px 0;
 }
 #content #about, #content #schedule {
-	background-image: linear-gradient(0deg, #B478FF 0%, #000000 100%);
+	background-image: linear-gradient(-270deg, #A17FC5 0%, #7C80C7 50%, #424876 100%);
 	background-color: #C06020;
 }
 @-webkit-keyframes gradient {
@@ -276,7 +276,7 @@ body {
 #contact {
 	text-align: center;
 	color: #fff;
-	background-image: linear-gradient(0deg, #B478FF 0%, #000000 100%);
+	background-image: linear-gradient(-270deg, #A17FC5 0%, #7C80C7 50%, #424876 100%);
 	background-color: #C06020;
 	background-size: 200% 200%;
 	-webkit-animation: gradientv 10s ease infinite;
