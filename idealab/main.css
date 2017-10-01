@@ -166,10 +166,9 @@ input:focus {outline:none;}
 
 #email-wrap input {
 	margin: 5px auto;
-	max-width: 300px;
 	height: 20px;
 	display: block;
-	text-align: center;	
+	text-align: center;
 }
 
 #email-wrap form label {
