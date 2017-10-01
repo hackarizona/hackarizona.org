@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,200,600,700);
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+   -webkit-appearance: none;
+   border-radius: 0;
+}
+html, body {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	background: #000;
+	font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #fff;
+	text-align: center;
+	padding: 64px 0;
+}
+#twox {
+	height: 240px;
+	width: 154px;
+	background: url(logo.png) no-repeat center;
+	background-size: cover;
+	margin: 0 auto;
+	position: relative;
+}
+p {
+	font-size: 24px;
+	line-height: 36px;
+	font-weight: 300;
+	color: rgba(255, 255, 255, 0.64);
+}
+p strong {
+	font-weight: 600;
+	color: rgba(255, 255, 255, 0.88);
+}
+
+.icons {
+	width: 336px;
+	height: 48px;
+	display: block;
+	margin: 64px auto;
+}
+form {
+	margin-top: 24px;
+}
+input {
+	padding: 0 24px;
+	width: 256px;
+	height: 48px;
+	background: #fff;
+	font-size: 16px;
+	font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+input[type=submit] {
+	background-image: linear-gradient(-180deg, #00A4D7 0%, #00BD94 100%);
+	color: #fff;
+	cursor: pointer;
+	font-weight: 600;
+}
+ul.social li a {
+	color: #fff;
+	font-size: 16px;
+	line-height: 18px;
+}
+@media screen and (max-width: 400px) {
+	body {
+		padding: 32px 0;
+	}
+}

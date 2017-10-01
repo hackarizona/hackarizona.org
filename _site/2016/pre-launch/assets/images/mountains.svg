@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="796px" height="307px" viewBox="0 0 796 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>desert</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00A4D7" offset="0%"></stop>
+            <stop stop-color="#00BD94" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="covers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="medium" sketch:type="MSArtboardGroup" transform="translate(-352.000000, -193.000000)">
+            <g id="desert" sketch:type="MSLayerGroup" transform="translate(352.000000, 193.000000)">
+                <g id="mountains" sketch:type="MSShapeGroup">
+                    <g>
+                        <g id="left_big">
+                            <polygon id="Triangle-1" fill-opacity="0.88" fill="url(#linearGradient-1)" transform="translate(454.277483, 153.877981) scale(-1, 1) translate(-454.277483, -153.877981) " points="605.70331 1.05395877 605.70331 306.702003 302.851655 306.702003 "></polygon>
+                            <polygon id="Triangle-2" fill-opacity="0.64" fill="#FFFFFF" transform="translate(362.271330, 76.412011) scale(-1, 1) translate(-362.271330, -76.412011) " points="421.691004 0 421.691004 152.824022 302.851655 120.906774 "></polygon>
+                            <polygon id="Triangle-2" fill="#00BD94" points="302.851655 1.05395877 302.851655 306.702003 0 306.702003 "></polygon>
+                            <polygon id="Triangle-3" fill-opacity="0.88" fill="#FFFFFF" points="302.851655 0 302.851655 120.1513 151.953444 152.824022 "></polygon>
+                        </g>
+                        <g id="leg_medium" transform="translate(335.563855, 73.777114)">
+                            <polygon id="Triangle-1" fill-opacity="0.88" fill="url(#linearGradient-1)" transform="translate(345.060945, 116.862659) scale(-1, 1) translate(-345.060945, -116.862659) " points="460.08126 0.800429171 460.08126 232.924889 230.04063 232.924889 "></polygon>
+                            <polygon id="Triangle-2" fill-opacity="0.64" fill="#FFFFFF" transform="translate(275.121924, 58.031115) scale(-1, 1) translate(-275.121924, -58.031115) " points="320.203218 0 320.203218 116.06223 230.04063 91.4278358 "></polygon>
+                            <polygon id="Triangle-2" fill="url(#linearGradient-1)" points="230.04063 0.800429171 230.04063 232.924889 0 232.924889 "></polygon>
+                            <polygon id="Triangle-3" fill-opacity="0.88" fill="#FFFFFF" points="230.04063 0 230.04063 91.2489255 115.421083 116.06223 "></polygon>
+                        </g>
+                        <g id="left_middle" transform="translate(272.249920, 152.824022)">
+                            <polygon id="Triangle-1" fill-opacity="0.88" fill="url(#linearGradient-1)" transform="translate(227.138741, 77.203386) scale(-1, 1) translate(-227.138741, -77.203386) " points="302.851655 0.528790312 302.851655 153.877981 151.425828 153.877981 "></polygon>
+                            <polygon id="Triangle-2" fill-opacity="0.64" fill="#FFFFFF" transform="translate(181.335067, 38.337298) scale(-1, 1) translate(-181.335067, -38.337298) " points="211.244306 0 211.244306 76.6745953 151.425828 60.2820956 "></polygon>
+                            <polygon id="Triangle-2" fill="url(#linearGradient-1)" points="151.425828 0.528790312 151.425828 153.877981 0 153.877981 "></polygon>
+                            <polygon id="Triangle-3" fill-opacity="0.88" fill="#FFFFFF" points="151.425828 0 151.425828 60.2820956 75.9767218 76.6745953 "></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

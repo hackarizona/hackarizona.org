@@ -1,0 +1,299 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,200,600,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,200,600,700);
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+   -webkit-appearance: none;
+   border-radius: 0;
+}
+html, body {
+	position: relative;
+	min-height: 100%;
+	width: 100%;
+}
+body {
+	background: #fff;
+	font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.clear {
+	clear: both;
+}
+.inner {
+	width: 720px;
+	margin: 0 auto;
+}
+#header {
+	width: 100%;
+	height: 48px;
+	background: linear-gradient(90deg, #00A4D7, #00BD94);
+	background-color: #00B1B6;
+	background-size: 200% 200%;
+	-webkit-animation: gradient 5s ease infinite;
+	-moz-animation: gradient 5s ease infinite;
+	-o-animation: gradient 5s ease infinite;
+	animation: gradient 5s ease infinite;
+}
+#header p {
+	font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	line-height: 48px;
+}
+#hero {
+	width: 100%;
+	height: auto;
+	background: #fff;
+	padding: 96px 0;
+	text-align: center;
+}
+#hero #logo {
+	width: 128px;
+	display: block;
+	margin: 0 auto;
+}
+#hero #logo-text {
+	width: 256px;
+	margin: 48px 0;
+}
+#hero h3 {
+	color: rgba(0, 0, 0, 0.64);
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 32px;
+}
+#hero h3 strong {
+	font-weight: 600;
+}
+#hero .buttons {
+	margin: 48px 0 0;
+}
+#hero .button {
+	background: #000;
+	display: inline-block;
+	width: auto;
+	margin: 0 6px 6px;
+	border-radius: 3px;
+}
+#hero .button a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 12px 32px;
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
+#content {
+	color: #000;
+}
+#content .section {
+	padding: 96px 0;
+}
+#content #about, #content #schedule {
+	background: linear-gradient(180deg, #00A4D7, #00BD94);
+	background-color: #00B1B6;
+}
+@-webkit-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes gradient { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+@-webkit-keyframes gradientv {
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+@-moz-keyframes gradientv {
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+@-o-keyframes gradientv {
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+@keyframes gradientv { 
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+#content #about h2, #content #about p, #content #schedule {
+	color: #fff;
+}
+#content #sponsors {
+	background: #000;
+	color: #fff;
+	text-align: center;
+}
+#content h2 {
+	font-size: 32px;
+	font-weight: 600;
+	margin-bottom: 24px;
+}
+#content p {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+#schedule .schedule {
+	width: 100%;
+}
+#schedule .schedule .date {
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	font-size: 14px;
+	letter-spacing: 1px;
+	line-height: 48px;
+}
+#schedule .schedule td {
+	line-height: 32px;
+	vertical-align: top;
+}
+#schedule .schedule .head .date {
+	padding-top: 24px;
+}
+#schedule .schedule .time {
+	font-weight: 600;
+	width: 50%;
+	color: rgba(255, 255, 255, 0.88);
+}
+#schedule .schedule {
+	font-size: 16px;
+}
+
+@-webkit-keyframes collage{0%{-moz-transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}100%{-moz-transform:translate3d(-750px, 0, 0);-webkit-transform:translate3d(-750px, 0, 0);transform:translate3d(-750px, 0, 0)}}@-moz-keyframes collage{0%{-moz-transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}100%{-moz-transform:translate3d(-750px, 0, 0);-webkit-transform:translate3d(-750px, 0, 0);transform:translate3d(-750px, 0, 0)}}@-ms-keyframes collage{0%{-moz-transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}100%{-moz-transform:translate3d(-750px, 0, 0);-webkit-transform:translate3d(-750px, 0, 0);transform:translate3d(-750px, 0, 0)}}@keyframes collage{0%{-moz-transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}100%{-moz-transform:translate3d(-750px, 0, 0);-webkit-transform:translate3d(-750px, 0, 0);transform:translate3d(-750px, 0, 0)}}
+#collage {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    max-width: inherit;
+    overflow: hidden;
+    margin: 0;
+}
+#collage .photos {
+    position: absolute;
+    height: 100%;
+    width: 2250px;
+    background: transparent url(../images/collage.jpg) repeat-x left top;
+    -moz-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-animation: collage 60s linear infinite;
+    -moz-animation: collage 60s linear infinite;
+    -ms-animation: collage 60s linear infinite;
+    animation: collage 60s linear infinite;
+}
+
+#sponsors {
+	padding: 128px 0 80px !important;
+}
+#sponsors .sponsor {
+	text-align: center;
+	margin-bottom: 48px;
+}
+#sponsors img {
+	max-width: 75%;
+	max-height: 40px;
+	vertical-align: middle;
+}
+#sponsors p a {
+	font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #00B1B6;
+}
+
+#faq li {
+	margin-bottom: 48px;
+}
+#faq h4 {
+	color: #00B1B6;
+	font-weight: 600;
+	font-size: 22px;
+	margin-bottom: 12px;
+}
+#faq p {
+	font-size: 16px;
+	line-height: 24px;
+	color: rgba(0, 0, 0, 0.64);
+}
+#faq a {
+	color: #00B1B6;
+	text-decoration: underline;
+}
+#contact {
+	text-align: center;
+	color: #fff;
+	background: linear-gradient(180deg, #00A4D7, #00BD94);
+	background-color: #00B1B6;
+	background-size: 200% 200%;
+	-webkit-animation: gradientv 10s ease infinite;
+	-moz-animation: gradientv 10s ease infinite;
+	-o-animation: gradientv 10s ease infinite;
+	animation: gradientv 10s ease infinite;
+}
+#contact p {
+	font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#contact ul {
+	margin-top: 32px;
+}
+#contact ul li {
+	display: inline-block;
+	margin: 0 12px;
+}
+#contact ul li a {
+	color: #fff;
+	font-size: 24px;
+}
+@media screen and (max-width: 960px) {
+	.inner {
+		width: 80%;
+	}
+}
+@media screen and (max-width: 480px) {
+	#hero, #content .section {
+		padding: 64px 0;
+	}
+	#sponsors {
+		padding: 64px 0 16px !important;
+	}
+}
+@media screen and (max-width: 320px) {
+	#hero #logo-text {
+		width: 80%;
+	}
+}
