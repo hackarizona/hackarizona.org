@@ -38,7 +38,7 @@ body{
 	background-color: #ECECEC;
 }
 
-h1#title{
+h1 #title{
 	font-size: 4em;
 	font-family: 'Dosis', sans-serif;
 	font-weight: 400;
@@ -47,40 +47,13 @@ h1#title{
 	z-index: 10;
 }
 
-#title-svg{
-	display: block;
-	fill:#FCEEAF;
-	stroke:#333333;
-	stroke-width:2;
-	position: relative;
-}
-
-#navigation{
+header{
 	width: 100%;
-	display: inline-block;
-}
-
-#navigation #title-wrap{
-	width: 180px;
-	height: 70px;
-	float: left;
-	padding-top: 0px;
-	margin-left: 48px;
-}
-
-#navigation #title-wrap #title-idea{
-	float: left;
-	margin-top: 10px;
-	display: inline-block;
-}
-
-#navigation #title-wrap #title-lab{
-	float: left;
-	padding-top: 20px;
-	display: inline-block;
+	display: block;
 }
 
 #container{
+	clear: both;
 	margin: 16px auto;
 	width: 65%;
 	display: block;
@@ -228,7 +201,7 @@ input:focus {outline:none;}
 	border-top: 1px solid #E0E0E0;
 }
 
-#footer-imgs{
+.footer-imgs{
 	max-width: 300px;
 	max-height: 144px;
 	text-align: center;
