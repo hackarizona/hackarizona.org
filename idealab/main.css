@@ -164,12 +164,15 @@ input:focus {outline:none;}
 	text-align: center;
 }
 
-#email-wrap form input{
+#email-wrap input {
 	margin: 5px auto;
 	max-width: 300px;
+	height: 20px;
+	display: block;
+	text-align: center;	
 }
 
-#email-wrap form {
+#email-wrap form label {
 	margin-top: 30px;
 	margin-bottom: 0px;
 	text-align: center;	
@@ -177,7 +180,7 @@ input:focus {outline:none;}
 	display: block;
 }
 
-#form-button {
+.button{
 	display: block;
 	margin: 5px auto;
 	margin-top: 5px;
