@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i');
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,200,600,700);
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT:400,700);
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	outline: none;
+	border: none;
+	outline: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-webkit-text-size-adjust: 100%;
+}
+body {
+	background: #fff;
+}
+a {
+	color: #C06020;
+}
+a:hover {
+	text-decoration: underline;
+}
+#header {
+	/*padding: 128px 0;*/
+	/*border-bottom: 1px solid #ddd;*/
+	text-align: center;
+}
+#header #logo {
+	height: 96px;
+}
+#header h1 {
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    color: #C06020;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 48px;
+    margin-bottom: 24px;
+}
+#header p {
+	color: rgba(0, 0, 0, 0.64);
+	line-height: 28px;
+	font-size: 16px;
+	font-family: "Georgia", serif;
+	margin-bottom: 24px;
+	text-align: left;
+}
+#header h4 {
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 13px;
+	color: rgba(0, 0, 0, 0.64);
+	margin-bottom: 6px;
+	text-align: left;
+}
+#header ul {
+	text-align: left;
+}
+#header ul li {
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	display: inline-block;
+	margin: 0 12px 6px 0;
+}
+.inner {
+	width: 720px;
+	padding: 64px 0;
+	margin: 0 auto;
+}
+#winners li {
+	border-bottom: 1px solid #ddd;
+}
+#winners li.big {
+	background: #C06020;
+}
+#winners li h2 {
+	font-family: 'Old Standard TT', serif;
+	font-size: 32px;
+	margin-bottom: 16px;
+	color: #000;
+}
+#winners li.big h2 {
+	color: #fff;
+}
+#winners li.big h2 {
+	font-size: 64px;
+}
+#winners li h3 {
+	margin-bottom: 24px;
+	font-size: 24px;
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	color: rgba(0, 0, 0, 0.64);
+}
+#winners li h3 a {
+    color: #C06020;
+    text-decoration: underline;
+}
+#winners li.big a {
+	color: #fff;
+}
+#winners li.big h3 {
+	font-size: 24px;
+}
+#winners li p {
+	color: rgba(0, 0, 0, 0.64);
+	line-height: 32px;
+	font-size: 16px;
+	font-family: "Georgia", serif;
+	margin-bottom: 24px;
+}
+#winners li.big p {
+	color: rgba(255, 255, 255, 0.88);
+}
+#winners li.big p {
+	font-size: 18px;
+}
+#winners li p:last-of-type {
+	margin-bottom: 0;
+}
+.prizes {
+	margin: 24px 0 0;
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.prizes li {
+	color: rgba(0, 0, 0, 0.64);
+	border-bottom: none !important;
+	list-style: disc;
+	font-size: 16px;
+	margin-left: 24px;
+	line-height: 24px;
+}
+.prizes p {
+	font-weight: 700;
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.big .prizes li {
+	color: rgba(255, 255, 255, 0.88);
+}
+#contact {
+	text-align: center;
+	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+#contact li {
+	display: inline-block;
+	font-size: 28px;
+	margin: 0 12px;
+}
+@media screen and (max-width: 1024px) {
+	.inner {
+		width: 80%;
+		padding: 48px 0;
+	}
+}

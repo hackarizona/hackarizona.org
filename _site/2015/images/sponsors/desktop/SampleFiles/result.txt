@@ -1,0 +1,17 @@
+simpletest.bash Tests
+simpletest.bash found
+   Test 1 passed
+
+test.bash Tests
+test.bash found
+   Test 1 Failed
+   Test 2 Failed
+
+defaulttest.bash Tests
+defaulttest.bash found
+   Test 1 passed
+   Test 2 passed
+   Test 3 passed
+   Test 4 passed
+   Test 5 passed
+
