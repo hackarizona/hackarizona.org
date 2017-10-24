@@ -1,56 +1,54 @@
 {
-	"friday": {
-		"event": [{
+	"friday":[{
 				"name": "Check-In Open",
 				"time": "4:00pm"
-			}, {
+			},
+			{
 				"name": "Sponsor Exhibition Opens",
 				"time": "5:00pm"
 			},
 			{
 				"name": "Dinner",
 				"time": "6:30pm"
-			}, {
+			},
+			{
 				"name": "Opening Ceremony",
 				"time": "7:30pm"
-			}, {
+			},
+			{
 				"name": "Hacking Begins",
 				"time": "9:00pm"
-			}
-		]
-	},
-	"saturday": {
-		"event": [{
+			}],
+	"saturday":[{
 				"name": "Hacking",
 				"time": "All Day"
-			}, {
+			},
+			{
 				"name": "Tech Talks",
 				"time": "All Day"
 			},
 			{
 				"name": "Workshops",
 				"time": "All Day"
-			}, {
+			},
+			{
 				"name": "Activities",
 				"time": "All Day"
-			}, {
+			},
+			{
 				"name": "Sponsor Open Exhibition",
 				"time": "All Day"
-			}
-		]
-	},
-	"sunday": {
-		"event": [{
+			}],
+	"sunday":[{
 				"name": "Hacking Ends",
 				"time": "9:00am"
-			}, {
+			},
+			{
 				"name": "Demos & Judging",
 				"time": "10:00am"
 			},
 			{
 				"name": "Event Concludes",
 				"time": "1:00pm"
-			}
-		]
-	}
+			}]
 }
