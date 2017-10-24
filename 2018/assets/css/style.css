@@ -20,7 +20,7 @@ html, body {
 	width: 100%;
 }
 body {
-	background: #fff;
+	background: black;
 	font-family: "Karla", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .clear {
@@ -30,10 +30,13 @@ body {
 	width: 720px;
 	margin: 0 auto;
 }
+#header .inner p{
+	color: white;
+}
 #header {
 	width: 100%;
 	height: 48px;
-	background-image: linear-gradient(-270deg, #A17FC5 0%, #7C80C7 50%, #424876 100%);
+	background-image: linear-gradient(-270deg, #000000 0%, #424876 50%, #7C80C7 100%);
 	background-color: #C06020;
 	background-size: 200% 200%;
 	-webkit-animation: gradient 5s ease infinite;
@@ -53,9 +56,47 @@ body {
 #hero {
 	width: 100%;
 	height: auto;
-	background: #fff;
 	padding: 96px 0;
 	text-align: center;
+	background: black;
+}
+#hero:hover {
+	background-image: url("../images/desert_graphic.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	-webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 4s; /* Firefox < 16 */
+        -ms-animation: fadein 4s; /* Internet Explorer */
+         -o-animation: fadein 4s; /* Opera < 12.1 */
+            animation: fadein 4s;
+}
+@keyframes fadein {
+    from { opacity: .2; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: .2; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: .2; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: .2; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: .2; }
+    to   { opacity: 1; }
 }
 #hero #logo {
 	width: 128px;
@@ -67,7 +108,9 @@ body {
 	margin: 32px 0;
 }
 #hero h3 {
-	color: rgba(0, 0, 0, 0.64);
+/*	color: rgba(0, 0, 0, 0.64);
+*/	
+	color: white;
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 32px;
@@ -98,6 +141,7 @@ body {
 }
 #content {
 	color: #000;
+	background: white;
 }
 #content .section {
 	padding: 96px 0;
