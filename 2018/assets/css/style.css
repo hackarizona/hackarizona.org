@@ -398,7 +398,7 @@ body {
 }
 @media screen and (max-width: 960px) {
 	#hero {
-		width: 480%;
+		width: 100%;
 		opacity: 1;
 		height: auto;
 		padding: 96px 0;
