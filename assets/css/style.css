@@ -156,6 +156,7 @@ body {
 #hero #logo-text {
 	width: 128px;
 	margin: 32px 0;
+	padding-bottom: 64px;
 }
 #hero h3 {
 /*	color: rgba(0, 0, 0, 0.64);
