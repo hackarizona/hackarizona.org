@@ -61,7 +61,8 @@ body {
 		padding: 96px 0;
 		text-align: center;
 		background-image: url("../images/desert_graphic.jpg");
-		background-size: 100% 100%;
+		background-size: 100% 50%;
+		background-repeat: no-repeat;
 	}
 }
 @media screen and (min-width: 481px) {
@@ -73,6 +74,7 @@ body {
 		text-align: center;
 		background-image: url("../images/desert_graphic.jpg");
 		background-size: 100% 100%;
+		background-repeat: no-repeat;
 		-webkit-animation: fadeout 3s; /* Safari, Chrome and Opera > 12.1 */
 	   -moz-animation: fadeout 3s; /* Firefox < 16 */
 	    -ms-animation: fadeout 3s; /* Internet Explorer */
@@ -85,6 +87,7 @@ body {
 		opacity: 1;
 		background-image: url("../images/desert_graphic.jpg");
 		background-size: 100% 100%;
+		background-repeat: no-repeat;
 		-webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
 	   -moz-animation: fadein 3s; /* Firefox < 16 */
 	    -ms-animation: fadein 3s; /* Internet Explorer */
