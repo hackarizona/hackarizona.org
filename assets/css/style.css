@@ -53,9 +53,18 @@ body {
 	text-align: center;
 	line-height: 48px;
 }
+#hero #attribution{
+	top: 50%;
+	font-size: 10px;
+	text-align: right;
+}
+#hero #attribution a{
+	color: white;
+}
 @media screen and (max-width: 480px) {
 	#hero {
 		width: 100%;
+		position: relative;
 		opacity: 1;
 		height: auto;
 		padding: 96px 0;
@@ -63,6 +72,11 @@ body {
 		background-image: url("../images/desert_graphic.jpg");
 		background-size: 100% 45%;
 		background-repeat: no-repeat;
+	}
+	#hero #attribution {
+		position: absolute;
+		top: 43%;
+		right: 0;
 	}
 }
 @media screen and (min-width: 481px) {
