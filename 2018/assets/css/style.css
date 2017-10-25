@@ -137,17 +137,6 @@ body {
     from { opacity: 1; }
     to   { opacity: .4; }
 }
-@media only screen and (max-device-width: 480px) {
-	#hero {
-		width: 100%;
-		opacity: 1;
-		height: auto;
-		padding: 96px 0;
-		text-align: center;
-		background-image: url("../images/desert_graphic.jpg");
-		background-size: 100% 100%;
-	}
-}
 #hero #logo {
 	width: 128px;
 	display: block;
@@ -407,6 +396,18 @@ body {
 		width: 80%;
 	}
 }
+@media screen and (max-width: 960px) {
+	#hero {
+		width: 480%;
+		opacity: 1;
+		height: auto;
+		padding: 96px 0;
+		text-align: center;
+		background-image: url("../images/desert_graphic.jpg");
+		background-size: 100% 100%;
+	}
+}
+
 
 #coder-camps-logo {
   fill: #ff0000;
