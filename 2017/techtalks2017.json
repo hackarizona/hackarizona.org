@@ -1,0 +1,140 @@
+{
+	"friday":[{
+				"sponsor": "State Farm",
+                "talk": "Developing for Apple Watch",
+				"time": "9:00pm",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Google",
+                "talk": "Angular JS",
+                "time": "10:00pm",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Amazon",
+                "talk": "Developing for Alexa",
+                "time": "11:00pm",
+                "location": "SEL 501"
+			}],
+	"saturday":[{
+                "sponsor": "Microsoft",
+                "talk": "AR with Halo Lens",
+                "time": "12:00am",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Hack AZ Organizers",
+                "talk": "How to put on a Hackathon",
+                "time": "1:00am",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Hack AZ Organizer - Ian Tracey",
+                "talk": "What are APIs and how to use them",
+                "time": "9:00am",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Amadeus",
+                "talk": "Amadeus API",
+                "time": "10:00am",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "IBM",
+                "talk": "Getting started with IOT",
+                "time": "11:00am",
+                "location": "SEL 501"
+			},
+            {
+                "sponsor": "Intuit",
+                "talk": "Developing for Quickbooks",
+                "time": "12:00pm",
+                "location": "SEL 501"
+			},
+            {
+                "sponsor": "Recruiting AI",
+                "talk": "Understanding AI",
+                "time": "1:00pm",
+                "location": "SEL 501"
+			},
+            {
+                "sponsor": "Uber",
+                "talk": "Maps API",
+                "time": "2:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Recruiting AI",
+                "talk": "Understanding AI",
+                "time": "3:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "4:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "5:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "6:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "7:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "8:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "9:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "10:00pm",
+                "location": "SEL 501"
+            },
+            {
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "11:00pm",
+                "location": "SEL 501"
+            }],
+	"sunday":[{
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "12:00am",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "1:00am",
+                "location": "SEL 501"
+			},
+			{
+                "sponsor": "Demo",
+                "talk": "Demo",
+                "time": "2:00am",
+                "location": "SEL 501"
+			}]
+}
