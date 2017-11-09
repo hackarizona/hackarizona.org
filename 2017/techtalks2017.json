@@ -1,140 +1,92 @@
 {
 	"friday":[{
-				"sponsor": "State Farm",
-                "talk": "Developing for Apple Watch",
-				"time": "9:00pm",
-                "location": "SEL 501"
+				"sponsor": "Raytheon",
+                "talk": "Vulnerabilities of the Parrot AR.Drone 2.0",
+				"time": "9:30pm",
+                "location": "SEL 5th floor"
 			},
 			{
                 "sponsor": "Google",
-                "talk": "Angular JS",
+                "talk": "Intro to Google's API's",
                 "time": "10:00pm",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
 			},
 			{
-                "sponsor": "Amazon",
-                "talk": "Developing for Alexa",
+                "sponsor": "Sunquest",
+                "talk": "Aigile Project Management with Trello",
                 "time": "11:00pm",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
 			}],
 	"saturday":[{
-                "sponsor": "Microsoft",
-                "talk": "AR with Halo Lens",
+                "sponsor": "State Farm",
+                "talk": "Making a Chat Bot",
                 "time": "12:00am",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
 			},
 			{
-                "sponsor": "Hack AZ Organizers",
-                "talk": "How to put on a Hackathon",
-                "time": "1:00am",
-                "location": "SEL 501"
-			},
-			{
-                "sponsor": "Hack AZ Organizer - Ian Tracey",
-                "talk": "What are APIs and how to use them",
-                "time": "9:00am",
-                "location": "SEL 501"
-			},
-			{
-                "sponsor": "Amadeus",
-                "talk": "Amadeus API",
-                "time": "10:00am",
-                "location": "SEL 501"
+                "sponsor": "Latitude",
+                "talk": "Getting your feet wet with desktop apps",
+                "time": "2:00am",
+                "location": "SEL 5th floor"
 			},
 			{
                 "sponsor": "IBM",
-                "talk": "Getting started with IOT",
-                "time": "11:00am",
-                "location": "SEL 501"
+                "talk": "Build IoT with Watson",
+                "time": "10:00am",
+                "location": "SEL 5th floor"
 			},
-            {
-                "sponsor": "Intuit",
-                "talk": "Developing for Quickbooks",
-                "time": "12:00pm",
-                "location": "SEL 501"
+			{
+                "sponsor": "Microsoft",
+                "talk": "Creating Holographie Experiences with HoloLens",
+                "time": "11:00am",
+                "location": "SEL 5th floor"
+			},
+			{
+                "sponsor": "Coder Camps",
+                "talk": "Hacking Social Media for Fun and Profit",
+                "time": "2:00pm",
+                "location": "SEL 5th floor"
 			},
             {
                 "sponsor": "Recruiting AI",
-                "talk": "Understanding AI",
-                "time": "1:00pm",
-                "location": "SEL 501"
+                "talk": "Conversational Agents",
+                "time": "4:00pm",
+                "location": "SEL 5th floor"
 			},
             {
-                "sponsor": "Uber",
-                "talk": "Maps API",
-                "time": "2:00pm",
-                "location": "SEL 501"
+                "sponsor": "Amazon",
+                "talk": "Instant Hadoop with Common Crawl",
+                "time": "5:00pm",
+                "location": "SEL 5th floor"
             },
             {
-                "sponsor": "Recruiting AI",
-                "talk": "Understanding AI",
-                "time": "3:00pm",
-                "location": "SEL 501"
+                "sponsor": "Google",
+                "talk": "Angular 2 with TypeScript, Firebase and RxJS",
+                "time": "7:00pm",
+                "location": "SEL 5th floor"
             },
             {
                 "sponsor": "Demo",
                 "talk": "Demo",
                 "time": "4:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "5:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "6:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "7:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "8:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "9:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "10:00pm",
-                "location": "SEL 501"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "11:00pm",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
             }],
 	"sunday":[{
-                "sponsor": "Demo",
-                "talk": "Demo",
+                "sponsor": "How to win Hackathons",
+                "talk": "Intuit",
                 "time": "12:00am",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
 			},
 			{
-                "sponsor": "Demo",
-                "talk": "Demo",
+                "sponsor": "Hivemetric",
+                "talk": "Hack to Business: What Comes Next",
                 "time": "1:00am",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
 			},
 			{
-                "sponsor": "Demo",
-                "talk": "Demo",
+                "sponsor": "McGuire Center",
+                "talk": "Star Wars: Rogue Entrepreneur",
                 "time": "2:00am",
-                "location": "SEL 501"
+                "location": "SEL 5th floor"
 			}]
 }
