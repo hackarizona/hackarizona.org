@@ -195,8 +195,8 @@
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "5:00 PM",
-            "eventtitle": "Instant Hadoop w/ Common Crawl",
-            "subtitle": "by Amazon",
+            "eventtitle": "Instant Hadoop w/",
+            "subtitle": "Common Crawl by Amazon",
             "location": "SEL 5th Floor"
         },
         {
@@ -211,7 +211,7 @@
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "7:00 PM",
-            "eventtitle": "Angular 2 w/ Google Platforms",
+            "eventtitle": "Angular 2 w/ Google",
             "subtitle": "by Google",
             "location": "SEL 5th Floor"
         },
@@ -235,7 +235,7 @@
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "11:00 PM",
-            "eventtitle": "Deploy Node.js to Azure using bash",
+            "eventtitle": "Deploy Node.js to Azure",
             "subtitle": "by Microsoft",
             "location": "SEL 5th Floor"
         },
@@ -251,7 +251,7 @@
             "eventtype": "techtalk",
             "day": "sunday",
             "time": "1:00 AM",
-            "eventtitle": "Hack to Business: What Comes Next",
+            "eventtitle": "Hack to Business",
             "subtitle": "by Hivemetric",
             "location": "SEL 5th Floor"
         },
@@ -259,7 +259,7 @@
             "eventtype": "techtalk",
             "day": "sunday",
             "time": "2:00 AM",
-            "eventtitle": "Star Wars: Rogue Entrepreneur",
+            "eventtitle": "Rogue Entrepreneur",
             "subtitle": "by McGuire Center",
             "location": "SEL 5th Floor"
         },
@@ -275,7 +275,7 @@
             "eventtype": "activity",
             "day": "sunday",
             "time": "9:00 AM",
-            "eventtitle": "Cyber Awareness Challenge Demo",
+            "eventtitle": "Cyber Awareness Challenge",
             "subtitle": "Raytheon",
             "location": "Bear Down Field"
         },
