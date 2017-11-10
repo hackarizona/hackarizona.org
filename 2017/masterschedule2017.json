@@ -67,7 +67,7 @@
             "eventtype": "techtalk",
             "day": "friday",
             "time": "11:00 PM",
-            "eventtitle": "Agile PM w/ Trello",
+            "eventtitle": "Agile PM w- Trello",
             "subtitle": "by Sunquest",
             "location": "SEL 5th Floor"
         },
@@ -96,7 +96,7 @@
             "location": "West of SEL"
         },
         {
-            "eventtype": "activity ",
+            "eventtype": "activity",
             "day": "saturday",
             "time": "9:00 AM",
             "eventtitle": "Yoga",
@@ -115,7 +115,7 @@
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "11:00 AM",
-            "eventtitle": "Create scenes w/ HaloLens",
+            "eventtitle": "Create scenes w- HaloLens",
             "subtitle": "by Microsoft",
             "location": "SEL 5th Floor"
         },
@@ -195,7 +195,7 @@
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "5:00 PM",
-            "eventtitle": "Instant Hadoop w/",
+            "eventtitle": "Instant Hadoop w-",
             "subtitle": "Common Crawl by Amazon",
             "location": "SEL 5th Floor"
         },
@@ -211,7 +211,7 @@
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "7:00 PM",
-            "eventtitle": "Angular 2 w/ Google",
+            "eventtitle": "Angular 2 w- Google",
             "subtitle": "by Google",
             "location": "SEL 5th Floor"
         },
