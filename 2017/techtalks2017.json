@@ -64,16 +64,10 @@
                 "talk": "Angular 2 with TypeScript, Firebase and RxJS",
                 "time": "7:00pm",
                 "location": "SEL 5th floor"
-            },
-            {
-                "sponsor": "Demo",
-                "talk": "Demo",
-                "time": "4:00pm",
-                "location": "SEL 5th floor"
             }],
 	"sunday":[{
-                "sponsor": "How to win Hackathons",
-                "talk": "Intuit",
+                "sponsor": "Intuit",
+                "talk": "How to win Hackathons",
                 "time": "12:00am",
                 "location": "SEL 5th floor"
 			},
