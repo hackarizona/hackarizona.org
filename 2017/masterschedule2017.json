@@ -4,6 +4,7 @@
             "day": "friday",
             "time": "5:00 PM",
             "eventtitle": "Check-In",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -11,6 +12,7 @@
             "day": "friday",
             "time": "5:00 PM",
             "eventtitle": "Sponsor Exhibition",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -18,6 +20,7 @@
             "day": "friday",
             "time": "6:30 PM",
             "eventtitle": "Reception Dinner",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -25,6 +28,7 @@
             "day": "friday",
             "time": "7:30 PM",
             "eventtitle": "Opening Ceremony",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -32,6 +36,7 @@
             "day": "friday",
             "time": "9:00 PM",
             "eventtitle": "Hacking Begins",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -39,41 +44,47 @@
             "day": "friday",
             "time": "9:00 PM",
             "eventtitle": "Team Formation & Pitch Pit",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
             "eventtype": "techtalk",
             "day": "friday",
             "time": "9:30 PM",
-            "eventtitle": "Cyber Awareness: Vulnerabilities of the Parrot AR.Drone 2.0.",
+            "eventtitle": "Cyber Awareness: ",
+            "subtitle":"Parrot AR.Drone 2 Exploits",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "friday",
             "time": "10:00 PM",
-            "eventtitle": "Introduction to APIs by Google",
+            "eventtitle": "Intro to APIs by Google",
+            "subtitle": "",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "friday",
             "time": "11:00 PM",
-            "eventtitle": "Simple Agile Project Management with Trello By Sunquest",
+            "eventtitle": "Agile PM w/ Trello",
+            "subtitle": "by Sunquest",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "friday",
             "time": "11:59 PM",
-            "eventtitle": "Making a Chat Bot by State Farm",
+            "eventtitle": "Making a Chat Bot",
+            "subtitle": "by State Farm",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "2:00 AM",
-            "eventtitle": "Electron: getting your feet wet with desktop apps by Latitude",
+            "eventtitle": "Intro to desktop apps",
+            "subtitle": "by Latitude",
             "location": "SEL 5th Floor"
         },
         {
@@ -81,6 +92,7 @@
             "day": "saturday",
             "time": "8:00 AM",
             "eventtitle": "Breakfast",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
@@ -88,20 +100,23 @@
             "day": "saturday",
             "time": "9:00 AM",
             "eventtitle": "Yoga",
+            "subtitle": "",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "10:00 AM",
-            "eventtitle": "Learn to build Internet of Things app using IBM's Watson IoT Platform by IBM",
+            "eventtitle": "Build IoT using Watson",
+            "subtitle": "by IBM",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "11:00 AM",
-            "eventtitle": "Creating Holographic Experiences with Microsoft HoloLens by Microsoft",
+            "eventtitle": "Create scenes w/ HaloLens",
+            "subtitle": "by Microsoft",
             "location": "SEL 5th Floor"
         },
         {
@@ -109,6 +124,7 @@
             "day": "saturday",
             "time": "12:00 PM",
             "eventtitle": "5-Hour Energy",
+            "subtitle": "",
             "location": "SEL"
         },
         {
@@ -116,6 +132,7 @@
             "day": "saturday",
             "time": "12:00 PM",
             "eventtitle": "Therapy Dogs",
+            "subtitle": "",
             "location": "SEL"
         },
         {
@@ -123,6 +140,7 @@
             "day": "saturday",
             "time": "12:00 PM",
             "eventtitle": "Luncheon",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
@@ -130,20 +148,23 @@
             "day": "saturday",
             "time": "1:00 PM",
             "eventtitle": "MLH !Light",
+            "subtitle": "",
             "location": "SEL 1st Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "2:00 PM",
-            "eventtitle": "Hacking Social Media for Fun and Profit by Coder Camps",
+            "eventtitle": "Hacking Social Media 4 Fun",
+            "subtitle": "by Coder Camps",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "activity",
             "day": "saturday",
             "time": "3:00 PM",
-            "eventtitle": "Smash Bros Melee Tournament",
+            "eventtitle": "Smash Bros Melee Tourney",
+            "subtitle": "",
             "location": "SEL 1st Floor"
         },
         {
@@ -151,6 +172,7 @@
             "day": "saturday",
             "time": "3:00 PM",
             "eventtitle": "VR Game Station",
+            "subtitle": "",
             "location": "SEL Main Floor"
         },
         {
@@ -158,20 +180,23 @@
             "day": "saturday",
             "time": "4:00 PM",
             "eventtitle": "Board Game Tournament",
+            "subtitle": "",
             "location": "SEL 1st Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "4:00 PM",
-            "eventtitle": "Conversational Agents by Recruiting.Ai",
+            "eventtitle": "Conversational Agents",
+            "subtitle": "by Recruiting.Ai",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "5:00 PM",
-            "eventtitle": "Instant Hadoop with Common Crawl by Amazon",
+            "eventtitle": "Instant Hadoop w/ Common Crawl",
+            "subtitle": "by Amazon",
             "location": "SEL 5th Floor"
         },
         {
@@ -179,20 +204,23 @@
             "day": "saturday",
             "time": "6:30 PM",
             "eventtitle": "Dinner",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "7:00 PM",
-            "eventtitle": "Angular 2 with TypeScript, Firebase, and RxJS by Google",
+            "eventtitle": "Angular 2 w/ Google Platforms",
+            "subtitle": "by Google",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "activity",
             "day": "saturday",
             "time": "8:00 PM",
-            "eventtitle": "Raytheon Drone Obstacle Course",
+            "eventtitle": "Drone Obstacle Course",
+            "subtitle": "Raytheon",
             "location": "Bear Down Field"
         },
         {
@@ -200,34 +228,39 @@
             "day": "saturday",
             "time": "9:00 PM",
             "eventtitle": "Hypnotist",
+            "subtitle": "",
             "location": "SEL Main Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "11:00 PM",
-            "eventtitle": "Using the Bash Shell in Windows 10 to deploy a Node.js application to Azure by Microsoft",
+            "eventtitle": "Deploy Node.js to Azure using bash",
+            "subtitle": "by Microsoft",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "saturday",
             "time": "11:59 PM",
-            "eventtitle": "How to Win Hackathons by Intuit",
+            "eventtitle": "How to Win Hackathons",
+            "subtitle": "by Intuit",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "sunday",
             "time": "1:00 AM",
-            "eventtitle": "Hack to Business: What Comes Next by Hivemetric",
+            "eventtitle": "Hack to Business: What Comes Next",
+            "subtitle": "by Hivemetric",
             "location": "SEL 5th Floor"
         },
         {
             "eventtype": "techtalk",
             "day": "sunday",
             "time": "2:00 AM",
-            "eventtitle": "Star Wars: Rogue Entrepreneur by McGuire Center for Entreprenuership ",
+            "eventtitle": "Star Wars: Rogue Entrepreneur",
+            "subtitle": "by McGuire Center",
             "location": "SEL 5th Floor"
         },
         {
@@ -235,13 +268,15 @@
             "day": "sunday",
             "time": "8:00 AM",
             "eventtitle": "Breakfast",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
             "eventtype": "activity",
             "day": "sunday",
             "time": "9:00 AM",
-            "eventtitle": "Raytheon Cyber Awareness Challenge Demo",
+            "eventtitle": "Cyber Awareness Challenge Demo",
+            "subtitle": "Raytheon",
             "location": "Bear Down Field"
         },
         {
@@ -249,6 +284,7 @@
             "day": "sunday",
             "time": "9:00 AM",
             "eventtitle": "Hacking Ends",
+            "subtitle": "",
             "location": "SEL"
         },
         {
@@ -256,6 +292,7 @@
             "day": "sunday",
             "time": "10:00 AM",
             "eventtitle": "Judging",
+            "subtitle": "",
             "location": "Grand Ballroom"
         },
         {
@@ -263,6 +300,7 @@
             "day": "sunday",
             "time": "12:30 PM",
             "eventtitle": "Popular Voting",
+            "subtitle": "",
             "location": "Grand Ballroom"
         },
         {
@@ -270,6 +308,7 @@
             "day": "sunday",
             "time": "1:00 PM",
             "eventtitle": "Event Concludes",
+            "subtitle": "",
             "location": "Grand Ballroom"
         }]
 }
