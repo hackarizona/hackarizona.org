@@ -4,7 +4,7 @@
             "day": "friday",
             "time": "5:00 PM",
             "eventtitle": "Check-In",
-            "subtitle":"na",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -12,7 +12,7 @@
             "day": "friday",
             "time": "5:00 PM",
             "eventtitle": "Sponsor Exhibition",
-            "subtitle":"na",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -20,7 +20,7 @@
             "day": "friday",
             "time": "6:30 PM",
             "eventtitle": "Reception Dinner",
-            "subtitle":"na",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -28,7 +28,7 @@
             "day": "friday",
             "time": "7:30 PM",
             "eventtitle": "Opening Ceremony",
-            "subtitle":"na",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -36,7 +36,7 @@
             "day": "friday",
             "time": "9:00 PM",
             "eventtitle": "Hacking Begins",
-            "subtitle":"na",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -44,7 +44,7 @@
             "day": "friday",
             "time": "9:00 PM",
             "eventtitle": "Team Formation & Pitch Pit",
-            "subtitle":"na",
+            "subtitle":"",
             "location": "Centennial"
         },
         {
@@ -92,7 +92,7 @@
             "day": "saturday",
             "time": "8:00 AM",
             "eventtitle": "Breakfast",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
@@ -100,7 +100,7 @@
             "day": "saturday",
             "time": "9:00 AM",
             "eventtitle": "Yoga",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL 5th Floor"
         },
         {
@@ -124,7 +124,7 @@
             "day": "saturday",
             "time": "12:00 PM",
             "eventtitle": "5-Hour Energy",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL"
         },
         {
@@ -132,7 +132,7 @@
             "day": "saturday",
             "time": "12:00 PM",
             "eventtitle": "Therapy Dogs",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL"
         },
         {
@@ -140,7 +140,7 @@
             "day": "saturday",
             "time": "12:00 PM",
             "eventtitle": "Luncheon",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
@@ -148,7 +148,7 @@
             "day": "saturday",
             "time": "1:00 PM",
             "eventtitle": "MLH !Light",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL 1st Floor"
         },
         {
@@ -164,7 +164,7 @@
             "day": "saturday",
             "time": "3:00 PM",
             "eventtitle": "Smash Bros Melee Tourney",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL 1st Floor"
         },
         {
@@ -172,7 +172,7 @@
             "day": "saturday",
             "time": "3:00 PM",
             "eventtitle": "VR Game Station",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL Main Floor"
         },
         {
@@ -180,7 +180,7 @@
             "day": "saturday",
             "time": "4:00 PM",
             "eventtitle": "Board Game Tournament",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL 1st Floor"
         },
         {
@@ -204,7 +204,7 @@
             "day": "saturday",
             "time": "6:30 PM",
             "eventtitle": "Dinner",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
@@ -228,7 +228,7 @@
             "day": "saturday",
             "time": "9:00 PM",
             "eventtitle": "Hypnotist",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL Main Floor"
         },
         {
@@ -268,7 +268,7 @@
             "day": "sunday",
             "time": "8:00 AM",
             "eventtitle": "Breakfast",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "West of SEL"
         },
         {
@@ -284,7 +284,7 @@
             "day": "sunday",
             "time": "9:00 AM",
             "eventtitle": "Hacking Ends",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "SEL"
         },
         {
@@ -292,7 +292,7 @@
             "day": "sunday",
             "time": "10:00 AM",
             "eventtitle": "Judging",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "Grand Ballroom"
         },
         {
@@ -300,7 +300,7 @@
             "day": "sunday",
             "time": "12:30 PM",
             "eventtitle": "Popular Voting",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "Grand Ballroom"
         },
         {
@@ -308,7 +308,7 @@
             "day": "sunday",
             "time": "1:00 PM",
             "eventtitle": "Event Concludes",
-            "subtitle": "na",
+            "subtitle": "",
             "location": "Grand Ballroom"
         }]
 }
