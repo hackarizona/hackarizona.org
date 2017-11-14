@@ -1,0 +1,314 @@
+{
+    "schedule":[{
+            "eventtype": "required",
+            "day": "friday",
+            "time": "5:00 PM",
+            "eventtitle": "Check-In",
+            "subtitle":"",
+            "location": "Centennial"
+        },
+        {
+            "eventtype": "required",
+            "day": "friday",
+            "time": "5:00 PM",
+            "eventtitle": "Sponsor Exhibition",
+            "subtitle":"",
+            "location": "Centennial"
+        },
+        {
+            "eventtype": "food",
+            "day": "friday",
+            "time": "6:30 PM",
+            "eventtitle": "Reception Dinner",
+            "subtitle":"",
+            "location": "Centennial"
+        },
+        {
+            "eventtype": "required",
+            "day": "friday",
+            "time": "7:30 PM",
+            "eventtitle": "Opening Ceremony",
+            "subtitle":"",
+            "location": "Centennial"
+        },
+        {
+            "eventtype": "required",
+            "day": "friday",
+            "time": "9:00 PM",
+            "eventtitle": "Hacking Begins",
+            "subtitle":"",
+            "location": "Centennial"
+        },
+        {
+            "eventtype": "activity",
+            "day": "friday",
+            "time": "9:00 PM",
+            "eventtitle": "Team Formation & Pitch Pit",
+            "subtitle":"",
+            "location": "Centennial"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "friday",
+            "time": "9:30 PM",
+            "eventtitle": "Cyber Awareness: ",
+            "subtitle":"Parrot AR.Drone 2 Exploits",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "friday",
+            "time": "10:00 PM",
+            "eventtitle": "Intro to APIs",
+            "subtitle": "by Google",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "friday",
+            "time": "11:00 PM",
+            "eventtitle": "Agile PM w- Trello",
+            "subtitle": "by Sunquest",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "friday",
+            "time": "11:59 PM",
+            "eventtitle": "Making a Chat Bot",
+            "subtitle": "by State Farm",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "2:00 AM",
+            "eventtitle": "Intro to desktop apps",
+            "subtitle": "by Latitude",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "food",
+            "day": "saturday",
+            "time": "8:00 AM",
+            "eventtitle": "Breakfast",
+            "subtitle": "",
+            "location": "West of SEL"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "9:00 AM",
+            "eventtitle": "Yoga",
+            "subtitle": "",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "10:00 AM",
+            "eventtitle": "Build IoT using Watson",
+            "subtitle": "by IBM",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "11:00 AM",
+            "eventtitle": "Create scenes w- HaloLens",
+            "subtitle": "by Microsoft",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "12:00 PM",
+            "eventtitle": "5-Hour Energy",
+            "subtitle": "",
+            "location": "SEL"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "12:00 PM",
+            "eventtitle": "Therapy Dogs",
+            "subtitle": "",
+            "location": "SEL"
+        },
+        {
+            "eventtype": "food",
+            "day": "saturday",
+            "time": "12:00 PM",
+            "eventtitle": "Luncheon",
+            "subtitle": "",
+            "location": "West of SEL"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "1:00 PM",
+            "eventtitle": "MLH !Light",
+            "subtitle": "",
+            "location": "SEL 1st Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "2:00 PM",
+            "eventtitle": "Hacking Social Media 4 Fun",
+            "subtitle": "by Coder Camps",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "3:00 PM",
+            "eventtitle": "Smash Bros Melee Tourney",
+            "subtitle": "",
+            "location": "SEL 1st Floor"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "3:00 PM",
+            "eventtitle": "VR Game Station",
+            "subtitle": "",
+            "location": "SEL Main Floor"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "4:00 PM",
+            "eventtitle": "Board Game Tournament",
+            "subtitle": "",
+            "location": "SEL 1st Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "4:00 PM",
+            "eventtitle": "Conversational Agents",
+            "subtitle": "by Recruiting.Ai",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "5:00 PM",
+            "eventtitle": "Instant Hadoop w-",
+            "subtitle": "Common Crawl by Amazon",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "food",
+            "day": "saturday",
+            "time": "6:30 PM",
+            "eventtitle": "Dinner",
+            "subtitle": "",
+            "location": "West of SEL"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "7:00 PM",
+            "eventtitle": "Angular 2",
+            "subtitle": "by Google",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "8:00 PM",
+            "eventtitle": "Drone Obstacle Course",
+            "subtitle": "Raytheon",
+            "location": "Bear Down Field"
+        },
+        {
+            "eventtype": "activity",
+            "day": "saturday",
+            "time": "9:00 PM",
+            "eventtitle": "Hypnotist",
+            "subtitle": "",
+            "location": "SEL Main Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "11:00 PM",
+            "eventtitle": "Deploy Node.js to Azure",
+            "subtitle": "by Microsoft",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "saturday",
+            "time": "11:59 PM",
+            "eventtitle": "How to Win Hackathons",
+            "subtitle": "by Intuit",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "sunday",
+            "time": "1:00 AM",
+            "eventtitle": "Hack to Business",
+            "subtitle": "by Hivemetric",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "techtalk",
+            "day": "sunday",
+            "time": "2:00 AM",
+            "eventtitle": "Rogue Entrepreneur",
+            "subtitle": "by McGuire Center",
+            "location": "SEL 5th Floor"
+        },
+        {
+            "eventtype": "food",
+            "day": "sunday",
+            "time": "8:00 AM",
+            "eventtitle": "Breakfast",
+            "subtitle": "",
+            "location": "West of SEL"
+        },
+        {
+            "eventtype": "activity",
+            "day": "sunday",
+            "time": "9:00 AM",
+            "eventtitle": "Cyber Awareness Challenge",
+            "subtitle": "Raytheon",
+            "location": "Bear Down Field"
+        },
+        {
+            "eventtype": "required",
+            "day": "sunday",
+            "time": "9:00 AM",
+            "eventtitle": "Hacking Ends",
+            "subtitle": "",
+            "location": "SEL"
+        },
+        {
+            "eventtype": "required",
+            "day": "sunday",
+            "time": "10:00 AM",
+            "eventtitle": "Judging",
+            "subtitle": "",
+            "location": "Grand Ballroom"
+        },
+        {
+            "eventtype": "required",
+            "day": "sunday",
+            "time": "12:30 PM",
+            "eventtitle": "Popular Voting",
+            "subtitle": "",
+            "location": "Grand Ballroom"
+        },
+        {
+            "eventtype": "required",
+            "day": "sunday",
+            "time": "1:00 PM",
+            "eventtitle": "Event Concludes",
+            "subtitle": "",
+            "location": "Grand Ballroom"
+        }]
+}
