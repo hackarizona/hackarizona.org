@@ -1,5 +1,5 @@
 {
-    "schedule":[{
+    "friday":[{
             "eventtype": "required",
             "day": "friday",
             "time": "5:00 PM",
@@ -86,8 +86,8 @@
             "eventtitle": "Intro to desktop apps",
             "subtitle": "by Latitude",
             "location": "SEL 5th Floor"
-        },
-        {
+        }],
+    "saturday":[{
             "eventtype": "food",
             "day": "saturday",
             "time": "8:00 AM",
@@ -246,8 +246,8 @@
             "eventtitle": "How to Win Hackathons",
             "subtitle": "by Intuit",
             "location": "SEL 5th Floor"
-        },
-        {
+        }],
+    "sunday":[{
             "eventtype": "techtalk",
             "day": "sunday",
             "time": "1:00 AM",
