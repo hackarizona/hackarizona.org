@@ -1,0 +1,92 @@
+{
+	"friday":[{
+				"workshop": "Into to Web Dev",
+				"time": "10:30pm",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Into to VR games",
+				"time": "10:30pm",
+				"location": "Room 2"
+			}],
+	"saturday":[{
+				"workshop": "Into to JavaScript",
+				"time": "12:30am",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Into to OOP in Java",
+				"time": "12:30am",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Into to Python",
+				"time": "8:30am",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Into to Ruby on Rails",
+				"time": "8:30am",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Into to Python Django",
+				"time": "10:30am",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Into to iOS Dev w/ Swift",
+				"time": "10:30am",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Advanced HTML & CSS",
+				"time": "12:30pm",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Intro to Scala",
+				"time": "12:30pm",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Bootstap Web Framework",
+				"time": "2:30pm",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Node.js (or similar)",
+				"time": "2:30pm",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Building Amazon Alexa apps",
+				"time": "4:30pm",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Databases (Mongo or similar)",
+				"time": "4:30pm",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Stat analysys in R",
+				"time": "8:30pm",
+				"location": "Room 1"
+			},
+			{
+				"workshop": "Intro to Android in Java",
+				"time": "8:30pm",
+				"location": "Room 2"
+			},
+			{
+				"workshop": "Deploying websites and security",
+				"time": "10:30pm",
+				"location": "Room 1"
+			}],
+	"sunday":[{
+				"workshop": "",
+				"time": "",
+				"location": ""
+			}]
+}
