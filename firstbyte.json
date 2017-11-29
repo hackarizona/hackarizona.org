@@ -1,41 +1,41 @@
 {
 	"friday":[{
-				"workshop": "Into to Web Dev",
+				"workshop": "Intro to Web Dev",
 				"time": "10:30pm",
 				"location": "Room 1"
 			},
 			{
-				"workshop": "Into to VR games",
+				"workshop": "Intro to VR games",
 				"time": "10:30pm",
 				"location": "Room 2"
 			}],
 	"saturday":[{
-				"workshop": "Into to JavaScript",
+				"workshop": "Intro to JavaScript",
 				"time": "12:30am",
 				"location": "Room 1"
 			},
 			{
-				"workshop": "Into to OOP in Java",
+				"workshop": "Intro to OOP in Java",
 				"time": "12:30am",
 				"location": "Room 2"
 			},
 			{
-				"workshop": "Into to Python",
+				"workshop": "Intro to Python",
 				"time": "8:30am",
 				"location": "Room 1"
 			},
 			{
-				"workshop": "Into to Ruby on Rails",
+				"workshop": "Intro to Ruby on Rails",
 				"time": "8:30am",
 				"location": "Room 2"
 			},
 			{
-				"workshop": "Into to Python Django",
+				"workshop": "Intro to Python Django",
 				"time": "10:30am",
 				"location": "Room 1"
 			},
 			{
-				"workshop": "Into to iOS Dev w/ Swift",
+				"workshop": "Intro to iOS Dev w/ Swift",
 				"time": "10:30am",
 				"location": "Room 2"
 			},
