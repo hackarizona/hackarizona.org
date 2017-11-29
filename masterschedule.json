@@ -179,7 +179,7 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "11:00 AM",
-				"eventtitle": "Create scenes w- HaloLens",
+				"eventtitle": "Create scenes w/ HaloLens",
 				"subtitle": "by Microsoft",
 				"location": "SEL 5th Floor"
 			},
@@ -299,8 +299,8 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "4:30 PM",
-				"eventtitle": "Databases (Mongo or similar)",
-				"subtitle": "",
+				"eventtitle": "Databases",
+				"subtitle": "(Mongo or similar)",
 				"location": "Room 2"
 			},
 			{
@@ -363,8 +363,8 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "10:30 PM",
-				"eventtitle": "Deploying websites & security",
-				"subtitle": "",
+				"eventtitle": "Deploying websites",
+				"subtitle": "& security",
 				"location": "Room 1"
 			},
 			{
