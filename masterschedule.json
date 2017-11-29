@@ -19,7 +19,7 @@
                 "eventtype": "food",
                 "day": "friday",
                 "time": "6:30 PM",
-                "eventtitle": "Reception Dinner",
+                "eventtitle": "Dinner",
                 "subtitle":"",
                 "location": "Centennial"
             },
@@ -139,7 +139,7 @@
                 "eventtype": "food",
                 "day": "saturday",
                 "time": "12:00 PM",
-                "eventtitle": "Luncheon",
+                "eventtitle": "Lunch",
                 "subtitle": "",
                 "location": "West of SEL"
             },
