@@ -60,7 +60,7 @@
 				"location": "Room 2"
 			},
 			{
-				"workshop": "Building Amazon Alexa apps",
+				"workshop": "Building Amazon Alexa Apps",
 				"time": "4:30pm",
 				"location": "Room 1"
 			},
@@ -80,13 +80,13 @@
 				"location": "Room 2"
 			},
 			{
-				"workshop": "Deploying websites and security",
+				"workshop": "Deploying websites & security",
 				"time": "10:30pm",
 				"location": "Room 1"
 			}],
 	"sunday":[{
-				"workshop": "",
-				"time": "",
-				"location": ""
+				"workshop": "TBA",
+				"time": "TBA",
+				"location": "TBA"
 			}]
 }

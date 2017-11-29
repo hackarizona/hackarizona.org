@@ -63,6 +63,22 @@
                 "subtitle": "by Google",
                 "location": "SEL 5th Floor"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "friday",
+				"time": "10:30 PM",
+				"eventtitle": "Intro to Web Dev",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "friday",
+				"time": "10:30 PM",
+				"eventtitle": "Intro to VR Games",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "techtalk",
                 "day": "friday",
@@ -88,6 +104,22 @@
                 "location": "SEL 5th Floor"
             }],
     "saturday":[{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "12:30 AM",
+				"eventtitle": "Intro to JavaScript",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "12:30 AM",
+				"eventtitle": "Intro to OOP in Java",
+				"subtitle": "",
+				"location": "Room 2"
+			},
+			{
                 "eventtype": "food",
                 "day": "saturday",
                 "time": "8:00 AM",
@@ -95,6 +127,22 @@
                 "subtitle": "",
                 "location": "West of SEL"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "8:30 AM",
+				"eventtitle": "Intro to Python",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "8:30 AM",
+				"eventtitle": "Intro to Ruby on Rails",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "activity",
                 "day": "saturday",
@@ -111,6 +159,22 @@
                 "subtitle": "by IBM",
                 "location": "SEL 5th Floor"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "10:30 AM",
+				"eventtitle": "Intro to Python Django",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "10:30 AM",
+				"eventtitle": "Intro to iOS Dev w/ Swift",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "techtalk",
                 "day": "saturday",
@@ -143,6 +207,22 @@
                 "subtitle": "",
                 "location": "West of SEL"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "12:30 PM",
+				"eventtitle": "Advanced HTML & CSS",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "12:30 PM",
+				"eventtitle": "Intro to Scala",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "activity",
                 "day": "saturday",
@@ -159,6 +239,22 @@
                 "subtitle": "by Coder Camps",
                 "location": "SEL 5th Floor"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "2:30 PM",
+				"eventtitle": "Bootstap Web Framework",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "2:30 PM",
+				"eventtitle": "Node.js (or similar)",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "activity",
                 "day": "saturday",
@@ -191,6 +287,22 @@
                 "subtitle": "by Recruiting.Ai",
                 "location": "SEL 5th Floor"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "4:30 PM",
+				"eventtitle": "Building Amazon Alexa Apps",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "4:30 PM",
+				"eventtitle": "Databases (Mongo or similar)",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "techtalk",
                 "day": "saturday",
@@ -223,6 +335,22 @@
                 "subtitle": "Raytheon",
                 "location": "Bear Down Field"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "8:30 PM",
+				"eventtitle": "Stat analysys in R",
+				"subtitle": "",
+				"location": "Room 1"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "8:30 PM",
+				"eventtitle": "Intro to Android in Java",
+				"subtitle": "",
+				"location": "Room 2"
+			},
             {
                 "eventtype": "activity",
                 "day": "saturday",
@@ -231,6 +359,14 @@
                 "subtitle": "",
                 "location": "SEL Main Floor"
             },
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "10:30 PM",
+				"eventtitle": "Deploying websites & security",
+				"subtitle": "",
+				"location": "Room 1"
+			},
             {
                 "eventtype": "techtalk",
                 "day": "saturday",
