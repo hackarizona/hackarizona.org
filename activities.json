@@ -2,56 +2,67 @@
 	"friday":[{
                 "activity": "Team Formation & Pitch Pit",
                 "time": "9:00pm",
-                "location": "Centennial"
+                "location": "Centennial",
+				"description": ""
 			}],
 	"saturday":[{
 				"activity": "Yoga",
 				"time": "9:00am",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"activity": "5-Hour Energy",
                 "time": "12:00pm",
-                "location": "SEL"
+                "location": "SEL",
+				"description": ""
 			},
 			{
 				"activity": "Therapy Dogs",
                 "time": "12:00pm",
-                "location": "SEL"
+                "location": "SEL",
+				"description": ""
 			},
 			{
 				"activity": "MLH !Light",
                 "time": "1:00pm",
-                "location": "SEL 1st Floor"
+                "location": "SEL 1st Floor",
+				"description": ""
 			},
 			{
 				"activity": "Smash Bros Melle Tournament",
                 "time": "2:00pm",
-                "location": "SEL 1st Floor"
+                "location": "SEL 1st Floor",
+				"description": ""
 			},
             {
 				"activity": "VR Game Station",
                 "time": "3:00pm",
-                "location": "SEL Main Floor"
+                "location": "SEL Main Floor",
+				"description": ""
 			},
             {
 				"activity": "Board Game Tournament",
                 "time": "4:00pm",
-                "location": "SEL 1st Floor"
+                "location": "SEL 1st Floor",
+				"description": ""
             },
             {
 				"activity": "Raytheon Drone Obstacle Course",
                 "time": "8:00pm",
-                "location": "Bear Down Field"
+                "location": "Bear Down Field",
+				"description": ""
             },
             {
 				"activity": "Hypnotist",
                 "time": "9:00pm",
-                "location": "SEL Main Floor"
+                "location": "SEL Main Floor",
+				"description": ""
             }],
 	"sunday":[{
 				"activity": "Raytheon Cyber Awarness Challenge Demo",
 				"time": "9:00am",
-				"location": "Bear Down Feild"
+				"location": "Bear Down Feild",
+				"description": ""
 			}]
 }

@@ -5,7 +5,8 @@
 				"time": "5:00 PM",
 				"eventtitle": "Check-In",
 				"subtitle":"",
-				"location": "Centennial"
+				"location": "Centennial",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -13,7 +14,8 @@
 				"time": "5:00 PM",
 				"eventtitle": "Sponsor Exhibition",
 				"subtitle":"",
-				"location": "Centennial"
+				"location": "Centennial",
+				"description": ""
 			},
 			{
 				"eventtype": "food",
@@ -21,7 +23,8 @@
 				"time": "6:30 PM",
 				"eventtitle": "Dinner",
 				"subtitle":"",
-				"location": "Centennial"
+				"location": "Centennial",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -29,7 +32,8 @@
 				"time": "7:30 PM",
 				"eventtitle": "Opening Ceremony",
 				"subtitle":"",
-				"location": "Centennial"
+				"location": "Centennial",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -37,7 +41,8 @@
 				"time": "9:00 PM",
 				"eventtitle": "Hacking Begins",
 				"subtitle":"",
-				"location": "Centennial"
+				"location": "Centennial",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -45,7 +50,8 @@
 				"time": "9:00 PM",
 				"eventtitle": "Team Formation & Pitch Pit",
 				"subtitle":"",
-				"location": "Centennial"
+				"location": "Centennial",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -53,7 +59,8 @@
 				"time": "9:30 PM",
 				"eventtitle": "Cyber Awareness: ",
 				"subtitle":"Parrot AR.Drone 2 Exploits",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -61,7 +68,8 @@
 				"time": "10:00 PM",
 				"eventtitle": "Intro to APIs",
 				"subtitle": "by Google",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -69,7 +77,8 @@
 				"time": "10:30 PM",
 				"eventtitle": "Intro to Web Dev",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -77,7 +86,8 @@
 				"time": "10:30 PM",
 				"eventtitle": "Intro to VR Games",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -85,7 +95,8 @@
 				"time": "11:00 PM",
 				"eventtitle": "Agile PM w- Trello",
 				"subtitle": "by Sunquest",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -93,7 +104,8 @@
 				"time": "11:59 PM",
 				"eventtitle": "Making a Chat Bot",
 				"subtitle": "by State Farm",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -101,7 +113,8 @@
 				"time": "2:00 AM",
 				"eventtitle": "Intro to desktop apps",
 				"subtitle": "by Latitude",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			}],
 	"saturday":[{
 				"eventtype": "firstbyte",
@@ -109,7 +122,8 @@
 				"time": "12:30 AM",
 				"eventtitle": "Intro to JavaScript",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -117,7 +131,8 @@
 				"time": "12:30 AM",
 				"eventtitle": "Intro to OOP in Java",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "food",
@@ -125,7 +140,8 @@
 				"time": "8:00 AM",
 				"eventtitle": "Breakfast",
 				"subtitle": "",
-				"location": "West of SEL"
+				"location": "West of SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -133,7 +149,8 @@
 				"time": "8:30 AM",
 				"eventtitle": "Intro to Python",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -141,7 +158,8 @@
 				"time": "8:30 AM",
 				"eventtitle": "Intro to Ruby on Rails",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -149,7 +167,8 @@
 				"time": "9:00 AM",
 				"eventtitle": "Yoga",
 				"subtitle": "",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -157,7 +176,8 @@
 				"time": "10:00 AM",
 				"eventtitle": "Build IoT using Watson",
 				"subtitle": "by IBM",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -165,7 +185,8 @@
 				"time": "10:30 AM",
 				"eventtitle": "Intro to Python Django",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -173,7 +194,8 @@
 				"time": "10:30 AM",
 				"eventtitle": "Intro to iOS Dev w/ Swift",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -181,7 +203,8 @@
 				"time": "11:00 AM",
 				"eventtitle": "Create scenes w/ HaloLens",
 				"subtitle": "by Microsoft",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -189,7 +212,8 @@
 				"time": "12:00 PM",
 				"eventtitle": "5-Hour Energy",
 				"subtitle": "",
-				"location": "SEL"
+				"location": "SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -197,7 +221,8 @@
 				"time": "12:00 PM",
 				"eventtitle": "Therapy Dogs",
 				"subtitle": "",
-				"location": "SEL"
+				"location": "SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "food",
@@ -205,7 +230,8 @@
 				"time": "12:00 PM",
 				"eventtitle": "Lunch",
 				"subtitle": "",
-				"location": "West of SEL"
+				"location": "West of SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -213,7 +239,8 @@
 				"time": "12:30 PM",
 				"eventtitle": "Advanced HTML & CSS",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -221,7 +248,8 @@
 				"time": "12:30 PM",
 				"eventtitle": "Intro to Scala",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -229,7 +257,8 @@
 				"time": "1:00 PM",
 				"eventtitle": "MLH !Light",
 				"subtitle": "",
-				"location": "SEL 1st Floor"
+				"location": "SEL 1st Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -237,7 +266,8 @@
 				"time": "2:00 PM",
 				"eventtitle": "Hacking Social Media 4 Fun",
 				"subtitle": "by Coder Camps",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -245,7 +275,8 @@
 				"time": "2:30 PM",
 				"eventtitle": "Bootstap Web Framework",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -253,7 +284,8 @@
 				"time": "2:30 PM",
 				"eventtitle": "Node.js (or similar)",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -261,7 +293,8 @@
 				"time": "3:00 PM",
 				"eventtitle": "Smash Bros Melee Tourney",
 				"subtitle": "",
-				"location": "SEL 1st Floor"
+				"location": "SEL 1st Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -269,7 +302,8 @@
 				"time": "3:00 PM",
 				"eventtitle": "VR Game Station",
 				"subtitle": "",
-				"location": "SEL Main Floor"
+				"location": "SEL Main Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -277,7 +311,8 @@
 				"time": "4:00 PM",
 				"eventtitle": "Board Game Tournament",
 				"subtitle": "",
-				"location": "SEL 1st Floor"
+				"location": "SEL 1st Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -285,7 +320,8 @@
 				"time": "4:00 PM",
 				"eventtitle": "Conversational Agents",
 				"subtitle": "by Recruiting.Ai",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -293,7 +329,8 @@
 				"time": "4:30 PM",
 				"eventtitle": "Building Amazon Alexa Apps",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -301,7 +338,8 @@
 				"time": "4:30 PM",
 				"eventtitle": "Databases",
 				"subtitle": "(Mongo or similar)",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -309,7 +347,8 @@
 				"time": "5:00 PM",
 				"eventtitle": "Instant Hadoop w-",
 				"subtitle": "Common Crawl by Amazon",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "food",
@@ -317,7 +356,8 @@
 				"time": "6:30 PM",
 				"eventtitle": "Dinner",
 				"subtitle": "",
-				"location": "West of SEL"
+				"location": "West of SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -325,7 +365,8 @@
 				"time": "7:00 PM",
 				"eventtitle": "Angular 2",
 				"subtitle": "by Google",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -333,7 +374,8 @@
 				"time": "8:00 PM",
 				"eventtitle": "Drone Obstacle Course",
 				"subtitle": "Raytheon",
-				"location": "Bear Down Field"
+				"location": "Bear Down Field",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -341,7 +383,8 @@
 				"time": "8:30 PM",
 				"eventtitle": "Stat analysys in R",
 				"subtitle": "",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -349,7 +392,8 @@
 				"time": "8:30 PM",
 				"eventtitle": "Intro to Android in Java",
 				"subtitle": "",
-				"location": "Room 2"
+				"location": "Room 2",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -357,7 +401,8 @@
 				"time": "9:00 PM",
 				"eventtitle": "Hypnotist",
 				"subtitle": "",
-				"location": "SEL Main Floor"
+				"location": "SEL Main Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "firstbyte",
@@ -365,7 +410,8 @@
 				"time": "10:30 PM",
 				"eventtitle": "Deploying websites",
 				"subtitle": "& security",
-				"location": "Room 1"
+				"location": "Room 1",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -373,7 +419,8 @@
 				"time": "11:00 PM",
 				"eventtitle": "Deploy Node.js to Azure",
 				"subtitle": "by Microsoft",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -381,7 +428,8 @@
 				"time": "11:59 PM",
 				"eventtitle": "How to Win Hackathons",
 				"subtitle": "by Intuit",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			}],
 	"sunday":[{
 				"eventtype": "techtalk",
@@ -389,7 +437,8 @@
 				"time": "1:00 AM",
 				"eventtitle": "Hack to Business",
 				"subtitle": "by Hivemetric",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
@@ -397,7 +446,8 @@
 				"time": "2:00 AM",
 				"eventtitle": "Rogue Entrepreneur",
 				"subtitle": "by McGuire Center",
-				"location": "SEL 5th Floor"
+				"location": "SEL 5th Floor",
+				"description": ""
 			},
 			{
 				"eventtype": "food",
@@ -405,7 +455,8 @@
 				"time": "8:00 AM",
 				"eventtitle": "Breakfast",
 				"subtitle": "",
-				"location": "West of SEL"
+				"location": "West of SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "activity",
@@ -413,7 +464,8 @@
 				"time": "9:00 AM",
 				"eventtitle": "Cyber Awareness Challenge",
 				"subtitle": "Raytheon",
-				"location": "Bear Down Field"
+				"location": "Bear Down Field",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -421,7 +473,8 @@
 				"time": "9:00 AM",
 				"eventtitle": "Hacking Ends",
 				"subtitle": "",
-				"location": "SEL"
+				"location": "SEL",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -429,7 +482,8 @@
 				"time": "10:00 AM",
 				"eventtitle": "Judging",
 				"subtitle": "",
-				"location": "Grand Ballroom"
+				"location": "Grand Ballroom",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -437,7 +491,8 @@
 				"time": "12:30 PM",
 				"eventtitle": "Popular Voting",
 				"subtitle": "",
-				"location": "Grand Ballroom"
+				"location": "Grand Ballroom",
+				"description": ""
 			},
 			{
 				"eventtype": "required",
@@ -445,6 +500,7 @@
 				"time": "1:00 PM",
 				"eventtitle": "Event Concludes",
 				"subtitle": "",
-				"location": "Grand Ballroom"
+				"location": "Grand Ballroom",
+				"description": ""
 			}]
 }
