@@ -547,5 +547,14 @@
 				"subtitle": "",
 				"location": "Grand Ballroom",
 				"description": "Hack Arizona 2018 is over"
+			},
+			{
+				"eventtype": "required",
+				"day": "sunday",
+				"time": "2:00 PM",
+				"eventtitle": "Testing Sync",
+				"subtitle": "",
+				"location": "Grand Ballroom",
+				"description": "Testing Worked!"
 			}]
 }
