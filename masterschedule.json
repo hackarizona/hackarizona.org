@@ -15,7 +15,7 @@
 				"eventtitle": "Sponsor Exhibition",
 				"subtitle":"",
 				"location": "Centennial Hall",
-				"description": "Exbo prior to opening ceremony where participants can handout resumes and learn more about our sponsors"
+				"description": "Expo prior to opening ceremony where participants can handout resumes and learn more about our sponsors"
 			},
 			{
 				"eventtype": "food",
@@ -51,7 +51,7 @@
 				"eventtitle": "Team Formation",
 				"subtitle":"",
 				"location": "Under Henry Koffler Building",
-				"description": "Don't have a team yet? No problem! Come outside to Henry Koffler at 9 PM for a meet and greet of other participants who don't have a team"
+				"description": "Don't have a team yet? No problem! Head to community area outside Henry Koffler at 9 PM for a meet and greet of other participants who don't have a team"
 			},
 			{
 				"eventtype": "techtalk",
@@ -115,15 +115,6 @@
 				"subtitle": "by State Farm",
 				"location": "SEL 5th Floor",
 				"description": ""
-			},
-			{
-				"eventtype": "techtalk",
-				"day": "saturday",
-				"time": "2:00 AM",
-				"eventtitle": "Intro to desktop apps",
-				"subtitle": "by Latitude",
-				"location": "SEL 5th Floor",
-				"description": ""
 			}],
 	"saturday":[{
 				"eventtype": "firstbyte",
@@ -143,6 +134,15 @@
 				"location": "Room 2",
 				"description": "Introductory workshop devoted to helping users with some experience get introduced to Object Oriented Programming in Java"
 			},
+			{
+				"eventtype": "techtalk",
+				"day": "saturday",
+				"time": "2:00 AM",
+				"eventtitle": "Intro to desktop apps",
+				"subtitle": "by Latitude",
+				"location": "SEL 5th Floor",
+				"description": ""
+			}
 			{
 				"eventtype": "food",
 				"day": "saturday",
