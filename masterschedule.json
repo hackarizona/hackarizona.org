@@ -2,20 +2,20 @@
 	"friday":[{
 				"eventtype": "required",
 				"day": "friday",
-				"time": "5:00 PM",
+				"time": "4:30 PM",
 				"eventtitle": "Check-In",
 				"subtitle":"",
-				"location": "Centennial",
-				"description": ""
+				"location": "Centennial Hall",
+				"description":"Hack Arizona participants will check in at the tables in front of Centennial Hall starting at 4:30 PM"
 			},
 			{
 				"eventtype": "required",
 				"day": "friday",
-				"time": "5:00 PM",
+				"time": "4:30 PM",
 				"eventtitle": "Sponsor Exhibition",
 				"subtitle":"",
-				"location": "Centennial",
-				"description": ""
+				"location": "Centennial Hall",
+				"description": "Exbo prior to opening ceremony where participants can handout resumes and learn more about our sponsors"
 			},
 			{
 				"eventtype": "food",
@@ -23,8 +23,8 @@
 				"time": "6:30 PM",
 				"eventtitle": "Dinner",
 				"subtitle":"",
-				"location": "Centennial",
-				"description": ""
+				"location": "Centennial Hall",
+				"description": "Dinner is provided by the Student Union"
 			},
 			{
 				"eventtype": "required",
@@ -32,8 +32,8 @@
 				"time": "7:30 PM",
 				"eventtitle": "Opening Ceremony",
 				"subtitle":"",
-				"location": "Centennial",
-				"description": ""
+				"location": "Centennial Hall",
+				"description": "Welcoming our sponsors and participants to Hack Arizona 2018 with a special Keynote Speaker!"
 			},
 			{
 				"eventtype": "required",
@@ -41,17 +41,17 @@
 				"time": "9:00 PM",
 				"eventtitle": "Hacking Begins",
 				"subtitle":"",
-				"location": "Centennial",
-				"description": ""
+				"location": "Centennial Hall",
+				"description": "Participants can begin hacking"
 			},
 			{
 				"eventtype": "activity",
 				"day": "friday",
 				"time": "9:00 PM",
-				"eventtitle": "Team Formation & Pitch Pit",
+				"eventtitle": "Team Formation",
 				"subtitle":"",
-				"location": "Centennial",
-				"description": ""
+				"location": "Under Henry Koffler Building",
+				"description": "Don't have a team yet? No problem! Come outside to Henry Koffler at 9 PM for a meet and greet of other participants who don't have a team"
 			},
 			{
 				"eventtype": "techtalk",
@@ -60,6 +60,15 @@
 				"eventtitle": "Cyber Awareness: ",
 				"subtitle":"Parrot AR.Drone 2 Exploits",
 				"location": "SEL 5th Floor",
+				"description": ""
+			},
+			{
+				"eventtype": "activity",
+				"day": "friday",
+				"time": "10:00 PM",
+				"eventtitle": "ESports Tournament",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
 				"description": ""
 			},
 			{
@@ -78,7 +87,7 @@
 				"eventtitle": "Intro to Web Dev",
 				"subtitle": "",
 				"location": "Room 1",
-				"description": ""
+				"description": "Introductory workshop devoted to helping new programmers to understand the basics of web development using HTML & CSS"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -87,7 +96,7 @@
 				"eventtitle": "Intro to VR Games",
 				"subtitle": "",
 				"location": "Room 2",
-				"description": ""
+				"description": "Introductory workshop devoted to getting those with an intrest in VR a hands on experience by making games"
 			},
 			{
 				"eventtype": "techtalk",
@@ -123,7 +132,7 @@
 				"eventtitle": "Intro to JavaScript",
 				"subtitle": "",
 				"location": "Room 1",
-				"description": ""
+				"description": "Introductory workshop building off of intro to web dev where we show you how to implement JavaScript into HTML & CSS"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -132,7 +141,7 @@
 				"eventtitle": "Intro to OOP in Java",
 				"subtitle": "",
 				"location": "Room 2",
-				"description": ""
+				"description": "Introductory workshop devoted to helping users with some experience get introduced to Object Oriented Programming in Java"
 			},
 			{
 				"eventtype": "food",
@@ -141,7 +150,7 @@
 				"eventtitle": "Breakfast",
 				"subtitle": "",
 				"location": "West of SEL",
-				"description": ""
+				"description": "Breakfast provided by the Student Union"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -150,7 +159,7 @@
 				"eventtitle": "Intro to Python",
 				"subtitle": "",
 				"location": "Room 1",
-				"description": ""
+				"description": "Introductory workshop devoted to helping new programmers in a Object Oriented language"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -167,7 +176,16 @@
 				"time": "9:00 AM",
 				"eventtitle": "Yoga",
 				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"location": "Grass Area South of Koffler",
+				"description": "Come relax and begin your morning with Yoga!"
+			},
+			{
+				"eventtype": "Activity",
+				"day": "saturday",
+				"time": "10:00 AM",
+				"eventtitle": "12 Step Program",
+				"subtitle": "",
+				"location": "iSpace",
 				"description": ""
 			},
 			{
@@ -231,7 +249,7 @@
 				"eventtitle": "Lunch",
 				"subtitle": "",
 				"location": "West of SEL",
-				"description": ""
+				"description": "Provided by the Student Union"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -258,7 +276,7 @@
 				"eventtitle": "MLH !Light",
 				"subtitle": "",
 				"location": "SEL 1st Floor",
-				"description": ""
+				"description": "HTML coding competition brought you by MHL. You have 10 minutes to code a random website choosen without using syntax highlighting and running your code"
 			},
 			{
 				"eventtype": "techtalk",
@@ -290,6 +308,15 @@
 			{
 				"eventtype": "activity",
 				"day": "saturday",
+				"time": "2:00 PM",
+				"eventtitle": "Stressbusters",
+				"subtitle": "",
+				"location": "SEL Main Floor",
+				"description": ""
+			},
+			{
+				"eventtype": "activity",
+				"day": "saturday",
 				"time": "3:00 PM",
 				"eventtitle": "Smash Bros Melee Tourney",
 				"subtitle": "",
@@ -300,7 +327,7 @@
 				"eventtype": "activity",
 				"day": "saturday",
 				"time": "3:00 PM",
-				"eventtitle": "VR Game Station",
+				"eventtitle": "Elephant March Relay Race",
 				"subtitle": "",
 				"location": "SEL Main Floor",
 				"description": ""
@@ -351,13 +378,22 @@
 				"description": ""
 			},
 			{
+				"eventtype": "activity",
+				"day": "saturday",
+				"time": "5:00 PM",
+				"eventtitle": "Charles Darwin Improv Show",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
+				"description": ""
+			},
+			{
 				"eventtype": "food",
 				"day": "saturday",
 				"time": "6:30 PM",
 				"eventtitle": "Dinner",
 				"subtitle": "",
 				"location": "West of SEL",
-				"description": ""
+				"description": "Provided by the Student Union"
 			},
 			{
 				"eventtype": "techtalk",
@@ -401,7 +437,7 @@
 				"time": "9:00 PM",
 				"eventtitle": "Hypnotist",
 				"subtitle": "",
-				"location": "SEL Main Floor",
+				"location": "SEL Main Floor (200S)",
 				"description": ""
 			},
 			{
@@ -429,6 +465,15 @@
 				"eventtitle": "How to Win Hackathons",
 				"subtitle": "by Intuit",
 				"location": "SEL 5th Floor",
+				"description": ""
+			},
+			{
+				"eventtype": "activity",
+				"day": "saturday",
+				"time": "11:59 PM",
+				"eventtitle": "Midnight Karaoke",
+				"subtitle": "",
+				"location": "SEL Main (200S)",
 				"description": ""
 			}],
 	"sunday":[{
@@ -462,9 +507,9 @@
 				"eventtype": "activity",
 				"day": "sunday",
 				"time": "9:00 AM",
-				"eventtitle": "Cyber Awareness Challenge",
-				"subtitle": "Raytheon",
-				"location": "Bear Down Field",
+				"eventtitle": "Stress Busters",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
 				"description": ""
 			},
 			{
@@ -474,7 +519,7 @@
 				"eventtitle": "Hacking Ends",
 				"subtitle": "",
 				"location": "SEL",
-				"description": ""
+				"description": "Hacking ends all participants must have submitted their projects by this time"
 			},
 			{
 				"eventtype": "required",
@@ -483,7 +528,7 @@
 				"eventtitle": "Judging",
 				"subtitle": "",
 				"location": "Grand Ballroom",
-				"description": ""
+				"description": "Sponsor and devoded judges go around taking a look a submitted projects"
 			},
 			{
 				"eventtype": "required",
@@ -492,7 +537,7 @@
 				"eventtitle": "Popular Voting",
 				"subtitle": "",
 				"location": "Grand Ballroom",
-				"description": ""
+				"description": "The winner of the popular vote decided by the people is to be show cased."
 			},
 			{
 				"eventtype": "required",
@@ -501,6 +546,6 @@
 				"eventtitle": "Event Concludes",
 				"subtitle": "",
 				"location": "Grand Ballroom",
-				"description": ""
+				"description": "Hack Arizona 2018 is over"
 			}]
 }

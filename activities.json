@@ -1,68 +1,108 @@
 {
 	"friday":[{
-                "activity": "Team Formation & Pitch Pit",
-                "time": "9:00pm",
-                "location": "Centennial",
+				"day": "friday",
+				"time": "9:00 PM",
+				"activity": "Team Formation",
+				"location": "Under Henry Koffler Building",
+				"description": "Don't have a team yet? No problem! Come outside to Henry Koffler at 9 PM for a meet and greet of other participants who don't have a team"
+			},
+			{
+				"day": "friday",
+				"time": "10:00 PM",
+				"activity": "ESports Tournament",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
 				"description": ""
 			}],
 	"saturday":[{
+				"day": "saturday",
+				"time": "9:00 AM",
 				"activity": "Yoga",
-				"time": "9:00am",
-				"location": "SEL 5th Floor",
+				"location": "Grass Area South of Koffler",
+				"description": "Come relax and begin your morning with Yoga!"
+			},
+			{
+				"day": "saturday",
+				"time": "10:00 AM",
+				"activity": "12 Step Program",
+				"location": "iSpace",
 				"description": ""
 			},
 			{
+				"day": "saturday",
+				"time": "12:00 PM",
 				"activity": "5-Hour Energy",
-                "time": "12:00pm",
-                "location": "SEL",
+				"location": "SEL",
 				"description": ""
 			},
 			{
+				"day": "saturday",
+				"time": "12:00 PM",
 				"activity": "Therapy Dogs",
-                "time": "12:00pm",
-                "location": "SEL",
+				"location": "SEL",
 				"description": ""
 			},
 			{
+				"day": "saturday",
+				"time": "1:00 PM",
 				"activity": "MLH !Light",
-                "time": "1:00pm",
-                "location": "SEL 1st Floor",
+				"location": "SEL 1st Floor",
+				"description": "HTML coding competition brought you by MHL. You have 10 minutes to code a random website choosen without using syntax highlighting and running your code"
+			},
+			{
+				"day": "saturday",
+				"time": "2:00 PM",
+				"activity": "Stressbusters",
+				"location": "SEL Main Floor",
+				"description": ""
+			},
+            {
+				"day": "saturday",
+				"time": "3:00 PM",
+				"activity": "Smash Bros Melee Tourney",
+				"location": "SEL 1st Floor",
+				"description": ""
+			},
+            {
+				"day": "saturday",
+				"time": "3:00 PM",
+				"activity": "Elephant March Relay Race",
+				"location": "SEL Main Floor",
+				"description": ""
+            },
+            {
+				"day": "saturday",
+				"time": "4:00 PM",
+				"activity": "Board Game Tournament",
+				"location": "SEL 1st Floor",
+				"description": ""
+            },
+            {
+				"day": "saturday",
+				"time": "5:00 PM",
+				"activity": "Charles Darwin Improv Show",
+				"location": "SEL Main Floor (200S)",
+				"description": ""
+            },
+			{
+				"day": "saturday",
+				"time": "8:00 PM",
+				"activity": "Raytheon Drone Obstacle Course",
+				"location": "Bear Down Field",
 				"description": ""
 			},
 			{
-				"activity": "Smash Bros Melle Tournament",
-                "time": "2:00pm",
-                "location": "SEL 1st Floor",
-				"description": ""
-			},
-            {
-				"activity": "VR Game Station",
-                "time": "3:00pm",
-                "location": "SEL Main Floor",
-				"description": ""
-			},
-            {
-				"activity": "Board Game Tournament",
-                "time": "4:00pm",
-                "location": "SEL 1st Floor",
-				"description": ""
-            },
-            {
-				"activity": "Raytheon Drone Obstacle Course",
-                "time": "8:00pm",
-                "location": "Bear Down Field",
-				"description": ""
-            },
-            {
+				"day": "saturday",
+				"time": "9:00 PM",
 				"activity": "Hypnotist",
-                "time": "9:00pm",
-                "location": "SEL Main Floor",
+				"location": "SEL Main Floor (200S)",
 				"description": ""
-            }],
+			}],
 	"sunday":[{
-				"activity": "Raytheon Cyber Awarness Challenge Demo",
-				"time": "9:00am",
-				"location": "Bear Down Feild",
+				"day": "sunday",
+				"time": "9:00 AM",
+				"activity": "Stress Busters",
+				"location": "SEL Main Floor (200S)",
 				"description": ""
 			}]
 }
