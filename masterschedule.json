@@ -180,7 +180,7 @@
 				"description": "Come relax and begin your morning with Yoga!"
 			},
 			{
-				"eventtype": "Activity",
+				"eventtype": "activity",
 				"day": "saturday",
 				"time": "10:00 AM",
 				"eventtitle": "12 Step Program",
