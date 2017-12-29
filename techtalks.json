@@ -1,86 +1,129 @@
 {
 	"friday":[{
-				"sponsor": "Raytheon",
-                "talk": "Vulnerabilities of the Parrot AR.Drone 2.0",
-				"time": "9:30pm",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "10:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
 			{
-                "sponsor": "Google",
-                "talk": "Intro to Google's API's",
-                "time": "10:00pm",
-                "location": "SEL 5th floor"
-			},
-			{
-                "sponsor": "Sunquest",
-                "talk": "Aigile Project Management with Trello",
-                "time": "11:00pm",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "11:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
 			}],
 	"saturday":[{
-                "sponsor": "State Farm",
-                "talk": "Making a Chat Bot",
-                "time": "12:00am",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "12:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
 			{
-                "sponsor": "Latitude",
-                "talk": "Getting your feet wet with desktop apps",
-                "time": "2:00am",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "1:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
 			{
-                "sponsor": "IBM",
-                "talk": "Build IoT with Watson",
-                "time": "10:00am",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "2:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
 			{
-                "sponsor": "Microsoft",
-                "talk": "Creating Holographie Experiences with HoloLens",
-                "time": "11:00am",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "9:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
 			{
-                "sponsor": "Coder Camps",
-                "talk": "Hacking Social Media for Fun and Profit",
-                "time": "2:00pm",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "10:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
-            {
-                "sponsor": "Recruiting AI",
-                "talk": "Conversational Agents",
-                "time": "4:00pm",
-                "location": "SEL 5th floor"
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "11:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
-            {
-                "sponsor": "Amazon",
-                "talk": "Instant Hadoop with Common Crawl",
-                "time": "5:00pm",
-                "location": "SEL 5th floor"
-            },
-            {
-                "sponsor": "Google",
-                "talk": "Angular 2 with TypeScript, Firebase and RxJS",
-                "time": "7:00pm",
-                "location": "SEL 5th floor"
-            }],
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "1:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "2:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "3:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "4:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "5:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "6:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "8:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			{
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "11:00pm",
+				"location": "SEL 5th floor",
+				"description": ""
+			},
+			],
 	"sunday":[{
-                "sponsor": "Intuit",
-                "talk": "How to win Hackathons",
-                "time": "12:00am",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "12:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			},
 			{
-                "sponsor": "Hivemetric",
-                "talk": "Hack to Business: What Comes Next",
-                "time": "1:00am",
-                "location": "SEL 5th floor"
-			},
-			{
-                "sponsor": "McGuire Center",
-                "talk": "Star Wars: Rogue Entrepreneur",
-                "time": "2:00am",
-                "location": "SEL 5th floor"
+				"sponsor": "TBA",
+				"talk": "TBA",
+				"time": "1:00am",
+				"location": "SEL 5th floor",
+				"description": ""
 			}]
 }

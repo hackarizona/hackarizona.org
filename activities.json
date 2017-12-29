@@ -1,57 +1,122 @@
 {
 	"friday":[{
-                "activity": "Team Formation & Pitch Pit",
-                "time": "9:00pm",
-                "location": "Centennial"
+				"day": "friday",
+				"time": "9:00 PM",
+				"activity": "Team Formation",
+				"subtitle": "",
+				"location": "Under Henry Koffler Building",
+				"description": "Don't have a team yet? No problem! Head to community area outside Henry Koffler at 9 PM for a meet and greet of other participants who don't have a team"
+			},
+			{
+				"day": "friday",
+				"time": "10:00 PM",
+				"activity": "ESports Tournament",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
+				"description": ""
 			}],
 	"saturday":[{
+				"day": "saturday",
+				"time": "9:00 AM",
 				"activity": "Yoga",
-				"time": "9:00am",
-				"location": "SEL 5th Floor"
+				"subtitle": "",
+				"location": "Grass Area South of Koffler",
+				"description": "Come relax and begin your morning with Yoga!"
 			},
 			{
+				"day": "saturday",
+				"time": "10:00 AM",
+				"activity": "12 Step Program",
+				"subtitle": "",
+				"location": "iSpace",
+				"description": ""
+			},
+			{
+				"day": "saturday",
+				"time": "12:00 PM",
 				"activity": "5-Hour Energy",
-                "time": "12:00pm",
-                "location": "SEL"
+				"subtitle": "",
+				"location": "SEL",
+				"description": ""
 			},
 			{
+				"day": "saturday",
+				"time": "12:00 PM",
 				"activity": "Therapy Dogs",
-                "time": "12:00pm",
-                "location": "SEL"
+				"subtitle": "",
+				"location": "SEL",
+				"description": ""
 			},
 			{
+				"day": "saturday",
+				"time": "1:00 PM",
 				"activity": "MLH !Light",
-                "time": "1:00pm",
-                "location": "SEL 1st Floor"
+				"subtitle": "",
+				"location": "SEL 1st Floor",
+				"description": "HTML coding competition brought you by MHL. You have 10 minutes to code a random website choosen without using syntax highlighting and running your code"
 			},
 			{
-				"activity": "Smash Bros Melle Tournament",
-                "time": "2:00pm",
-                "location": "SEL 1st Floor"
+				"day": "saturday",
+				"time": "2:00 PM",
+				"activity": "Stressbusters",
+				"subtitle": "",
+				"location": "SEL Main Floor",
+				"description": ""
 			},
             {
-				"activity": "VR Game Station",
-                "time": "3:00pm",
-                "location": "SEL Main Floor"
+				"day": "saturday",
+				"time": "3:00 PM",
+				"activity": "Smash Bros Melee Tourney",
+				"subtitle": "",
+				"location": "SEL 1st Floor",
+				"description": ""
 			},
             {
+				"day": "saturday",
+				"time": "3:00 PM",
+				"activity": "Elephant March Relay Race",
+				"subtitle": "",
+				"location": "SEL Main Floor",
+				"description": ""
+            },
+            {
+				"day": "saturday",
+				"time": "4:00 PM",
 				"activity": "Board Game Tournament",
-                "time": "4:00pm",
-                "location": "SEL 1st Floor"
+				"subtitle": "",
+				"location": "SEL 1st Floor",
+				"description": ""
             },
             {
+				"day": "saturday",
+				"time": "5:00 PM",
+				"activity": "Charles Darwin Improv Show",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
+				"description": ""
+            },
+			{
+				"day": "saturday",
+				"time": "8:00 PM",
 				"activity": "Raytheon Drone Obstacle Course",
-                "time": "8:00pm",
-                "location": "Bear Down Field"
-            },
-            {
+				"subtitle": "",
+				"location": "Bear Down Field",
+				"description": ""
+			},
+			{
+				"day": "saturday",
+				"time": "9:00 PM",
 				"activity": "Hypnotist",
-                "time": "9:00pm",
-                "location": "SEL Main Floor"
-            }],
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
+				"description": ""
+			}],
 	"sunday":[{
-				"activity": "Raytheon Cyber Awarness Challenge Demo",
-				"time": "9:00am",
-				"location": "Bear Down Feild"
+				"day": "sunday",
+				"time": "9:00 AM",
+				"activity": "Stress Busters",
+				"subtitle": "",
+				"location": "SEL Main Floor (200S)",
+				"description": ""
 			}]
 }
