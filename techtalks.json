@@ -2,31 +2,27 @@
 	"friday":[{
 				"sponsor": "Sunquest",
 				"talk": "Market Strategy Formulation",
-				"subtitle":"",
 				"time": "10:30pm",
 				"location": "SEL 5th floor",
 				"description": ""
 			}],
 	"saturday":[{
 				"sponsor": "State Farm",
-				"talk": "Biometrics",
-				"subtitle":"",
+				"talk": "Use of Biometrics",
 				"time": "9:00am",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "The use of biometrics to reduce or eliminate the risk associated with online identification of your accounts"
 			},
 			{
 				"sponsor": "Go Daddy",
-				"talk": "TBA",
-				"subtitle":"",
+				"talk": "Making a reactjs app real time with WebSockets",
 				"time": "10:00am",
 				"location": "SEL 5th floor",
-				"description": ""
+				"description": "Learn about nodejs, reactJs, yarn, websockets, and publishing a web application to github pages. We will be building a chat application using FaceBook’s create-react-app and a websocket api.  All source code will be published to github during the presentation."
 			},
 			{
 				"sponsor": "General Dynamic Mission Systems",
 				"talk": "TBA",
-				"subtitle":"",
 				"time": "2:00pm",
 				"location": "SEL 5th Floor",
 				"description": ""
@@ -34,15 +30,13 @@
 			{
 				"sponsor": "Jacobs",
 				"talk": "Embedded Microcontrollers",
-				"subtitle":"",
 				"time": "4:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
 			},
 			{
 				"sponsor": "Amazon",
-				"talk": "Real-time Analytics at Internet Scale",
-				"subtitle":"w/ Filink, Supeset and Druid",
+				"talk": "Real-time Analytics at Internet Scale with Filink, Supeset and Druid",
 				"time": "5:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
@@ -50,7 +44,6 @@
 			{
 				"sponsor": "Jacobs",
 				"talk": "IoT Exploitation",
-				"subtitle":"",
 				"time": "11:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
