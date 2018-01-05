@@ -1,110 +1,80 @@
 {
 	"friday":[{
-				"workshop": "Intro to Web Dev",
+				"workshop": "Intro to A-Frame VR",
 				"time": "10:30pm",
-				"location": "Room 1",
-				"description": "Introductory workshop devoted to helping new programmers to understand the basics of web development using HTML & CSS"
+				"location": "SEL 308",
+				"description": "Introductory workshop devoted to getting those with an intrested in VR"
 			},
 			{
-				"workshop": "Intro to VR games",
-				"time": "10:30pm",
-				"location": "Room 2",
-				"description": "Introductory workshop devoted to getting those with an intrest in VR a hands on experience by making games"
+				"workshop": "Intro to Web Dev",
+				"time": "11:30pm",
+				"location": "SEL 311",
+				"description": "Introductory workshop devoted to helping new programmers to understand the basics of web development using HTML & CSS"
 			}],
 	"saturday":[{
-				"workshop": "Intro to JavaScript",
+				"workshop": "Intro to Java and JavaFX",
 				"time": "12:30am",
-				"location": "Room 1",
-				"description": "Introductory workshop building off of intro to web dev where we show you how to implement JavaScript into HTML & CSS"
+				"location": "SEL 308",
+				"description": "Introductory workshop into Java and it's UI Framework JavaFX"
 			},
 			{
-				"workshop": "Intro to OOP in Java",
-				"time": "12:30am",
-				"location": "Room 2",
-				"description": "Introductory workshop devoted to helping users with some experience get introduced to Object Oriented Programming in Java"
-			},
-			{
-				"workshop": "Intro to Python",
-				"time": "8:30am",
-				"location": "Room 1",
-				"description": "Introductory workshop devoted to helping new programmers in a Object Oriented language"
-			},
-			{
-				"workshop": "Intro to Ruby on Rails",
-				"time": "8:30am",
-				"location": "Room 2",
+				"workshop": "Deploying and Hosting Static Websites",
+				"time": "1:30am",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
-				"workshop": "Intro to Python Django",
+				"workshop": "Intro to Large Scale Machine Learning",
+				"time": "9:30am",
+				"location": "SEL 308",
+				"description": ""
+			},
+			{
+				"workshop": "Intro to VR 101",
 				"time": "10:30am",
-				"location": "Room 1",
+				"location": "SEL 311",
+				"description": "Get Started Learning Unity"
+			},
+			{
+				"workshop": "Programming in Python",
+				"time": "1:30pm",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
-				"workshop": "Intro to iOS Dev w/ Swift",
-				"time": "10:30am",
-				"location": "Room 2",
+				"workshop": "Intro to Ruby on Rails Web Dev",
+				"time": "3:00pm",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
-				"workshop": "Advanced HTML & CSS",
-				"time": "12:30pm",
-				"location": "Room 1",
+				"workshop": "Intro to JavaScript Programming",
+				"time": "4:00pm",
+				"location": "SEL 308",
 				"description": ""
 			},
 			{
-				"workshop": "Intro to Scala",
-				"time": "12:30pm",
-				"location": "Room 2",
+				"workshop": "Clientside JavaScript with JQuery",
+				"time": "7:00pm",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
-				"workshop": "Bootstap Web Framework",
-				"time": "2:30pm",
-				"location": "Room 1",
-				"description": ""
-			},
-			{
-				"workshop": "Node.js (or similar)",
-				"time": "2:30pm",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
-				"workshop": "Building Amazon Alexa Apps",
-				"time": "4:30pm",
-				"location": "Room 1",
-				"description": ""
-			},
-			{
-				"workshop": "Databases (Mongo or similar)",
-				"time": "4:30pm",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
-				"workshop": "Stat analysys in R",
-				"time": "8:30pm",
-				"location": "Room 1",
-				"description": ""
-			},
-			{
-				"workshop": "Intro to Android in Java",
-				"time": "8:30pm",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
-				"workshop": "Deploying websites & security",
+				"workshop": "Intro to Node.js",
 				"time": "10:30pm",
-				"location": "Room 1",
+				"location": "SEL 311",
+				"description": ""
+			},
+			{
+				"workshop": "Swift Programming and iOS Development",
+				"time": "10:30pm",
+				"location": "SEL 308",
 				"description": ""
 			}],
 	"sunday":[{
-				"workshop": "TBA",
-				"time": "TBA",
-				"location": "TBA",
+				"workshop": "Bootstrap, a Popular Web Framework",
+				"time": "12:30am",
+				"location": "SEL 308",
 				"description": ""
 			}]
 }
