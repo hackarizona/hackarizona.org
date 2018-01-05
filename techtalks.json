@@ -54,14 +54,14 @@
 				"time": "11:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
-			},
-			],
-	"sunday":[{
-					"sponsor": "",
-					"talk": "",
-					"subtitle":"",
-					"time": "",
-					"location": "",
-					"description": ""
-				}]
+			}],
+	"sunday":[
+			{
+				"sponsor": "",
+				"talk": "",
+				"subtitle":"",
+				"time": "",
+				"location": "",
+				"description": ""
+			}]
 }
