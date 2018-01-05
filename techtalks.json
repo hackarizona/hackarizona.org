@@ -56,5 +56,12 @@
 				"description": ""
 			},
 			],
-	"sunday":[]
+	"sunday":[{
+					"sponsor": "",
+					"talk": "",
+					"subtitle":"",
+					"time": "",
+					"location": "",
+					"description": ""
+				}]
 }
