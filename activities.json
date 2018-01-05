@@ -12,7 +12,15 @@
 				"time": "10:00 PM",
 				"activity": "ESports Tournament",
 				"subtitle": "",
-				"location": "SEL Main Floor (200S)",
+				"location": "SEL Main Floor",
+				"description": ""
+			},
+			{
+				"day": "friday",
+				"time": "10:00 PM",
+				"activity": "WICS Reception",
+				"subtitle": "",
+				"location": "TBD",
 				"description": ""
 			}],
 	"saturday":[{
@@ -26,7 +34,7 @@
 			{
 				"day": "saturday",
 				"time": "10:00 AM",
-				"activity": "12 Step Program",
+				"activity": "12 Step Meeting",
 				"subtitle": "",
 				"location": "iSpace",
 				"description": ""
@@ -49,14 +57,6 @@
 			},
 			{
 				"day": "saturday",
-				"time": "1:00 PM",
-				"activity": "MLH !Light",
-				"subtitle": "",
-				"location": "SEL 1st Floor",
-				"description": "HTML coding competition brought you by MHL. You have 10 minutes to code a random website choosen without using syntax highlighting and running your code"
-			},
-			{
-				"day": "saturday",
 				"time": "2:00 PM",
 				"activity": "Stressbusters",
 				"subtitle": "",
@@ -71,38 +71,22 @@
 				"location": "SEL 1st Floor",
 				"description": ""
 			},
-            {
+			{
 				"day": "saturday",
-				"time": "3:00 PM",
-				"activity": "Elephant March Relay Race",
+				"time": "3:30 PM",
+				"activity": "Minute to Win It Relay Games",
 				"subtitle": "",
 				"location": "SEL Main Floor",
 				"description": ""
-            },
-            {
-				"day": "saturday",
-				"time": "4:00 PM",
-				"activity": "Board Game Tournament",
-				"subtitle": "",
-				"location": "SEL 1st Floor",
-				"description": ""
-            },
+			},
             {
 				"day": "saturday",
 				"time": "5:00 PM",
 				"activity": "Charles Darwin Improv Show",
 				"subtitle": "",
-				"location": "SEL Main Floor (200S)",
+				"location": "SEL Main Floor",
 				"description": ""
             },
-			{
-				"day": "saturday",
-				"time": "8:00 PM",
-				"activity": "Raytheon Drone Obstacle Course",
-				"subtitle": "",
-				"location": "Bear Down Field",
-				"description": ""
-			},
 			{
 				"day": "saturday",
 				"time": "9:00 PM",
@@ -112,11 +96,11 @@
 				"description": ""
 			}],
 	"sunday":[{
-				"day": "sunday",
-				"time": "9:00 AM",
-				"activity": "Stress Busters",
+				"day": "",
+				"time": "",
+				"activity": "",
 				"subtitle": "",
-				"location": "SEL Main Floor (200S)",
+				"location": "",
 				"description": ""
 			}]
 }
