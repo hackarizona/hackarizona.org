@@ -1,129 +1,60 @@
 {
 	"friday":[{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "10:00pm",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "11:00pm",
+				"sponsor": "Sunquest",
+				"talk": "Market Strategy Formulation",
+				"subtitle":"",
+				"time": "10:30pm",
 				"location": "SEL 5th floor",
 				"description": ""
 			}],
 	"saturday":[{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "12:00am",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "1:00am",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "2:00am",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
+				"sponsor": "State Farm",
+				"talk": "Biometrics",
+				"subtitle":"",
 				"time": "9:00am",
-				"location": "SEL 5th floor",
+				"location": "SEL 5th Floor",
 				"description": ""
 			},
 			{
-				"sponsor": "TBA",
+				"sponsor": "Go Daddy",
 				"talk": "TBA",
+				"subtitle":"",
 				"time": "10:00am",
 				"location": "SEL 5th floor",
 				"description": ""
 			},
 			{
-				"sponsor": "TBA",
+				"sponsor": "General Dynamic Mission Systems",
 				"talk": "TBA",
-				"time": "11:00am",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "1:00pm",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
+				"subtitle":"",
 				"time": "2:00pm",
-				"location": "SEL 5th floor",
+				"location": "SEL 5th Floor",
 				"description": ""
 			},
 			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "3:00pm",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
+				"sponsor": "Jacobs",
+				"talk": "Embedded Microcontrollers",
+				"subtitle":"",
 				"time": "4:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
 			},
 			{
-				"sponsor": "TBA",
-				"talk": "TBA",
+				"sponsor": "Amazon",
+				"talk": "Real-time Analytics at Internet Scale",
+				"subtitle":"w/ Filink, Supeset and Druid",
 				"time": "5:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
 			},
 			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "6:00pm",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "8:00pm",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
+				"sponsor": "Jacobs",
+				"talk": "IoT Exploitation",
+				"subtitle":"",
 				"time": "11:00pm",
 				"location": "SEL 5th floor",
 				"description": ""
 			},
 			],
-	"sunday":[{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "12:00am",
-				"location": "SEL 5th floor",
-				"description": ""
-			},
-			{
-				"sponsor": "TBA",
-				"talk": "TBA",
-				"time": "1:00am",
-				"location": "SEL 5th floor",
-				"description": ""
-			}]
+	"sunday":[]
 }
