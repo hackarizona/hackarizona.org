@@ -250,7 +250,9 @@ body {
 #schedule .schedule .label.judging {
 	background: #B65CA2;
 }
-
+#schedule .inner p{
+	margin-top: 16px;
+}
 #collage {
     position: relative;
     height: 500px;
