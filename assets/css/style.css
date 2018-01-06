@@ -33,13 +33,6 @@ body {
 #header .inner p{
 	color: white;
 }
-#header a img{
-	height: 48px;
-}
-#header a #appstore{
-	height: 32px;
-	margin-bottom: 8px;
-}
 #header {
 	width: 100%;
 	height: 48px;
