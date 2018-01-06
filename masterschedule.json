@@ -5,7 +5,7 @@
 				"time": "4:30 PM",
 				"eventtitle": "Check-In",
 				"subtitle":"",
-				"location": "Centennial Hall",
+				"location": "special",
 				"description":"Hack Arizona participants will check in at the tables in front of Centennial Hall starting at 4:30 PM"
 			},
 			{
@@ -14,7 +14,7 @@
 				"time": "4:30 PM",
 				"eventtitle": "Sponsor Exhibition",
 				"subtitle":"",
-				"location": "Centennial Hall",
+				"location": "UA Mall",
 				"description": "Expo prior to opening ceremony where participants can handout resumes and learn more about our sponsors"
 			},
 			{
@@ -23,7 +23,7 @@
 				"time": "6:30 PM",
 				"eventtitle": "Dinner",
 				"subtitle":"",
-				"location": "Centennial Hall",
+				"location": "UA Mall",
 				"description": "Dinner is provided by the Student Union"
 			},
 			{
@@ -41,7 +41,7 @@
 				"time": "9:00 PM",
 				"eventtitle": "Hacking Begins",
 				"subtitle":"",
-				"location": "Centennial Hall",
+				"location": "SEL",
 				"description": "Participants can begin hacking"
 			},
 			{
@@ -65,8 +65,8 @@
 			{
 				"eventtype": "techtalk",
 				"day": "friday",
-				"time": "10:00 PM",
-				"eventtitle": "TBA",
+				"time": "10:30 PM",
+				"eventtitle": "Market Strategy Formulation",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
 				"description": ""
@@ -75,72 +75,55 @@
 				"eventtype": "firstbyte",
 				"day": "friday",
 				"time": "10:30 PM",
+				"eventtitle": "Intro to A-Frame VR",
+				"subtitle": "",
+				"location": "SEL 308",
+				"description": "Introductory workshop devoted to getting those with an intrested in VR"
+			},
+			{
+				"eventtype": "livestream",
+				"day": "friday",
+				"time": "11:30 PM",
+				"eventtitle": "Jeopardy",
+				"subtitle": "",
+				"location": "iSpace",
+				"description": ""
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "friday",
+				"time": "11:30 PM",
 				"eventtitle": "Intro to Web Dev",
 				"subtitle": "",
-				"location": "Room 1",
+				"location": "SEL 311",
 				"description": "Introductory workshop devoted to helping new programmers to understand the basics of web development using HTML & CSS"
-			},
-			{
-				"eventtype": "firstbyte",
-				"day": "friday",
-				"time": "10:30 PM",
-				"eventtitle": "Intro to VR Games",
-				"subtitle": "",
-				"location": "Room 2",
-				"description": "Introductory workshop devoted to getting those with an intrest in VR a hands on experience by making games"
-			},
-			{
-				"eventtype": "techtalk",
-				"day": "friday",
-				"time": "11:00 PM",
-				"eventtitle": "TBA",
-				"subtitle": "",
-				"location": "SEL 5th Floor",
-				"description": ""
 			}],
-	"saturday":[{
-				"eventtype": "techtalk",
-				"day": "friday",
-				"time": "12:00 AM",
-				"eventtitle": "TBA",
+	"saturday":[
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "12:30 AM",
+				"eventtitle": "Intro to Java and JavaFX",
 				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"location": "SEL 308",
 				"description": ""
 			},
 			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "12:30 AM",
-				"eventtitle": "Intro to JavaScript",
-				"subtitle": "",
-				"location": "Room 1",
-				"description": "Introductory workshop building off of intro to web dev where we show you how to implement JavaScript into HTML & CSS"
-			},
-			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "12:30 AM",
-				"eventtitle": "Intro to OOP in Java",
-				"subtitle": "",
-				"location": "Room 2",
-				"description": "Introductory workshop devoted to helping users with some experience get introduced to Object Oriented Programming in Java"
-			},
-			{
-				"eventtype": "techtalk",
+				"eventtype": "livestream",
 				"day": "saturday",
 				"time": "1:00 AM",
-				"eventtitle": "TBA",
+				"eventtitle": "Red Bull Chug",
 				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"location": "SEL 3rd Floor",
 				"description": ""
 			},
 			{
-				"eventtype": "techtalk",
+				"eventtype": "firstbyte",
 				"day": "saturday",
-				"time": "2:00 AM",
-				"eventtitle": "TBA",
-				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"time": "1:30 AM",
+				"eventtitle": "Deploying and Hosting",
+				"subtitle": "Static Websites",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
@@ -153,28 +136,10 @@
 				"description": "Breakfast provided by the Student Union"
 			},
 			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "8:30 AM",
-				"eventtitle": "Intro to Python",
-				"subtitle": "",
-				"location": "Room 1",
-				"description": "Introductory workshop devoted to helping new programmers in a Object Oriented language"
-			},
-			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "8:30 AM",
-				"eventtitle": "Intro to Ruby on Rails",
-				"subtitle": "",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "9:00 AM",
-				"eventtitle": "TBA",
+				"eventtitle": "The Use of Biometrics",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
 				"description": ""
@@ -189,10 +154,19 @@
 				"description": "Come relax and begin your morning with Yoga!"
 			},
 			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "9:30 AM",
+				"eventtitle": "Intro to Large Scale Machine Learning",
+				"subtitle": "",
+				"location": "SEL 308",
+				"description": ""
+			},
+			{
 				"eventtype": "activity",
 				"day": "saturday",
 				"time": "10:00 AM",
-				"eventtitle": "12 Step Program",
+				"eventtitle": "12 Step Meeting",
 				"subtitle": "",
 				"location": "iSpace",
 				"description": ""
@@ -201,7 +175,7 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "10:00 AM",
-				"eventtitle": "TBA",
+				"eventtitle": "Making a reactjs app real time with WebSockets",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
 				"description": ""
@@ -210,45 +184,9 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "10:30 AM",
-				"eventtitle": "Intro to Python Django",
-				"subtitle": "",
-				"location": "Room 1",
-				"description": ""
-			},
-			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "10:30 AM",
-				"eventtitle": "Intro to iOS Dev w/ Swift",
-				"subtitle": "",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
-				"eventtype": "techtalk",
-				"day": "saturday",
-				"time": "11:00 AM",
-				"eventtitle": "TBA",
-				"subtitle": "",
-				"location": "SEL 5th Floor",
-				"description": ""
-			},
-			{
-				"eventtype": "activity",
-				"day": "saturday",
-				"time": "12:00 PM",
-				"eventtitle": "5-Hour Energy",
-				"subtitle": "",
-				"location": "SEL",
-				"description": ""
-			},
-			{
-				"eventtype": "activity",
-				"day": "saturday",
-				"time": "12:00 PM",
-				"eventtitle": "Therapy Dogs",
-				"subtitle": "",
-				"location": "SEL",
+				"eventtitle": "Intro to VR 101",
+				"subtitle": "Get Started Learning Unity",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
@@ -261,73 +199,55 @@
 				"description": "Provided by the Student Union"
 			},
 			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "12:30 PM",
-				"eventtitle": "Advanced HTML & CSS",
-				"subtitle": "",
-				"location": "Room 1",
-				"description": ""
-			},
-			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "12:30 PM",
-				"eventtitle": "Intro to Scala",
-				"subtitle": "",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
 				"eventtype": "activity",
 				"day": "saturday",
-				"time": "1:00 PM",
-				"eventtitle": "MLH !Light",
+				"time": "12:00 PM",
+				"eventtitle": "Therapy Dogs",
 				"subtitle": "",
-				"location": "SEL 1st Floor",
-				"description": "HTML coding competition brought you by MHL. You have 10 minutes to code a random website choosen without using syntax highlighting and running your code"
+				"location": "SEL Main Floor",
+				"description": "Stressed out or just love dogs? Come pet some on the main floor of SEL!"
 			},
 			{
-				"eventtype": "techtalk",
+				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "1:00 PM",
-				"eventtitle": "TBA",
+				"eventtitle": "Programming in Python",
 				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"location": "SEL 311",
+				"description": ""
+			},
+			{
+				"eventtype": "livestream",
+				"day": "saturday",
+				"time": "1:30 PM",
+				"eventtitle": "Chain Reaction",
+				"subtitle": "",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "2:00 PM",
-				"eventtitle": "TBA",
+				"eventtitle": "General Dynamic Mission Systems",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
 				"description": ""
 			},
 			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "2:30 PM",
-				"eventtitle": "Bootstap Web Framework",
-				"subtitle": "",
-				"location": "Room 1",
-				"description": ""
-			},
-			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "2:30 PM",
-				"eventtitle": "Node.js (or similar)",
-				"subtitle": "",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
 				"eventtype": "activity",
 				"day": "saturday",
-				"time": "2:30 PM",
+				"time": "2:00 PM",
 				"eventtitle": "Stressbusters",
+				"subtitle": "",
+				"location": "SEL Main Floor",
+				"description": ""
+			},
+			{
+				"eventtype": "livestream",
+				"day": "saturday",
+				"time": "2:45 PM",
+				"eventtitle": "Password",
 				"subtitle": "",
 				"location": "SEL Main Floor",
 				"description": ""
@@ -345,45 +265,54 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "3:00 PM",
-				"eventtitle": "TBA",
+				"eventtitle": "Safety by Design",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
+				"description": "Tech Talk by Sunquest"
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "3:00 PM",
+				"eventtitle": "Intro to Ruby on Rails Web Dev",
+				"subtitle": "",
+				"location": "SEL 311",
 				"description": ""
 			},
 			{
 				"eventtype": "activity",
 				"day": "saturday",
-				"time": "3:00 PM",
-				"eventtitle": "Elephant March Relay Race",
+				"time": "3:30 PM",
+				"eventtitle": "Minute to Win It Relay Games",
 				"subtitle": "",
 				"location": "SEL Main Floor",
 				"description": ""
 			},
 			{
-				"eventtype": "activity",
+				"eventtype": "livestream",
 				"day": "saturday",
 				"time": "4:00 PM",
-				"eventtitle": "Board Game Tournament",
+				"eventtitle": "Emoji Translator",
 				"subtitle": "",
-				"location": "SEL 1st Floor",
+				"location": "iSpace",
 				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "4:00 PM",
-				"eventtitle": "TBA",
-				"subtitle": "",
+				"eventtitle": "Embedded microcontrollers",
+				"subtitle": "…Bringing your builds to life!",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "This talk by Jacobs will focus on popular open hardware like Arduino and Rasberry Pi and demonstrate how they can be leveraged to control off the shelf electronics components to build your own customized electronics for wearables, robotics, IoT, etc."
 			},
 			{
 				"eventtype": "firstbyte",
 				"day": "saturday",
-				"time": "4:30 PM",
-				"eventtitle": "Building Amazon Alexa Apps",
+				"time": "4:00 PM",
+				"eventtitle": "Intro to JavaScript Programming",
 				"subtitle": "",
-				"location": "Room 1",
+				"location": "SEL 308",
 				"description": ""
 			},
 			{
@@ -399,10 +328,10 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "5:00 PM",
-				"eventtitle": "TBA",
+				"eventtitle": "Real-time Analytics at Internet Scale",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "Using Flink, Superset and Drui. Amazon is going to show you how to Real-time Analytics work in this Tech Talk"
 			},
 			{
 				"eventtype": "activity",
@@ -410,16 +339,7 @@
 				"time": "5:00 PM",
 				"eventtitle": "Charles Darwin",
 				"subtitle": "Improv Show",
-				"location": "SEL Main Floor (200S)",
-				"description": ""
-			},
-			{
-				"eventtype": "techtalk",
-				"day": "saturday",
-				"time": "6:00 PM",
-				"eventtitle": "TBA",
-				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"location": "SEL Main Floor ",
 				"description": ""
 			},
 			{
@@ -432,39 +352,30 @@
 				"description": "Provided by the Student Union"
 			},
 			{
-				"eventtype": "techtalk",
-				"day": "saturday",
-				"time": "8:00 PM",
-				"eventtitle": "TBA",
-				"subtitle": "",
-				"location": "SEL 5th Floor",
-				"description": ""
-			},
-			{
-				"eventtype": "activity",
-				"day": "saturday",
-				"time": "8:00 PM",
-				"eventtitle": "Drone Obstacle Course",
-				"subtitle": "Raytheon",
-				"location": "Bear Down Field",
-				"description": ""
-			},
-			{
 				"eventtype": "firstbyte",
 				"day": "saturday",
-				"time": "8:30 PM",
-				"eventtitle": "Stat analysys in R",
-				"subtitle": "",
-				"location": "Room 1",
+				"time": "7:00 PM",
+				"eventtitle": "Clientside JavaScript",
+				"subtitle": "with JQuery",
+				"location": "SEL  311",
 				"description": ""
 			},
 			{
-				"eventtype": "firstbyte",
+				"eventtype": "livestream",
 				"day": "saturday",
-				"time": "8:30 PM",
-				"eventtitle": "Intro to Android in Java",
+				"time": "7:00 PM",
+				"eventtitle": "$100,000 Pyramid",
 				"subtitle": "",
-				"location": "Room 2",
+				"location": "iSpace",
+				"description": ""
+			},
+			{
+				"eventtype": "livestream",
+				"day": "saturday",
+				"time": "7:45 PM",
+				"eventtitle": "Name That Tune",
+				"subtitle": "",
+				"location": "iSpace",
 				"description": ""
 			},
 			{
@@ -480,46 +391,64 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "10:30 PM",
-				"eventtitle": "Deploying websites",
-				"subtitle": "& security",
-				"location": "Room 1",
+				"eventtitle": "Intro to Node.js",
+				"subtitle": "",
+				"location": "SEL 311",
+				"description": ""
+			},
+			{
+				"eventtype": "firstbyte",
+				"day": "saturday",
+				"time": "10:30 PM",
+				"eventtitle": "Swift Programming &",
+				"subtitle": "iOS Development",
+				"location": "SEL 308",
+				"description": ""
+			},
+			{
+				"eventtype": "livestream",
+				"day": "saturday",
+				"time": "10:45 PM",
+				"eventtitle": "Hacker Squad (Family) Feud",
+				"subtitle": "",
+				"location": "iSpace",
 				"description": ""
 			},
 			{
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "11:00 PM",
-				"eventtitle": "TBA",
+				"eventtitle": "IoT Exploitation",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "This talk by Jacobs will take a high level look at the vulnerabilities and attack surfaces surrounding one the most rapidly expanding markets in tech today."
 			},
 			{
-				"eventtype": "activity",
+				"eventtype": "livestream",
 				"day": "saturday",
 				"time": "11:59 PM",
 				"eventtitle": "Midnight Karaoke",
 				"subtitle": "",
-				"location": "SEL Main (200S)",
+				"location": "SEL Main",
 				"description": ""
 			}],
 	"sunday":[
 			{
-				"eventtype": "techtalk",
+				"eventtype": "firstbyte",
 				"day": "saturday",
-				"time": "12:00 AM",
-				"eventtitle": "TBA",
-				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"time": "12:30 AM",
+				"eventtitle": "Bootstrap",
+				"subtitle": "A Popular Web Framework",
+				"location": "SEL 308",
 				"description": ""
 			},
 			{
-				"eventtype": "techtalk",
+				"eventtype": "livestream",
 				"day": "saturday",
-				"time": "1:00 AM",
-				"eventtitle": "TBA",
+				"time": "1:45 AM",
+				"eventtitle": "Dance Party",
 				"subtitle": "",
-				"location": "SEL 5th Floor",
+				"location": "SEL Main Floor",
 				"description": ""
 			},
 			{
@@ -529,15 +458,6 @@
 				"eventtitle": "Breakfast",
 				"subtitle": "",
 				"location": "West of SEL",
-				"description": ""
-			},
-			{
-				"eventtype": "activity",
-				"day": "sunday",
-				"time": "9:00 AM",
-				"eventtitle": "Stress Busters",
-				"subtitle": "",
-				"location": "SEL Main Floor (200S)",
 				"description": ""
 			},
 			{

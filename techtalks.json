@@ -8,10 +8,10 @@
 			}],
 	"saturday":[{
 				"sponsor": "State Farm",
-				"talk": "Use of Biometrics",
+				"talk": "The Use of Biometrics",
 				"time": "9:00am",
 				"location": "SEL 5th Floor",
-				"description": "The use of biometrics to reduce or eliminate the risk associated with online identification of your accounts"
+				"description": "Using biometrics to reduce or eliminate the risk associated with online identification of your accounts"
 			},
 			{
 				"sponsor": "Go Daddy",
@@ -29,10 +29,10 @@
 			},
 			{
 				"sponsor": "Jacobs",
-				"talk": "Embedded Microcontrollers",
+				"talk": "Embedded microcontrollers…Bringing your builds to life!",
 				"time": "4:00pm",
 				"location": "SEL 5th floor",
-				"description": ""
+				"description": "This talk will focus on popular open hardware like Arduino and Rasberry Pi and demonstrate how they can be leveraged to control off the shelf electronics components to build your own customized electronics for wearables, robotics, IoT, etc."
 			},
 			{
 				"sponsor": "Amazon",
@@ -46,7 +46,7 @@
 				"talk": "IoT Exploitation",
 				"time": "11:00pm",
 				"location": "SEL 5th floor",
-				"description": ""
+				"description": "This talk will take a high level look at the vulnerabilities and attack surfaces surrounding one the most rapidly expanding markets in tech today."
 			}],
 	"sunday":[
 			{
