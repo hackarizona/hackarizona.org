@@ -316,15 +316,6 @@
 				"description": ""
 			},
 			{
-				"eventtype": "firstbyte",
-				"day": "saturday",
-				"time": "4:30 PM",
-				"eventtitle": "Databases",
-				"subtitle": "(Mongo or similar)",
-				"location": "Room 2",
-				"description": ""
-			},
-			{
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "5:00 PM",
