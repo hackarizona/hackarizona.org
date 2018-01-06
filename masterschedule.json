@@ -157,8 +157,8 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "9:30 AM",
-				"eventtitle": "Intro to Large Scale Machine Learning",
-				"subtitle": "",
+				"eventtitle": "Intro to Large Scale",
+				"subtitle": "Machine Learning",
 				"location": "SEL 308",
 				"description": ""
 			},
@@ -175,8 +175,8 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "10:00 AM",
-				"eventtitle": "Making a reactjs app real time with WebSockets",
-				"subtitle": "",
+				"eventtitle": "Making a reactjs app real",
+				"subtitle": "time with WebSockets",
 				"location": "SEL 5th Floor",
 				"description": ""
 			},
@@ -229,7 +229,7 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "2:00 PM",
-				"eventtitle": "General Dynamic Mission Systems",
+				"eventtitle": "TBA",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
 				"description": ""
@@ -274,7 +274,7 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "3:00 PM",
-				"eventtitle": "Intro to Ruby on Rails Web Dev",
+				"eventtitle": "Intro to Ruby on Rails",
 				"subtitle": "",
 				"location": "SEL 311",
 				"description": ""
@@ -283,8 +283,8 @@
 				"eventtype": "activity",
 				"day": "saturday",
 				"time": "3:30 PM",
-				"eventtitle": "Minute to Win It Relay Games",
-				"subtitle": "",
+				"eventtitle": "Minute to Win It",
+				"subtitle": "Relay Games",
 				"location": "SEL Main Floor",
 				"description": ""
 			},
@@ -310,7 +310,7 @@
 				"eventtype": "firstbyte",
 				"day": "saturday",
 				"time": "4:00 PM",
-				"eventtitle": "Intro to JavaScript Programming",
+				"eventtitle": "Intro to JavaScript",
 				"subtitle": "",
 				"location": "SEL 308",
 				"description": ""
@@ -328,8 +328,8 @@
 				"eventtype": "techtalk",
 				"day": "saturday",
 				"time": "5:00 PM",
-				"eventtitle": "Real-time Analytics at Internet Scale",
-				"subtitle": "",
+				"eventtitle": "Real-time Analytics at",
+				"subtitle": "Internet Scale",
 				"location": "SEL 5th Floor",
 				"description": "Using Flink, Superset and Drui. Amazon is going to show you how to Real-time Analytics work in this Tech Talk"
 			},
