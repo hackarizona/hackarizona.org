@@ -29,7 +29,7 @@
 				"activity": "Yoga",
 				"subtitle": "",
 				"location": "Grass Area South of Koffler",
-				"description": "Come relax and begin your morning with Yoga!"
+				"description": "Yoga is a great way to clear your head and recharge your body in the midst. A recently graduated UA graduate student has offered to volunteer her skills in some relaxing and energizing yoga on the mall."
 			},
 			{
 				"day": "saturday",
@@ -37,15 +37,8 @@
 				"activity": "12 Step Meeting",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": "No description has been provided for this event"
-			},
-			{
-				"day": "saturday",
-				"time": "12:00 PM",
-				"activity": "5-Hour Energy",
-				"subtitle": "",
-				"location": "SEL",
-				"description": "No description has been provided for this event"
+				"description": "At the UA Hackathon, we support our hackers, volunteers, organizers, and mentors who are in recovery. There will be a 12 step meeting on Saturday at 10:00am in the iSpace (2nd floor of the Science and Engineering Library) open to anyone working a 12 step recovery program. If you would like information about meetings in Tucson for additional meetings or support for AA, Alanon, SLAA, or NA, you can find links to them below.
+									If your program isn't listed here and you need help finding resources, feel free to email stephensrec@gmail.com and we can help you find the right meeting. \nhttp://aatucson.org/ \nhttp://www.al-anon-southernaz.org/ \nhttp://www.tucsonslaa.org/ \nhttp://www.natucson.org/meetinglist.php"
 			},
 			{
 				"day": "saturday",
@@ -53,7 +46,7 @@
 				"activity": "Therapy Dogs",
 				"subtitle": "",
 				"location": "SEL",
-				"description": "No description has been provided for this event"
+				"description": "The Pet Partners of Southern Arizona will be bringing therapy dogs to our hackathon again this year! Come hang out with all the puppers and doggos your heart can handle."
 			},
 			{
 				"day": "saturday",
@@ -61,15 +54,15 @@
 				"activity": "Stressbusters",
 				"subtitle": "",
 				"location": "SEL Main Floor",
-				"description": "No description has been provided for this event"
+				"description": "The UA Stressbusters student volunteers will be providing free back rubs at the hackathon to give participants a chance to relax and decrease muscle tension during the hackathon."
 			},
-            {
+			{
 				"day": "saturday",
 				"time": "3:00 PM",
 				"activity": "Smash Bros Melee Tourney",
 				"subtitle": "",
 				"location": "SEL 1st Floor",
-				"description": "No description has been provided for this event"
+				"description": "Probably our most anticipated activity of the hackathon, the Super Smash Brothers Melee Competition is a 4 hour tournament!"
 			},
 			{
 				"day": "saturday",
@@ -77,30 +70,32 @@
 				"activity": "Minute to Win It Relay Games",
 				"subtitle": "",
 				"location": "SEL Main Floor",
-				"description": "No description has been provided for this event"
+				"description": "The Elephant March is a wacky and fun relay race where students compete to swing and knock over bottles using only the tennis ball inside the nylons pulled over their head, it’s ridiculous to watch and hilarious to play!\n
+									In the Donut Eating Race will compete to see who can finish a donut on a string the fastest above their head without their hands in our Donut Eating Contest \n
+									The Red Bull Chugging Contest is a fun live streamed activity where students compete to chug a can of Red Bull."
 			},
-            {
+			{
 				"day": "saturday",
 				"time": "5:00 PM",
 				"activity": "Charles Darwin Improv Show",
 				"subtitle": "",
 				"location": "SEL Main Floor",
-				"description": "No description has been provided for this event"
-            },
+				"description": "The Charles Darwin Experience is the University’s only all improv comedy group and this year they are making their Hack Arizona debut! Come be an active audience member in shouting out zany suggestions for the improvised games the Darwins will be playing in a fun “Whose Line Is It Anyway?” style performance."
+			},
 			{
 				"day": "saturday",
 				"time": "9:00 PM",
 				"activity": "Hypnotist",
 				"subtitle": "",
 				"location": "SEL Main Floor (200S)",
-				"description": "No description has been provided for this event"
+				"description": "Come participate in or simple be a spectator to our biggest activity of the hackathon, our comedy hypnotist! This unique and engaging show will convince the non-believers how influential the power of persuasion can have on the mind."
 			}],
 	"sunday":[{
-				"day": "",
-				"time": "",
-				"activity": "",
+				"day": "sunday",
+				"time": "1:45 AM",
+				"activity": "Dance Party",
 				"subtitle": "",
-				"location": "",
-				"description": ""
+				"location": "Main Floor",
+				"description": "Come get lit with the Hack AZ squad at our dance party on the Main Floor"
 			}]
 }

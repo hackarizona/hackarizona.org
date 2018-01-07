@@ -3,78 +3,78 @@
 				"workshop": "Intro to A-Frame VR",
 				"time": "10:30pm",
 				"location": "SEL 308",
-				"description": "Introductory workshop devoted to getting those with an intrested in VR"
+				"description": "Learn to build a virtual model of the solar system. This workshop is presented by StateFarm and is from 10:30pm-12:30am"
 			},
 			{
 				"workshop": "Intro to Web Dev",
 				"time": "11:30pm",
 				"location": "SEL 311",
-				"description": "Introductory workshop devoted to helping new programmers to understand the basics of web development using HTML & CSS"
+				"description": "Learn to build a static portfolio website, using HTM & CSS. Presented by Hack Arizona's Cooper Kunz, this is a fantastic workshop to attend if you are new to programming. This workshop is from 11:30pm-1:30am"
 			}],
 	"saturday":[{
 				"workshop": "Intro to Java and JavaFX",
 				"time": "12:30am",
 				"location": "SEL 308",
-				"description": "Introductory workshop into Java and it's UI Framework JavaFX"
+				"description": "Model the solar system in Java. This workshop is presented by Hack Arizona's Hannah Parraga and will go from 13:30am-2:30am"
 			},
 			{
 				"workshop": "Deploying and Hosting Static Websites",
 				"time": "1:30am",
 				"location": "SEL 311",
-				"description": "No description has been provided for this event"
+				"description": "This workshop by Hack Arizona's firstByte Director Cooper Kunz will show you how to use GitHub Pages and Cloudflare to deploy your websites. This workshop lasts until 2:30am"
 			},
 			{
 				"workshop": "Intro to Large Scale Machine Learning",
 				"time": "9:30am",
 				"location": "SEL 308",
-				"description": "No description has been provided for this event"
+				"description": "Using Scala and Apache Spark MLib, Srini Vemula is going to give you a taste in Large Scale Machine Learning from 9:30am-12:30pm"
 			},
 			{
 				"workshop": "Intro to VR 101",
 				"time": "10:30am",
 				"location": "SEL 311",
-				"description": "Get Started Learning Unity"
+				"description": "Hack Arizona's Robert Johnson is going to give you some insight VR using Unity. This workshop is from 10:30am-12:30pm"
 			},
 			{
-				"workshop": "Programming in Python",
+				"workshop": "Intro to Python & Coding",
 				"time": "1:30pm",
 				"location": "SEL 311",
-				"description": "No description has been provided for this event"
+				"description": "Inara Lysne is here to teach you basics of Python and coding fundamentals. This is a great workshop to attend of you are new to programming, it goes from 1:00pm-3:00pm"
 			},
 			{
 				"workshop": "Intro to Ruby on Rails Web Dev",
 				"time": "3:00pm",
 				"location": "SEL 311",
-				"description": "No description has been provided for this event"
+				"description": "Presented by Hack Arizona's Morgan Heck, he is going to teach you the basics of the popular web framework Ruby on Rails. This workshop runs from 3:00pm-5:00pm"
 			},
 			{
 				"workshop": "Intro to JavaScript Programming",
 				"time": "4:00pm",
 				"location": "SEL 308",
-				"description": "No description has been provided for this event"
+				"description": "Learn the basics of JavaScript presented by Peter Fesz-Nguyen. This is a great workshop to build onto your knowledge of web dev, especially those of you that attended they Intro to Web Dev workshop. This workshop goes from 4:00pm-6:00pm"
 			},
 			{
 				"workshop": "Clientside JavaScript with JQuery",
 				"time": "7:00pm",
 				"location": "SEL 311",
-				"description": "No description has been provided for this event"
+				"description": "Build on your recently learn JavaScript knowledge by implementing it with JQuery. Taught by Peter Fesz-Nguyen and runs from 7:00pm-9:00pm"
 			},
 			{
 				"workshop": "Intro to Node.js",
 				"time": "10:30pm",
 				"location": "SEL 311",
-				"description": "No description has been provided for this event"
+				"description": "So you learned JavaScript, then you learned JavaScript with JQuery... you might as well keep on going cause Peter Fesz-Nguyen is going to teach you about Node.js from 10:30pm-12:30am"
 			},
 			{
 				"workshop": "Swift Programming and iOS Development",
 				"time": "10:30pm",
 				"location": "SEL 308",
-				"description": "No description has been provided for this event"
+				"description": "Hackathon project not going so well? No worries! Cooper is here to get you up and running using Swift to develop and iOS app!"
 			}],
 	"sunday":[{
 				"workshop": "Bootstrap, a Popular Web Framework",
 				"time": "12:30am",
 				"location": "SEL 308",
-				"description": "No description has been provided for this event"
+				"description": "So you've attended all the web dev workshops and you have a nice little website going. Now it's time to make it look fantastic! Cooper is here to show you how with the Bootstrap framework from 12:30am-2:30am"
 			}]
 }

@@ -7,11 +7,11 @@
 				"description": "No description has been provided for this event"
 			}],
 	"saturday":[{
-				"sponsor": "State Farm",
+				"sponsor": "StateFarm",
 				"talk": "The Use of Biometrics",
 				"time": "9:00am",
 				"location": "SEL 5th Floor",
-				"description": "Using biometrics to reduce or eliminate the risk associated with online identification of your accounts"
+				"description": "Using biometrics to reduce or eliminate the risk associated with online identification of your accounts."
 			},
 			{
 				"sponsor": "Go Daddy",
@@ -28,6 +28,13 @@
 				"description": "No description has been provided for this event"
 			},
 			{
+				"sponsor": "Sunquest Information Systems",
+				"talk": "Safety By Design",
+				"time": "3:00pm",
+				"location": "SEL 5th Floor",
+				"description": "In the Healthcare industry, safety is a part of everything we do. With the oncoming AI revolution safety will take on an even greater role as software begins to interact more and more with the physical world. This talk will focus on how Sunquest Information Systems approaches the safety problem and how others might follow."
+			},
+			{
 				"sponsor": "Jacobs",
 				"talk": "Embedded microcontrollers…Bringing your builds to life!",
 				"time": "4:00pm",
@@ -39,7 +46,7 @@
 				"talk": "Real-time Analytics at Internet Scale with Filink, Supeset and Druid",
 				"time": "5:00pm",
 				"location": "SEL 5th floor",
-				"description": "No description has been provided for this event"
+				"description": "Using Flink, Superset and Druid. Amazon is going to show you how to Real-time Analytics work in this Tech Talk"
 			},
 			{
 				"sponsor": "Jacobs",
@@ -55,6 +62,6 @@
 				"subtitle":"",
 				"time": "",
 				"location": "",
-				"description": "No description has been provided for this event"
+				"description": "No Tech Talks have been scheduled for this day"
 			}]
 }
