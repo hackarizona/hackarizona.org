@@ -53,10 +53,6 @@ body {
 	text-align: center;
 	line-height: 48px;
 }
-#header img {
-	height: 48px;
-	width: auto;
-}
 #hero #attribution{
 	top: 50%;
 	font-size: 10px;
