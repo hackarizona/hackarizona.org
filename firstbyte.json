@@ -21,13 +21,13 @@
 				"workshop": "Deploying and Hosting Static Websites",
 				"time": "1:30am",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Intro to Large Scale Machine Learning",
 				"time": "9:30am",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Intro to VR 101",
@@ -39,42 +39,42 @@
 				"workshop": "Programming in Python",
 				"time": "1:30pm",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Intro to Ruby on Rails Web Dev",
 				"time": "3:00pm",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Intro to JavaScript Programming",
 				"time": "4:00pm",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Clientside JavaScript with JQuery",
 				"time": "7:00pm",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Intro to Node.js",
 				"time": "10:30pm",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"workshop": "Swift Programming and iOS Development",
 				"time": "10:30pm",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			}],
 	"sunday":[{
 				"workshop": "Bootstrap, a Popular Web Framework",
 				"time": "12:30am",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			}]
 }

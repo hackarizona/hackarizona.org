@@ -4,7 +4,7 @@
 				"talk": "Market Strategy Formulation",
 				"time": "10:30pm",
 				"location": "SEL 5th floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			}],
 	"saturday":[{
 				"sponsor": "State Farm",
@@ -25,7 +25,7 @@
 				"talk": "TBA",
 				"time": "2:00pm",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"sponsor": "Jacobs",
@@ -39,7 +39,7 @@
 				"talk": "Real-time Analytics at Internet Scale with Filink, Supeset and Druid",
 				"time": "5:00pm",
 				"location": "SEL 5th floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"sponsor": "Jacobs",
@@ -55,6 +55,6 @@
 				"subtitle":"",
 				"time": "",
 				"location": "",
-				"description": ""
+				"description": "No description has been provided for this event"
 			}]
 }

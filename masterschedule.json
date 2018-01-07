@@ -60,7 +60,7 @@
 				"eventtitle": "ESports Tournament",
 				"subtitle": "",
 				"location": "SEL Main Floor (200S)",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -69,7 +69,7 @@
 				"eventtitle": "Market Strategy Formulation",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -87,7 +87,7 @@
 				"eventtitle": "Jeopardy",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -106,7 +106,7 @@
 				"eventtitle": "Intro to Java and JavaFX",
 				"subtitle": "",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -115,7 +115,7 @@
 				"eventtitle": "Red Bull Chug",
 				"subtitle": "",
 				"location": "SEL 3rd Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -124,7 +124,7 @@
 				"eventtitle": "Deploying and Hosting",
 				"subtitle": "Static Websites",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "food",
@@ -142,7 +142,7 @@
 				"eventtitle": "The Use of Biometrics",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "activity",
@@ -160,7 +160,7 @@
 				"eventtitle": "Intro to Large Scale",
 				"subtitle": "Machine Learning",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "activity",
@@ -169,7 +169,7 @@
 				"eventtitle": "12 Step Meeting",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -178,7 +178,7 @@
 				"eventtitle": "Making a reactjs app real",
 				"subtitle": "time with WebSockets",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -187,7 +187,7 @@
 				"eventtitle": "Intro to VR 101",
 				"subtitle": "Get Started Learning Unity",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "food",
@@ -214,7 +214,7 @@
 				"eventtitle": "Programming in Python",
 				"subtitle": "",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -223,7 +223,7 @@
 				"eventtitle": "Chain Reaction",
 				"subtitle": "",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -232,7 +232,7 @@
 				"eventtitle": "TBA",
 				"subtitle": "",
 				"location": "SEL 5th Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "activity",
@@ -241,7 +241,7 @@
 				"eventtitle": "Stressbusters",
 				"subtitle": "",
 				"location": "SEL Main Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -250,7 +250,7 @@
 				"eventtitle": "Password",
 				"subtitle": "",
 				"location": "SEL Main Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "activity",
@@ -259,7 +259,7 @@
 				"eventtitle": "Smash Bros Melee Tourney",
 				"subtitle": "",
 				"location": "SEL 1st Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -277,7 +277,7 @@
 				"eventtitle": "Intro to Ruby on Rails",
 				"subtitle": "",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "activity",
@@ -286,7 +286,7 @@
 				"eventtitle": "Minute to Win It",
 				"subtitle": "Relay Games",
 				"location": "SEL Main Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -295,7 +295,7 @@
 				"eventtitle": "Emoji Translator",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -313,7 +313,7 @@
 				"eventtitle": "Intro to JavaScript",
 				"subtitle": "",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -331,7 +331,7 @@
 				"eventtitle": "Charles Darwin",
 				"subtitle": "Improv Show",
 				"location": "SEL Main Floor ",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "food",
@@ -349,7 +349,7 @@
 				"eventtitle": "Clientside JavaScript",
 				"subtitle": "with JQuery",
 				"location": "SEL  311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -358,7 +358,7 @@
 				"eventtitle": "$100,000 Pyramid",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -367,7 +367,7 @@
 				"eventtitle": "Name That Tune",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "activity",
@@ -376,7 +376,7 @@
 				"eventtitle": "Hypnotist",
 				"subtitle": "",
 				"location": "SEL Main Floor (200S)",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -385,7 +385,7 @@
 				"eventtitle": "Intro to Node.js",
 				"subtitle": "",
 				"location": "SEL 311",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "firstbyte",
@@ -394,7 +394,7 @@
 				"eventtitle": "Swift Programming &",
 				"subtitle": "iOS Development",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -403,7 +403,7 @@
 				"eventtitle": "Hacker Squad (Family) Feud",
 				"subtitle": "",
 				"location": "iSpace",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "techtalk",
@@ -421,7 +421,7 @@
 				"eventtitle": "Midnight Karaoke",
 				"subtitle": "",
 				"location": "SEL Main",
-				"description": ""
+				"description": "No description has been provided for this event"
 			}],
 	"sunday":[
 			{
@@ -431,7 +431,7 @@
 				"eventtitle": "Bootstrap",
 				"subtitle": "A Popular Web Framework",
 				"location": "SEL 308",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "livestream",
@@ -440,7 +440,7 @@
 				"eventtitle": "Dance Party",
 				"subtitle": "",
 				"location": "SEL Main Floor",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "food",
@@ -449,7 +449,7 @@
 				"eventtitle": "Breakfast",
 				"subtitle": "",
 				"location": "West of SEL",
-				"description": ""
+				"description": "No description has been provided for this event"
 			},
 			{
 				"eventtype": "required",
