@@ -21,8 +21,22 @@
 				"description": "Learn about nodejs, reactJs, yarn, websockets, and publishing a web application to github pages. We will be building a chat application using FaceBook’s create-react-app and a websocket api.  All source code will be published to github during the presentation."
 			},
 			{
-				"sponsor": "General Dynamic Mission Systems",
+				"sponsor": "Google Cloud",
 				"talk": "TBA",
+				"time": "11:00am",
+				"location": "SEL 5th Floor",
+				"description": "No description has been provided for this event"
+			},
+			{
+				"sponsor": "General Dynamic Mission Systems",
+				"talk": "Cryptography-Why Should We Care?",
+				"time": "1:00pm",
+				"location": "SEL 5th Floor",
+				"description": "No description has been provided for this event"
+			},
+			{
+				"sponsor": "General Dynamic Mission Systems",
+				"talk": "Designing Systems, Hardware and Software for Use in Space",
 				"time": "2:00pm",
 				"location": "SEL 5th Floor",
 				"description": "No description has been provided for this event"
