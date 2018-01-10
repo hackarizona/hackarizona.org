@@ -7,6 +7,7 @@
 			"subtitle": "",
 			"location": "special",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Hack Arizona participants will check in at the tables in front of Centennial Hall starting at 4:30 PM"
 		},
 		{
@@ -17,6 +18,7 @@
 			"subtitle": "",
 			"location": "UA Mall",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Expo prior to opening ceremony where participants can handout resumes and learn more about our sponsors"
 		},
 		{
@@ -27,6 +29,7 @@
 			"subtitle": "",
 			"location": "UA Mall",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Dinner is provided by the Student Union"
 		},
 		{
@@ -37,6 +40,7 @@
 			"subtitle": "",
 			"location": "Centennial Hall",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Welcoming our sponsors and participants to Hack Arizona 2018 with a special Keynote Speaker!"
 		},
 		{
@@ -47,6 +51,7 @@
 			"subtitle": "",
 			"location": "SEL",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Participants can begin hacking"
 		},
 		{
@@ -57,6 +62,7 @@
 			"subtitle": "",
 			"location": "Under Henry Koffler Building",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Don't have a team yet? No problem! Head to community area outside Henry Koffler at 9 PM for a meet and greet of other participants who don't have a team"
 		},
 		{
@@ -67,6 +73,7 @@
 			"subtitle": "",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "No description has been provided for this event"
 		},
 		{
@@ -77,6 +84,7 @@
 			"subtitle": "",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "No description has been provided for this event"
 		},
 		{
@@ -87,7 +95,8 @@
 			"subtitle": "",
 			"location": "SEL 5th Floor",
 			"sponsor": "Sunquest Information Systems",
-			"description": "No description has been provided for this event"
+			"presenter": "",
+			"description": "Understanding Key Elements of a Successful Marketing Strategy"
 		},
 		{
 			"eventtype": "firstbyte",
@@ -97,6 +106,7 @@
 			"subtitle": "",
 			"location": "SEL 308",
 			"sponsor": "",
+			"presenter": "StateFarm's Team",
 			"description": "Learn to build a virtual model of the solar system. This workshop is presented by StateFarm and is from 10:30pm-12:30am"
 		},
 		{
@@ -107,6 +117,7 @@
 			"subtitle": "",
 			"location": "iSpace",
 			"sponsor": "",
+			"presenter": "",
 			"description": "What is … answering questions to win an AWESOME prize?? Head to the Live Stream Studio to join in on all the Jeopardy action."
 		},
 		{
@@ -117,6 +128,7 @@
 			"subtitle": "",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "Cooper Kunz",
 			"description": "Learn to build a static portfolio website, using HTM & CSS. Presented by Hack Arizona's Cooper Kunz, this is a fantastic workshop to attend if you are new to programming. This workshop is from 11:30pm-1:30am"
 		}
 	],
@@ -128,6 +140,7 @@
 			"subtitle": "",
 			"location": "SEL 308",
 			"sponsor": "",
+			"presenter": "Hannah Parraga",
 			"description": "Model the solar system in Java. This workshop is presented by Hack Arizona's Hannah Parraga and will go from 13:30am-2:30am"
 		},
 		{
@@ -138,6 +151,7 @@
 			"subtitle": "",
 			"location": "SEL 3rd Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "CHUG! CHUG! CHUG! CHUG! Come shotgun a can to get your weekend started on the 3rd floor!"
 		},
 		{
@@ -148,6 +162,7 @@
 			"subtitle": "Static Websites",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "Cooper Kunz",
 			"description": "This workshop by Hack Arizona's firstByte Director Cooper Kunz will show you how to use GitHub Pages and Cloudflare to deploy your websites. This workshop lasts until 2:30am"
 		},
 		{
@@ -158,6 +173,7 @@
 			"subtitle": "",
 			"location": "West of SEL",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Breakfast provided by the Student Union"
 		},
 		{
@@ -168,6 +184,7 @@
 			"subtitle": "",
 			"location": "SEL 5th Floor",
 			"sponsor": "StateFarm",
+			"presenter": "",
 			"description": "Using biometrics to reduce or eliminate the risk associated with online identification of your accounts. Presented by StateFarm"
 		},
 		{
@@ -178,6 +195,7 @@
 			"subtitle": "",
 			"location": "Grass Area South of Koffler",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Yoga is a great way to clear your head and recharge your body in the midst. A recently graduated UA graduate student has offered to volunteer her skills in some relaxing and energizing yoga on the mall."
 		},
 		{
@@ -188,6 +206,7 @@
 			"subtitle": "Machine Learning",
 			"location": "SEL 308",
 			"sponsor": "",
+			"presenter": "Srini Vemula",
 			"description": "Using Scala and Apache Spark MLib, Srini Vemula is going to give you a taste in Large Scale Machine Learning from 9:30am-12:30pm"
 		},
 		{
@@ -198,6 +217,7 @@
 			"subtitle": "",
 			"location": "iSpace",
 			"sponsor": "",
+			"presenter": "",
 			"description": "At the UA Hackathon, we support our hackers, volunteers, organizers, and mentors who are in recovery. There will be a 12 step meeting on Saturday at 10:00am in the iSpace (2nd floor of the Science and Engineering Library) open to anyone working a 12 step recovery program. If you would like information about meetings in Tucson for additional meetings or support for AA, Alanon, SLAA, or NA, you can find links to them below. If your program isn't listed here and you need help finding resources, feel free to email stephensrec@gmail.com and we can help you find the right meeting. http://aatucson.org/ http://www.al-anon-southernaz.org/ http://www.tucsonslaa.org/ http://www.natucson.org/meetinglist.php"
 		},
 		{
@@ -208,6 +228,7 @@
 			"subtitle": "time with WebSockets",
 			"location": "SEL 5th Floor",
 			"sponsor": "Go Daddy",
+			"presenter": "",
 			"description": "Learn about node.js, react.js, yarn, websockets, and publishing a web application to github pages. We will be building a chat application using FaceBook’s create-react-app and a websocket api.  All source code will be published to github during the presentation. Presented by Go Daddy"
 		},
 		{
@@ -218,7 +239,19 @@
 			"subtitle": "Get Started Learning Unity",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "Robert Johnson",
 			"description": "Hack Arizona's Robert Johnson is going to give you some insight VR using Unity. This workshop is from 10:30am-12:30pm"
+		},
+		{
+			"eventtype": "techtalk",
+			"day": "saturday",
+			"time": "11:00 AM",
+			"eventtitle": "Getting Started with Google Cloud Platform",
+			"subtitle": "",
+			"location": "SEL 5th Floor",
+			"sponsor": "Google Cloud",
+			"presenter": "",
+			"description": "In this talk, we'll learn about 5 Machine Learning APIs, how to deploy an application to the cloud, and review the basic concepts of cloud. The talk is heavily focused on technologies that you can use in your hackathon projects!"
 		},
 		{
 			"eventtype": "food",
@@ -228,6 +261,7 @@
 			"subtitle": "",
 			"location": "West of SEL",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Provided by the Student Union"
 		},
 		{
@@ -238,16 +272,29 @@
 			"subtitle": "",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "The Pet Partners of Southern Arizona will be bringing therapy dogs to our hackathon again this year! Come hang out with all the puppers and doggos your heart can handle."
+		},
+		{
+			"eventtype": "techtalk",
+			"day": "saturday",
+			"time": "1:00 PM",
+			"eventtitle": "Cryptography-Why Should We Care?",
+			"subtitle": "",
+			"location": "SEL 5th Floor",
+			"sponsor": "General Dynamic Mission Systems",
+			"presenter": "",
+			"description": "Paul Grumley and Curtis Wyatt, Software Systems Engineers from General Dynamics Mission Systems presenting a summary of cryptography.  Topics include a brief history, the fundamentals, and what it means to you in your personal and professional lives"
 		},
 		{
 			"eventtype": "firstbyte",
 			"day": "saturday",
-			"time": "1:30 PM",
+			"time": "1:00 PM",
 			"eventtitle": "Intro to Python & Coding",
 			"subtitle": "",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "Inara Lysne",
 			"description": "Inara Lysne is here to teach you basics of Python and coding fundamentals. This is a great workshop to attend of you are new to programming, it goes from 1:00pm-3:00pm"
 		},
 		{
@@ -258,6 +305,7 @@
 			"subtitle": "",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Can you->you link->link words->words together? Come join us in the Live Stream Studio to play this classic game show game!"
 		},
 		{
@@ -268,7 +316,8 @@
 			"subtitle": "and Software for Use in Space",
 			"location": "SEL 5th Floor",
 			"sponsor": "General Dynamic Mission Systems",
-			"description": "No description has been provided for this event"
+			"presenter": "",
+			"description": "Tom Butler, Senior Engineering Manager from General Dynamics Mission Systems presenting an overview of engineering challenges when designing systems for use in space. Topics include architectural considerations, overcoming harsh environmental requirements, special processes and current space system examples."
 		},
 		{
 			"eventtype": "activity",
@@ -278,6 +327,7 @@
 			"subtitle": "",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "The UA Stressbusters student volunteers will be providing free back rubs at the hackathon to give participants a chance to relax and decrease muscle tension during the hackathon."
 		},
 		{
@@ -288,6 +338,7 @@
 			"subtitle": "",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Can you and a pal guess the password with only one word clues? Bring a friend to the live stream studio to play a Tonight Show classic game!"
 		},
 		{
@@ -298,6 +349,7 @@
 			"subtitle": "",
 			"location": "SEL 1st Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Probably our most anticipated activity of the hackathon, the Super Smash Brothers Melee Competition is a 4 hour tournament!"
 		},
 		{
@@ -308,6 +360,7 @@
 			"subtitle": "",
 			"location": "SEL 5th Floor",
 			"sponsor": "Sunquest Information Systems",
+			"presenter": "",
 			"description": "In the Healthcare industry, safety is a part of everything we do. With the oncoming AI revolution safety will take on an even greater role as software begins to interact more and more with the physical world. This talk will focus on how Sunquest Information Systems approaches the safety problem and how others might follow. Presented by Sunquest Information Systems"
 		},
 		{
@@ -318,6 +371,7 @@
 			"subtitle": "",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "Morgan Heck",
 			"description": "Presented by Hack Arizona's Morgan Heck, he is going to teach you the basics of the popular web framework Ruby on Rails. This workshop runs from 3:00pm-5:00pm"
 		},
 		{
@@ -328,6 +382,7 @@
 			"subtitle": "Relay Games",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "The Elephant March is a wacky and fun relay race where students compete to swing and knock over bottles using only the tennis ball inside the nylons pulled over their head, it’s ridiculous to watch and hilarious to play! In the Donut Eating Race will compete to see who can finish a donut on a string the fastest above their head without their hands in our Donut Eating Contest. The Red Bull Chugging Contest is a fun live streamed activity where students compete to chug a can of Red Bull."
 		},
 		{
@@ -338,6 +393,7 @@
 			"subtitle": "",
 			"location": "iSpace",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Emoji game on point?? Head to the Live Stream studio to see if you can read our emoji phrases!"
 		},
 		{
@@ -348,6 +404,7 @@
 			"subtitle": "…Bringing your builds to life!",
 			"location": "SEL 5th Floor",
 			"sponsor": "Jacobs",
+			"presenter": "",
 			"description": "This talk by Jacobs will focus on popular open hardware like Arduino and Rasberry Pi and demonstrate how they can be leveraged to control off the shelf electronics components to build your own customized electronics for wearables, robotics, IoT, etc. Presented by Jacobs"
 		},
 		{
@@ -358,6 +415,7 @@
 			"subtitle": "",
 			"location": "SEL 308",
 			"sponsor": "",
+			"presenter": "Peter Fesz-Nguyen",
 			"description": "Learn the basics of JavaScript presented by Peter Fesz-Nguyen. This is a great workshop to build onto your knowledge of web dev, especially those of you that attended they Intro to Web Dev workshop. This workshop goes from 4:00pm-6:00pm"
 		},
 		{
@@ -368,6 +426,7 @@
 			"subtitle": "Internet Scale",
 			"location": "SEL 5th Floor",
 			"sponsor": "Amazon",
+			"presenter": "",
 			"description": "Using Flink, Superset and Druid. Amazon is going to show you how to Real-time Analytics work in this Tech Talk"
 		},
 		{
@@ -378,7 +437,19 @@
 			"subtitle": "Improv Show",
 			"location": "SEL Main Floor ",
 			"sponsor": "",
+			"presenter": "",
 			"description": "The Charles Darwin Experience is the University’s only all improv comedy group and this year they are making their Hack Arizona debut! Come be an active audience member in shouting out zany suggestions for the improvised games the Darwins will be playing in a fun “Whose Line Is It Anyway?” style performance."
+		},
+		{
+			"eventtype": "techtalk",
+			"day": "saturday",
+			"time": "6:00 PM",
+			"eventtitle": "TBA",
+			"subtitle": "",
+			"location": "SEL 5th Floor",
+			"sponsor": "Microsoft",
+			"presenter": "",
+			"description": "No description was given"
 		},
 		{
 			"eventtype": "food",
@@ -388,6 +459,7 @@
 			"subtitle": "",
 			"location": "West of SEL",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Provided by the Student Union"
 		},
 		{
@@ -398,6 +470,7 @@
 			"subtitle": "with JQuery",
 			"location": "SEL  311",
 			"sponsor": "",
+			"presenter": "Peter Fesz-Nguyen",
 			"description": "Build on your recently learn JavaScript knowledge by implementing it with JQuery. Taught by Peter Fesz-Nguyen and runs from 7:00pm-9:00pm"
 		},
 		{
@@ -408,6 +481,7 @@
 			"subtitle": "",
 			"location": "iSpace",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Ready to step into the winners circle? Come join us in the Live Stream studio to play this classic game show game and maybe even win a cool prize!"
 		},
 		{
@@ -418,7 +492,19 @@
 			"subtitle": "",
 			"location": "iSpace",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Do you know your music? Head on down to the Live Stream studio to test your music knowledge!"
+		},
+		{
+			"eventtype": "techtalk",
+			"day": "saturday",
+			"time": "8:00 PM",
+			"eventtitle": "TBA",
+			"subtitle": "",
+			"location": "SEL 5th Floor",
+			"sponsor": "Microsoft",
+			"presenter": "",
+			"description": "No description was given"
 		},
 		{
 			"eventtype": "activity",
@@ -428,6 +514,7 @@
 			"subtitle": "",
 			"location": "SEL Main Floor (200S)",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Come participate in or simple be a spectator to our biggest activity of the hackathon, our comedy hypnotist! This unique and engaging show will convince the non-believers how influential the power of persuasion can have on the mind."
 		},
 		{
@@ -438,6 +525,7 @@
 			"subtitle": "",
 			"location": "SEL 311",
 			"sponsor": "",
+			"presenter": "Cooper Kunz",
 			"description": "So you learned JavaScript, then you learned JavaScript with JQuery... you might as well keep on going cause Peter Fesz-Nguyen is going to teach you about Node.js from 10:30pm-12:30am"
 		},
 		{
@@ -448,6 +536,7 @@
 			"subtitle": "iOS Development",
 			"location": "SEL 308",
 			"sponsor": "",
+			"presenter": "Peter Fesz-Nguyen",
 			"description": "Hackathon project not going so well? No worries! Cooper is here to get you up and running using Swift to develop and iOS app!"
 		},
 		{
@@ -458,6 +547,7 @@
 			"subtitle": "",
 			"location": "iSpace",
 			"sponsor": "",
+			"presenter": "",
 			"description": "It’s time to play the feud! Bring your hacker squad to the Live Stream studio and test your groups knowledge!"
 		},
 		{
@@ -468,6 +558,7 @@
 			"subtitle": "",
 			"location": "SEL 5th Floor",
 			"sponsor": "Jacobs",
+			"presenter": "",
 			"description": "This talk by Jacobs will take a high level look at the vulnerabilities and attack surfaces surrounding one the most rapidly expanding markets in tech today."
 		},
 		{
@@ -478,6 +569,7 @@
 			"subtitle": "",
 			"location": "SEL Main",
 			"sponsor": "",
+			"presenter": "",
 			"description": "La La La Laaaa! Show us your vocal skills on the main floor and maybe even win a prize!"
 		}
 	],
@@ -489,6 +581,7 @@
 			"subtitle": "A Popular Web Framework",
 			"location": "SEL 308",
 			"sponsor": "",
+			"presenter": "Cooper Kunz",
 			"description": "So you've attended all the web dev workshops and you have a nice little website going. Now it's time to make it look fantastic! Cooper is here to show you how with the Bootstrap framework from 12:30am-2:30am"
 		},
 		{
@@ -499,6 +592,7 @@
 			"subtitle": "",
 			"location": "SEL Main Floor",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Come get lit with the Hack AZ squad at our dance party on the Main Floor"
 		},
 		{
@@ -509,6 +603,7 @@
 			"subtitle": "",
 			"location": "West of SEL",
 			"sponsor": "",
+			"presenter": "",
 			"description": "No description has been provided for this event"
 		},
 		{
@@ -519,6 +614,7 @@
 			"subtitle": "",
 			"location": "SEL",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Hacking ends all participants must have submitted their projects by this time"
 		},
 		{
@@ -529,6 +625,7 @@
 			"subtitle": "",
 			"location": "Grand Ballroom",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Sponsor and devoded judges go around taking a look a submitted projects"
 		},
 		{
@@ -538,6 +635,8 @@
 			"eventtitle": "Popular Voting",
 			"subtitle": "",
 			"location": "Grand Ballroom",
+			"sponsor": "",
+			"presenter": "",
 			"description": "The winner of the popular vote decided by the people is to be show cased."
 		},
 		{
@@ -548,6 +647,7 @@
 			"subtitle": "",
 			"location": "Grand Ballroom",
 			"sponsor": "",
+			"presenter": "",
 			"description": "Hack Arizona 2018 is over"
 		}
 	]
