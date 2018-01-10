@@ -90,7 +90,7 @@
 		{
 			"eventtype": "techtalk",
 			"day": "friday",
-			"time": "10:30 PM",
+			"time": "10:00 PM",
 			"eventtitle": "Market Strategy Formulation",
 			"subtitle": "",
 			"location": "SEL 5th Floor",
@@ -106,8 +106,19 @@
 			"subtitle": "",
 			"location": "SEL 308",
 			"sponsor": "",
-			"presenter": "StateFarm's Team",
+			"presenter": "StateFarm",
 			"description": "Learn to build a virtual model of the solar system. This workshop is presented by StateFarm and is from 10:30pm-12:30am"
+		},
+		{
+			"eventtype": "techtalk",
+			"day": "friday",
+			"time": "11:00 PM",
+			"eventtitle": "Conversational Agents",
+			"subtitle": "",
+			"location": "SEL 5th Floor",
+			"sponsor": "Paradox",
+			"presenter": "",
+			"description": "Build conversational interfaces for apps, bots, and devices through the power of Natural Language Processing and Machine Learning using Wit.ai"
 		},
 		{
 			"eventtype": "livestream",
@@ -249,7 +260,7 @@
 			"eventtitle": "Getting Started w/",
 			"subtitle": "Google Cloud Platform",
 			"location": "SEL 5th Floor",
-			"sponsor": "Google Cloud",
+			"sponsor": "Grad Student Aramn Hezarkhani",
 			"presenter": "",
 			"description": "In this talk, we'll learn about 5 Machine Learning APIs, how to deploy an application to the cloud, and review the basic concepts of cloud. The talk is heavily focused on technologies that you can use in your hackathon projects!"
 		},
@@ -444,12 +455,12 @@
 			"eventtype": "techtalk",
 			"day": "saturday",
 			"time": "6:00 PM",
-			"eventtitle": "TBA",
-			"subtitle": "",
+			"eventtitle": "5 app design mistakes you’re making",
+			"subtitle": "right now (and how to fix them)",
 			"location": "SEL 5th Floor",
 			"sponsor": "Microsoft",
 			"presenter": "",
-			"description": "No description was given"
+			"description": "You’ve had to deal with them as a user. They’re aggravating, they’re distracting--and you’re probably making them right now in your own apps. Alex and Mike talk about 5 of the most common app design mistakes and share techniques for avoiding them."
 		},
 		{
 			"eventtype": "food",
@@ -499,12 +510,12 @@
 			"eventtype": "techtalk",
 			"day": "saturday",
 			"time": "8:00 PM",
-			"eventtitle": "TBA",
-			"subtitle": "",
+			"eventtitle": "Approach to Fluent Design and",
+			"subtitle": "evolving the Microsoft Design System",
 			"location": "SEL 5th Floor",
 			"sponsor": "Microsoft",
 			"presenter": "",
-			"description": "No description was given"
+			"description": "This talk is predominantly design related and showcases out approach to Fluent Design and evolving the Microsoft Design System. This talk will also focus on how we are incubating ideas & innovating (especially through code) in order to drive the system forwards."
 		},
 		{
 			"eventtype": "activity",

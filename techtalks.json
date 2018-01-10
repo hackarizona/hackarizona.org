@@ -2,9 +2,16 @@
 	"friday":[{
 				"sponsor": "Sunquest Information Systems",
 				"talk": "Market Strategy Formulation",
-				"time": "10:30pm",
+				"time": "10:00pm",
 				"location": "SEL 5th floor",
 				"description": "Understanding Key Elements of a Successful Marketing Strategy"
+			},
+			{
+				"sponsor": "Paradox",
+				"talk": "Conversational Agents",
+				"time": "11:00pm",
+				"location": "SEL 5th floor",
+				"description": "Build conversational interfaces for apps, bots, and devices through the power of Natural Language Processing and Machine Learning using Wit.ai"
 			}],
 	"saturday":[{
 				"sponsor": "StateFarm",
@@ -21,7 +28,7 @@
 				"description": "Learn about node.js, reactjs, yarn, websockets, and publishing a web application to github pages. We will be building a chat application using FaceBook’s create-react-app and a websocket api.  All source code will be published to github during the presentation."
 			},
 			{
-				"sponsor": "Google Cloud",
+				"sponsor": "Grad Student Arman Hezarkhani",
 				"talk": "Getting Started with Google Cloud Platform",
 				"time": "11:00am",
 				"location": "SEL 5th Floor",
@@ -64,17 +71,17 @@
 			},
 			{
 				"sponsor": "Microsoft",
-				"talk": "TBA",
+				"talk": "5 app design mistakes you’re making right now (and how to fix them)",
 				"time": "6:00pm",
 				"location": "SEL 5th floor",
-				"description": "TBA"
+				"description": "You’ve had to deal with them as a user. They’re aggravating, they’re distracting--and you’re probably making them right now in your own apps. Alex and Mike talk about 5 of the most common app design mistakes and share techniques for avoiding them."
 			},
 			{
 				"sponsor": "Microsoft",
-				"talk": "TBA",
+				"talk": "Approach to Fluent Design and evolving the Microsoft Design System",
 				"time": "8:00pm",
 				"location": "SEL 5th floor",
-				"description": "TBA"
+				"description": "This talk is predominantly design related and showcases out approach to Fluent Design and evolving the Microsoft Design System. This talk will also focus on how we are incubating ideas & innovating (especially through code) in order to drive the system forwards."
 			},
 			{
 				"sponsor": "Jacobs",
