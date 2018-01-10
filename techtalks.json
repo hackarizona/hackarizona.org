@@ -1,10 +1,10 @@
 {
 	"friday":[{
-				"sponsor": "Sunquest",
+				"sponsor": "Sunquest Information Systems",
 				"talk": "Market Strategy Formulation",
 				"time": "10:30pm",
 				"location": "SEL 5th floor",
-				"description": "No description has been provided for this event"
+				"description": "Understanding Key Elements of a Successful Marketing Strategy"
 			}],
 	"saturday":[{
 				"sponsor": "StateFarm",
@@ -18,28 +18,28 @@
 				"talk": "Making a reactjs app real time with WebSockets",
 				"time": "10:00am",
 				"location": "SEL 5th floor",
-				"description": "Learn about nodejs, reactJs, yarn, websockets, and publishing a web application to github pages. We will be building a chat application using FaceBook’s create-react-app and a websocket api.  All source code will be published to github during the presentation."
+				"description": "Learn about node.js, reactjs, yarn, websockets, and publishing a web application to github pages. We will be building a chat application using FaceBook’s create-react-app and a websocket api.  All source code will be published to github during the presentation."
 			},
 			{
 				"sponsor": "Google Cloud",
-				"talk": "TBA",
+				"talk": "Getting Started with Google Cloud Platform",
 				"time": "11:00am",
 				"location": "SEL 5th Floor",
-				"description": "No description has been provided for this event"
+				"description": "In this talk, we'll learn about 5 Machine Learning APIs, how to deploy an application to the cloud, and review the basic concepts of cloud. The talk is heavily focused on technologies that you can use in your hackathon projects!"
 			},
 			{
 				"sponsor": "General Dynamic Mission Systems",
 				"talk": "Cryptography-Why Should We Care?",
 				"time": "1:00pm",
 				"location": "SEL 5th Floor",
-				"description": "No description has been provided for this event"
+				"description": "Paul Grumley and Curtis Wyatt, Software Systems Engineers from General Dynamics Mission Systems presenting a summary of cryptography.  Topics include a brief history, the fundamentals, and what it means to you in your personal and professional lives"
 			},
 			{
 				"sponsor": "General Dynamic Mission Systems",
 				"talk": "Designing Systems, Hardware and Software for Use in Space",
 				"time": "2:00pm",
 				"location": "SEL 5th Floor",
-				"description": "No description has been provided for this event"
+				"description": "Tom Butler, Senior Engineering Manager from General Dynamics Mission Systems presenting an overview of engineering challenges when designing systems for use in space. Topics include architectural considerations, overcoming harsh environmental requirements, special processes and current space system examples."
 			},
 			{
 				"sponsor": "Sunquest Information Systems",
@@ -61,6 +61,20 @@
 				"time": "5:00pm",
 				"location": "SEL 5th floor",
 				"description": "Using Flink, Superset and Druid. Amazon is going to show you how to Real-time Analytics work in this Tech Talk"
+			},
+			{
+				"sponsor": "Microsoft",
+				"talk": "TBA",
+				"time": "6:00pm",
+				"location": "SEL 5th floor",
+				"description": "TBA"
+			},
+			{
+				"sponsor": "Microsoft",
+				"talk": "TBA",
+				"time": "8:00pm",
+				"location": "SEL 5th floor",
+				"description": "TBA"
 			},
 			{
 				"sponsor": "Jacobs",
