@@ -9,21 +9,20 @@
 		},
 		{
 			"day": "friday",
-			"time": "10:00 PM",
-			"activity": "ESports Tournament",
-			"subtitle": "",
-			"location": "SEL Main Floor",
-			"description": "No description has been provided for this event"
-		},
-		{
-			"day": "friday",
-			"time": "10:00 PM",
+			"time": "9:30 PM",
 			"activity": "WICS Reception",
 			"subtitle": "",
 			"location": "TBD",
 			"description": "No description has been provided for this event"
-		}
-	],
+		},
+		{
+			"day": "friday",
+			"time": "9:30 PM",
+			"activity": "WICS Reception",
+			"subtitle": "",
+			"location": "TBD",
+			"description": "Come get some fresh air outside the hackathon and test you balance on our slackline! Slacklining is a alternative sport where hackers can walk and balance on a long piece of nylon rope strung between trees. Our slackline will be taught and only one foot off the ground so new and experienced hackers can enjoy slacking off!"
+		}],
 	"saturday": [{
 			"day": "saturday",
 			"time": "9:00 AM",

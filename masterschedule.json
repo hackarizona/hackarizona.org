@@ -68,18 +68,7 @@
 		{
 			"eventtype": "activity",
 			"day": "friday",
-			"time": "10:00 PM",
-			"eventtitle": "ESports Tournament",
-			"subtitle": "",
-			"location": "SEL Main Floor",
-			"sponsor": "",
-			"presenter": "",
-			"description": "No description has been provided for this event"
-		},
-		{
-			"eventtype": "activity",
-			"day": "friday",
-			"time": "10:00 PM",
+			"time": "9:30 PM",
 			"eventtitle": "WICS Reception",
 			"subtitle": "",
 			"location": "SEL Main Floor",
@@ -108,6 +97,17 @@
 			"sponsor": "",
 			"presenter": "StateFarm",
 			"description": "Learn to build a virtual model of the solar system. This workshop is presented by StateFarm and is from 10:30pm-12:30am"
+		},
+		{
+			"eventtype": "activity",
+			"day": "friday",
+			"time": "11:00 PM",
+			"eventtitle": "Slacklining on the Mall",
+			"subtitle": "",
+			"location": "SEL Main Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Come get some fresh air outside the hackathon and test you balance on our slackline! Slacklining is a alternative sport where hackers can walk and balance on a long piece of nylon rope strung between trees. Our slackline will be taught and only one foot off the ground so new and experienced hackers can enjoy slacking off!"
 		},
 		{
 			"eventtype": "techtalk",
@@ -190,6 +190,17 @@
 		{
 			"eventtype": "techtalk",
 			"day": "saturday",
+			"time": "8:00 AM",
+			"eventtitle": "Intro to Cyber Vulnerabilities",
+			"subtitle": "",
+			"location": "SEL 5th Floor",
+			"sponsor": "Raytheon",
+			"presenter": "",
+			"description": "No description has been provided"
+		},
+		{
+			"eventtype": "techtalk",
+			"day": "saturday",
 			"time": "9:00 AM",
 			"eventtitle": "The Use of Biometrics",
 			"subtitle": "",
@@ -229,7 +240,7 @@
 			"location": "iSpace",
 			"sponsor": "",
 			"presenter": "",
-			"description": "At the UA Hackathon, we support our hackers, volunteers, organizers, and mentors who are in recovery. There will be a 12 step meeting on Saturday at 10:00am in the iSpace (2nd floor of the Science and Engineering Library) open to anyone working a 12 step recovery program. If you would like information about meetings in Tucson for additional meetings or support for AA, Alanon, SLAA, or NA, you can find links to them below. If your program isn't listed here and you need help finding resources, feel free to email stephensrec@gmail.com and we can help you find the right meeting. http://aatucson.org/ http://www.al-anon-southernaz.org/ http://www.tucsonslaa.org/ http://www.natucson.org/meetinglist.php"
+			"description": "At the UA Hackathon, we support our hackers, volunteers, organizers, and mentors who are in recovery. There will be a 12 step meeting on Saturday at 10:00am in the iSpace (2nd floor of the Science and Engineering Library) open to anyone working a 12 step recovery program. If you would like information about meetings in Tucson for additional meetings or support for AA, Alanon, SLAA, or NA, you can find links to them below. If your program isn't listed here and you need help finding resources, feel free to email stephensrec@gmail.com and we can help you find the right meeting. \\nhttp://aatucson.org/ \\nhttp://www.al-anon-southernaz.org/ \\nhttp://www.tucsonslaa.org/ \\nhttp://www.natucson.org/meetinglist.php"
 		},
 		{
 			"eventtype": "techtalk",

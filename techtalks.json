@@ -21,7 +21,7 @@
 				"description": "Using biometrics to reduce or eliminate the risk associated with online identification of your accounts."
 			},
 			{
-				"sponsor": "Go Daddy",
+				"sponsor": "GoDaddy",
 				"talk": "Making a reactjs app real time with WebSockets",
 				"time": "10:00am",
 				"location": "SEL 5th floor",
@@ -78,7 +78,7 @@
 			},
 			{
 				"sponsor": "Microsoft",
-				"talk": "Approach to Fluent Design and evolving the Microsoft Design System",
+				"talk": "Fluent Design and evolving the Microsoft Design System",
 				"time": "8:00pm",
 				"location": "SEL 5th floor",
 				"description": "This talk is predominantly design related and showcases out approach to Fluent Design and evolving the Microsoft Design System. This talk will also focus on how we are incubating ideas & innovating (especially through code) in order to drive the system forwards."
