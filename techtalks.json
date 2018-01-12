@@ -14,6 +14,13 @@
 				"description": "Build conversational interfaces for apps, bots, and devices through the power of Natural Language Processing and Machine Learning using Wit.ai"
 			}],
 	"saturday":[{
+				"sponsor": "Raytheon",
+				"talk": "Intro to Cyber Vulnerabilities",
+				"time": "8:00am",
+				"location": "SEL 5th Floor",
+				"description": "Ever wonder how internet-of-things devices are hacked? Come learn about the buffer overflow vulnerability as well as an explanation of the recent  Meltdown and Spectre exploits."
+			},
+			{
 				"sponsor": "StateFarm",
 				"talk": "The Use of Biometrics",
 				"time": "9:00am",

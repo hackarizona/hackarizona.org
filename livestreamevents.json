@@ -1,11 +1,18 @@
 {
 	"friday": [{
-		"day": "friday",
-		"time": "11:30 PM",
-		"title": "Jeopardy",
-		"location": "iSpace",
-		"description": "What is … answering questions to win an AWESOME prize?? Head to the Live Stream Studio to join in on all the Jeopardy action."
-	}],
+			"day": "friday",
+			"time": "7:30 PM",
+			"title": "Opening Ceremony",
+			"location": "iSpace",
+			"description": "Those that cannot make the opening ceremony no worries! We have you covered with a live stream!"
+		},
+		{
+			"day": "friday",
+			"time": "11:30 PM",
+			"title": "Jeopardy",
+			"location": "iSpace",
+			"description": "What is … answering questions to win an AWESOME prize?? Head to the Live Stream Studio to join in on all the Jeopardy action."
+		}],
 	"saturday": [{
 			"day": "saturday",
 			"time": "1:00 AM",

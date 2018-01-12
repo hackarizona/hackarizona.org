@@ -44,6 +44,17 @@
 			"description": "Welcoming our sponsors and participants to Hack Arizona 2018 with a special Keynote Speaker!"
 		},
 		{
+			"eventtype": "livestream",
+			"day": "friday",
+			"time": "7:30 PM",
+			"eventtitle": "Live Stream of",
+			"subtitle": "Opening Ceremony",
+			"location": "Centennial Hall",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Those that cannot make the opening ceremony no worries! We have you covered with a live stream!"
+		},
+		{
 			"eventtype": "required",
 			"day": "friday",
 			"time": "9:00 PM",
@@ -196,7 +207,7 @@
 			"location": "SEL 5th Floor",
 			"sponsor": "Raytheon",
 			"presenter": "",
-			"description": "No description has been provided"
+			"description": "Ever wonder how internet-of-things devices are hacked? Come learn about the buffer overflow vulnerability as well as an explanation of the recent  Meltdown and Spectre exploits."
 		},
 		{
 			"eventtype": "techtalk",
