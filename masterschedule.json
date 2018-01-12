@@ -44,6 +44,17 @@
 			"description": "Welcoming our sponsors and participants to Hack Arizona 2018 with a special Keynote Speaker!"
 		},
 		{
+			"eventtype": "livestream",
+			"day": "friday",
+			"time": "7:30 PM",
+			"eventtitle": "Opening Ceremony",
+			"subtitle": "",
+			"location": "Centennial Hall",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Those that cannot make the opening ceremony no worries! We have you covered with a live stream!"
+		},
+		{
 			"eventtype": "required",
 			"day": "friday",
 			"time": "9:00 PM",
