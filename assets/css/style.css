@@ -223,7 +223,7 @@ body {
 }
 #schedule .schedule .time {
 	font-weight: 700;
-	width: 50%;
+	width: 30%;
 	color: rgba(255, 255, 255, 0.88);
 }
 #schedule .schedule {
@@ -252,6 +252,10 @@ body {
 }
 #schedule .inner p{
 	margin-top: 16px;
+}
+#schedule .schedule .location {
+	color: #A9A9A9;
+	padding-left: 40px;
 }
 #collage {
     position: relative;
