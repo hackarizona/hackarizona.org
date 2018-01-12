@@ -69,12 +69,12 @@ body {
 		padding: 96px;
 		text-align: center;
 		background-image: url("../images/desert_graphic.jpg");
-		background-size: 100% 45%;
+		background-size: 100% 40%;
 		background-repeat: no-repeat;
 	}
 	#hero #attribution {
 		position: absolute;
-		top: 43%;
+		top: 38%;
 		right: 0;
 	}
 }
