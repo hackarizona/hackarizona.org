@@ -294,15 +294,6 @@ body {
 	display: inline-block;
 	overflow: auto;
 }
-#bio img {
-	height: 220px;
-	width: auto;
-	float: left;
-	margin-right: 10px;
-}
-#bio p{
-	text-align: left;
-}
 #faq li {
 	margin-bottom: 48px;
 }
