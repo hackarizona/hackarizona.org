@@ -207,7 +207,7 @@
 			"location": "SEL 5th Floor",
 			"sponsor": "Raytheon",
 			"presenter": "",
-			"description": "No description has been provided"
+			"description": "Ever wonder how internet-of-things devices are hacked? Come learn about the buffer overflow vulnerability as well as an explanation of the recent  Meltdown and Spectre exploits."
 		},
 		{
 			"eventtype": "techtalk",
