@@ -137,14 +137,6 @@
 		},
 		{
 			"day": "saturday",
-			"time": "5:00 PM",
-			"activity": "Raytheon Challenge",
-			"subtitle": "",
-			"location": "SEL",
-			"description": "Name 10 programming languages used by Raytheon. Prize: Solar phone charger"
-		},
-		{
-			"day": "saturday",
 			"time": "9:00 PM",
 			"activity": "Hypnotist",
 			"subtitle": "",
