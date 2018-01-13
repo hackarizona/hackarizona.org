@@ -375,6 +375,28 @@
 			"description": "Think you can build a website in 15 minutes with only one shot to run your code? Come take on this challenge brought to you by MLH. After the event there will be t-shirts given out!"
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "2:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Write a program to create an 8X8 crossword puzzle with and ONLY with the following words: RMS, BYTE, HACKAZ, EXCITE, SOFTWARE, HERTZ. Prize: Solar phone charger"
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "2:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "What is the length and type of Raytheon's longest missile? Prize: Gemma wearable computer"
+		},
+		{
 			"eventtype": "livestream",
 			"day": "saturday",
 			"time": "TBA",

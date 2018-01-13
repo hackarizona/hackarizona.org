@@ -73,6 +73,22 @@
 		},
 		{
 			"day": "saturday",
+			"time": "2:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "SEL",
+			"description": "Write a program to create an 8X8 crossword puzzle with and ONLY with the following words: RMS, BYTE, HACKAZ, EXCITE, SOFTWARE, HERTZ. Prize: Solar phone charger"
+		},
+		{
+			"day": "saturday",
+			"time": "2:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "SEL",
+			"description": "What is the length and type of Raytheon's longest missile? Prize: Gemma wearable computer"
+		},
+		{
+			"day": "saturday",
 			"time": "3:00 PM",
 			"activity": "Smash Bros Melee Tourney",
 			"subtitle": "",
