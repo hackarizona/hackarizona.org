@@ -137,6 +137,22 @@
 		},
 		{
 			"day": "saturday",
+			"time": "5:00 PM",
+			"activity": "Hexagon Mining Challenge",
+			"subtitle": "",
+			"location": "SEL",
+			"description": "What mineral is used computers, laptops, calculators, and computer circuits? Hurry over to the Hexagon Mining table for some fun swag"
+		},
+		{
+			"day": "saturday",
+			"time": "5:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "Raytheon Floor",
+			"description": "Write a program that takes 4 inputs: x # of people, y # of turns before they die, medicine adds on z # of turns, and w turns are needed to be considered cured. Restrictions are as follows:    y > x , z > x, and (w-y)/z > 2 . The program should output if given invalid inputs and  an array for each turn that shows the number of turns that each person has until everyone is cured. Prize: Solar phone charger"
+		},
+		{
+			"day": "saturday",
 			"time": "9:00 PM",
 			"activity": "Hypnotist",
 			"subtitle": "",
