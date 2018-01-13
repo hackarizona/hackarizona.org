@@ -485,6 +485,28 @@
 			"description": "Create a program which makes a 10x10 initial Minesweeper game board."
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "4:30 PM",
+			"eventtitle": "Hexagon Mining",
+			"subtitle": "Challenge",
+			"location": "SEL Main Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Create a program which makes a 10x10 initial Minesweeper game board."
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "4:30 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Create a rock paper scissors AI in python. Come to Raytheon booth for details. Info session at 4PM and tournament at 7PM. Prize: Top 4 get to choose between August Smart lock, $50 gift card, or a  solar phone charger."
+		},
+		{
 			"eventtype": "techtalk",
 			"day": "saturday",
 			"time": "5:00 PM",
@@ -520,13 +542,13 @@
 		{
 			"eventtype": "food",
 			"day": "saturday",
-			"time": "6:30 PM",
+			"time": "5:30 PM",
 			"eventtitle": "Dinner",
 			"subtitle": "",
-			"location": "West of SEL",
+			"location": "Outside SEL",
 			"sponsor": "",
 			"presenter": "",
-			"description": "Provided by the Student Union"
+			"description": "Provided by Arizona Catering"
 		},
 		{
 			"eventtype": "firstbyte",
