@@ -46,7 +46,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "friday",
-			"time": "7:30 PM",
+			"time": "TBA",
 			"eventtitle": "Live Stream of",
 			"subtitle": "Opening Ceremony",
 			"location": "Centennial Hall",
@@ -134,7 +134,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "friday",
-			"time": "11:30 PM",
+			"time": "TBA",
 			"eventtitle": "Jeopardy",
 			"subtitle": "",
 			"location": "iSpace",
@@ -168,7 +168,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "1:00 AM",
+			"time": "TBA",
 			"eventtitle": "Red Bull Chug",
 			"subtitle": "",
 			"location": "SEL 3rd Floor",
@@ -333,7 +333,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "1:30 PM",
+			"time": "TBA",
 			"eventtitle": "Chain Reaction",
 			"subtitle": "",
 			"location": "SEL 311",
@@ -366,7 +366,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "2:45 PM",
+			"time": "TBA",
 			"eventtitle": "Password",
 			"subtitle": "",
 			"location": "SEL Main Floor",
@@ -410,7 +410,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "4:00 PM",
+			"time": "TBA",
 			"eventtitle": "Emoji Translator",
 			"subtitle": "",
 			"location": "iSpace",
@@ -498,7 +498,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "7:00 PM",
+			"time": "TBA",
 			"eventtitle": "$100,000 Pyramid",
 			"subtitle": "",
 			"location": "iSpace",
@@ -509,7 +509,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "7:45 PM",
+			"time": "TBA",
 			"eventtitle": "Name That Tune",
 			"subtitle": "",
 			"location": "iSpace",
@@ -564,7 +564,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "10:45 PM",
+			"time": "TBA",
 			"eventtitle": "Hacker Squad (Family) Feud",
 			"subtitle": "",
 			"location": "iSpace",
@@ -586,7 +586,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "11:59 PM",
+			"time": "TBA",
 			"eventtitle": "Karaoke",
 			"subtitle": "",
 			"location": "SEL Main",
