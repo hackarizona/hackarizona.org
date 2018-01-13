@@ -413,7 +413,7 @@
 			"time": "3:00 PM",
 			"eventtitle": "Smash Bros Melee Tourney",
 			"subtitle": "",
-			"location": "SEL 1st Floor",
+			"location": "SEL Main Floor",
 			"sponsor": "",
 			"presenter": "",
 			"description": "Probably our most anticipated activity of the hackathon, the Super Smash Brothers Melee Competition is a 4 hour tournament!"
@@ -472,6 +472,17 @@
 			"sponsor": "",
 			"presenter": "Peter Fesz-Nguyen",
 			"description": "Learn the basics of JavaScript presented by Peter Fesz-Nguyen. This is a great workshop to build onto your knowledge of web dev, especially those of you that attended they Intro to Web Dev workshop. This workshop goes from 4:00pm-6:00pm"
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "4:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Create a program which makes a 10x10 initial Minesweeper game board."
 		},
 		{
 			"eventtype": "techtalk",
