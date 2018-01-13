@@ -49,13 +49,6 @@
 				"description": "Inara Lysne is here to teach you basics of Python and coding fundamentals. This is a great workshop to attend of you are new to programming, it goes from 1:00pm-3:00pm"
 			},
 			{
-				"workshop": "Intro to Ruby on Rails Web Dev",
-				"presenter": "Morgan Heck",
-				"time": "3:00pm",
-				"location": "SEL 311",
-				"description": "Presented by Hack Arizona's Morgan Heck, he is going to teach you the basics of the popular web framework Ruby on Rails. This workshop runs from 3:00pm-5:00pm"
-			},
-			{
 				"workshop": "Intro to JavaScript Programming",
 				"presenter": "Peter Fesz-Nguyen",
 				"time": "4:00pm",

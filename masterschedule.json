@@ -5,10 +5,10 @@
 			"time": "4:30 PM",
 			"eventtitle": "Check-In",
 			"subtitle": "",
-			"location": "special",
+			"location": "SEL",
 			"sponsor": "",
 			"presenter": "",
-			"description": "Hack Arizona participants will check in at the tables in front of Centennial Hall starting at 4:30 PM"
+			"description": "Hack Arizona participants will check in at the tables in front of SEL starting at 4:30 PM"
 		},
 		{
 			"eventtype": "required",
@@ -356,12 +356,12 @@
 			"eventtype": "activity",
 			"day": "saturday",
 			"time": "2:00 PM",
-			"eventtitle": "Stressbusters",
+			"eventtitle": "Coding in the Dark",
 			"subtitle": "",
 			"location": "SEL Main Floor",
-			"sponsor": "",
+			"sponsor": "MLH",
 			"presenter": "",
-			"description": "The UA Stressbusters student volunteers will be providing free back rubs at the hackathon to give participants a chance to relax and decrease muscle tension during the hackathon."
+			"description": "Think you can build a website in 15 minutes with only one shot to run your code? Come take on this challenge brought to you by MLH."
 		},
 		{
 			"eventtype": "livestream",
@@ -397,17 +397,6 @@
 			"description": "In the Healthcare industry, safety is a part of everything we do. With the oncoming AI revolution safety will take on an even greater role as software begins to interact more and more with the physical world. This talk will focus on how Sunquest Information Systems approaches the safety problem and how others might follow. Presented by Sunquest Information Systems"
 		},
 		{
-			"eventtype": "firstbyte",
-			"day": "saturday",
-			"time": "3:00 PM",
-			"eventtitle": "Intro to Ruby on Rails",
-			"subtitle": "",
-			"location": "SEL 311",
-			"sponsor": "",
-			"presenter": "Morgan Heck",
-			"description": "Presented by Hack Arizona's Morgan Heck, he is going to teach you the basics of the popular web framework Ruby on Rails. This workshop runs from 3:00pm-5:00pm"
-		},
-		{
 			"eventtype": "activity",
 			"day": "saturday",
 			"time": "3:30 PM",
@@ -416,7 +405,7 @@
 			"location": "SEL Main Floor",
 			"sponsor": "",
 			"presenter": "",
-"description": "The Elephant March is a wacky and fun relay race where students compete to swing and knock over bottles using only the tennis ball inside the nylons pulled over their head, it’s ridiculous to watch and hilarious to play! In the Donut Eating Race will compete to see who can finish a donut on a string the fastest above their head without their hands in our Donut Eating Contest. "
+			"description": "The Elephant March is a wacky and fun relay race where students compete to swing and knock over bottles using only the tennis ball inside the nylons pulled over their head, it’s ridiculous to watch and hilarious to play! In the Donut Eating Race will compete to see who can finish a donut on a string the fastest above their head without their hands in our Donut Eating Contest. "
 		},
 		{
 			"eventtype": "livestream",
