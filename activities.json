@@ -49,6 +49,22 @@
 		},
 		{
 			"day": "saturday",
+			"time": "12:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "SEL",
+			"description": "Write a program to detect if a sentence contains a palindrome. Prize: Gemma wearable computer. See challenge under events."
+		},
+		{
+			"day": "saturday",
+			"time": "1:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "SEL",
+			"description": "Decrypt the hash 4e2ab1da03b6ebfaeff88d8bcdaea371. Prize: T-Shirt. See challenge under the app."
+		},
+		{
+			"day": "saturday",
 			"time": "2:00 PM",
 			"activity": "Coding in the Dark",
 			"subtitle": "",

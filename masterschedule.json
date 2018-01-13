@@ -282,7 +282,7 @@
 			"eventtitle": "Getting Started w/",
 			"subtitle": "Google Cloud Platform",
 			"location": "SEL 5th Floor",
-			"sponsor": "Grad Student Aramn Hezarkhani",
+			"sponsor": "Google",
 			"presenter": "",
 			"description": "In this talk, we'll learn about 5 Machine Learning APIs, how to deploy an application to the cloud, and review the basic concepts of cloud. The talk is heavily focused on technologies that you can use in your hackathon projects!"
 		},
@@ -309,6 +309,17 @@
 			"description": "The Pet Partners of Southern Arizona will be bringing therapy dogs to our hackathon again this year! Come hang out with all the puppers and doggos your heart can handle."
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "12:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description":  "Write a program to detect if a sentence contains a palindrome. Prize: Gemma wearable computer. See challenge under events."
+		},
+		{
 			"eventtype": "techtalk",
 			"day": "saturday",
 			"time": "1:00 PM",
@@ -329,6 +340,17 @@
 			"sponsor": "",
 			"presenter": "Inara Lysne",
 			"description": "Inara Lysne is here to teach you basics of Python and coding fundamentals. This is a great workshop to attend of you are new to programming, it goes from 1:00pm-3:00pm"
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "1:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description":  "Decrypt the hash 4e2ab1da03b6ebfaeff88d8bcdaea371. Prize: T-Shirt. See challenge under the app."
 		},
 		{
 			"eventtype": "livestream",
