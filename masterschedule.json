@@ -46,7 +46,7 @@
 		{
 			"eventtype": "livestream",
 			"day": "friday",
-			"time": "TBA",
+			"time": "7:30 PM",
 			"eventtitle": "Live Stream of",
 			"subtitle": "Opening Ceremony",
 			"location": "Centennial Hall",
@@ -132,17 +132,6 @@
 			"description": "Build conversational interfaces for apps, bots, and devices through the power of Natural Language Processing and Machine Learning using Wit.ai"
 		},
 		{
-			"eventtype": "livestream",
-			"day": "friday",
-			"time": "TBA",
-			"eventtitle": "Jeopardy",
-			"subtitle": "",
-			"location": "iSpace",
-			"sponsor": "",
-			"presenter": "",
-			"description": "What is … answering questions to win an AWESOME prize?? Head to the Live Stream Studio to join in on all the Jeopardy action."
-		},
-		{
 			"eventtype": "firstbyte",
 			"day": "friday",
 			"time": "11:30 PM",
@@ -152,6 +141,17 @@
 			"sponsor": "",
 			"presenter": "Cooper Kunz",
 			"description": "Learn to build a static portfolio website, using HTM & CSS. Presented by Hack Arizona's Cooper Kunz, this is a fantastic workshop to attend if you are new to programming. This workshop is from 11:30pm-1:30am"
+		},
+		{
+			"eventtype": "livestream",
+			"day": "friday",
+			"time": "11:59",
+			"eventtitle": "Jeopardy",
+			"subtitle": "",
+			"location": "iSpace",
+			"sponsor": "",
+			"presenter": "",
+			"description": "What is … answering questions to win an AWESOME prize?? Head to the Live Stream Studio to join in on all the Jeopardy action."
 		}
 	],
 	"saturday": [{
@@ -164,17 +164,6 @@
 			"sponsor": "",
 			"presenter": "Hannah Parraga",
 			"description": "Model the solar system in Java. This workshop is presented by Hack Arizona's Hannah Parraga and will go from 13:30am-2:30am"
-		},
-		{
-			"eventtype": "livestream",
-			"day": "saturday",
-			"time": "TBA",
-			"eventtitle": "Red Bull Chug",
-			"subtitle": "",
-			"location": "SEL 3rd Floor",
-			"sponsor": "",
-			"presenter": "",
-			"description": "CHUG! CHUG! CHUG! CHUG! Come shotgun a can to get your weekend started on the 3rd floor!"
 		},
 		{
 			"eventtype": "firstbyte",
@@ -355,13 +344,13 @@
 		{
 			"eventtype": "livestream",
 			"day": "saturday",
-			"time": "TBA",
-			"eventtitle": "Chain Reaction",
+			"time": "2:00 PM",
+			"eventtitle": "Four Corners",
 			"subtitle": "",
 			"location": "SEL 311",
 			"sponsor": "",
 			"presenter": "",
-			"description": "Can you->you link->link words->words together? Come join us in the Live Stream Studio to play this classic game show game!"
+			"description": "Fun trivia game!"
 		},
 		{
 			"eventtype": "techtalk",
@@ -389,12 +378,12 @@
 			"eventtype": "livestream",
 			"day": "saturday",
 			"time": "TBA",
-			"eventtitle": "Password",
+			"eventtitle": "Red Bull Chug",
 			"subtitle": "",
-			"location": "SEL Main Floor",
+			"location": "SEL 3rd Floor",
 			"sponsor": "",
 			"presenter": "",
-			"description": "Can you and a pal guess the password with only one word clues? Bring a friend to the live stream studio to play a Tonight Show classic game!"
+			"description": "CHUG! CHUG! CHUG! CHUG! Come shotgun a can to get your weekend started on the 3rd floor!"
 		},
 		{
 			"eventtype": "activity",

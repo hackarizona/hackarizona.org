@@ -1,38 +1,38 @@
 {
 	"friday": [{
 			"day": "friday",
-			"time": "TBA",
+			"time": "7:30 PM",
 			"title": "Opening Ceremony",
 			"location": "iSpace",
 			"description": "Those that cannot make the opening ceremony no worries! We have you covered with a live stream!"
 		},
 		{
 			"day": "friday",
-			"time": "TBA",
+			"time": "11:59 PM",
 			"title": "Jeopardy",
 			"location": "iSpace",
 			"description": "What is … answering questions to win an AWESOME prize?? Head to the Live Stream Studio to join in on all the Jeopardy action."
 		}],
 	"saturday": [{
 			"day": "saturday",
-			"time": "TBA",
-			"title": "Red Bull Chug",
-			"location": "SEL 3rd Floor",
-			"description": "CHUG! CHUG! CHUG! CHUG! Come shotgun a can to get your weekend started on the 3rd floor!"
-		},
-		{
-			"day": "saturday",
-			"time": "TBA",
-			"title": "Chain Reaction",
-			"location": "SEL 311",
-			"description": "Can you->you link->link words->words together? Come join us in the Live Stream Studio to play this classic game show game!"
-		},
-		{
-			"day": "saturday",
-			"time": "TBA",
+			"time": "11:00 AM",
 			"title": "Password",
 			"location": "SEL Main Floor",
 			"description": "Can you and a pal guess the password with only one word clues? Bring a friend to the live stream studio to play a Tonight Show classic game!"
+		},
+		{
+			"day": "saturday",
+			"time": "2:00 PM",
+			"title": "Four Corners",
+			"location": "SEL 311",
+			"description": "Fun trivia game!"
+		},
+		{
+				"day": "saturday",
+				"time": "TBA",
+				"title": "Red Bull Chug",
+				"location": "SEL 3rd Floor",
+				"description": "CHUG! CHUG! CHUG! CHUG! Come shotgun a can to get your weekend started on the 3rd floor!"
 		},
 		{
 			"day": "saturday",
