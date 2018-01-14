@@ -201,6 +201,14 @@
 		},
 		{
 			"day": "saturday",
+			"time": "6:30 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "Raytheon Floor",
+			"description": "Name 10 movies which contain Raytheon weapons. Prize: Arduino or Gemma wearable"
+		},
+		{
+			"day": "saturday",
 			"time": "9:00 PM",
 			"activity": "Hypnotist",
 			"subtitle": "",
