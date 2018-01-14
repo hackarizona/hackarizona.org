@@ -661,6 +661,17 @@
 			"description": "Name 10 movies which contain Raytheon weapons. Prize: Arduino or Gemma wearable"
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "7:30 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "How good are you in Rock PAPER Sissors? Raytheon wants you to prove it in their winner takes all tourney!"
+		},
+		{
 			"eventtype": "firstbyte",
 			"day": "saturday",
 			"time": "7:00 PM",

@@ -201,6 +201,14 @@
 		},
 		{
 			"day": "saturday",
+			"time": "7:30 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "Raytheon Floor",
+			"description": "How good are you in Rock PAPER Sissors? Raytheon wants you to prove it in their winner takes all tourney!"
+		},
+		{
+			"day": "saturday",
 			"time": "6:30 PM",
 			"activity": "Raytheon Challenge",
 			"subtitle": "",
