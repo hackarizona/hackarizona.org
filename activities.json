@@ -193,6 +193,14 @@
 		},
 		{
 			"day": "saturday",
+			"time": "6:15 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "Raytheon Floor",
+			"description": "What does the word 'Raytheon' mean? Prize: Arduino or Gemma wearable"
+		},
+		{
+			"day": "saturday",
 			"time": "9:00 PM",
 			"activity": "Hypnotist",
 			"subtitle": "",

@@ -639,6 +639,17 @@
 			"description": "Create a program which makes a 10x10 initial Minesweeper game board. Prize: Top 3 get a wearable Gemma computer"
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "6:15 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "What does the word 'Raytheon' mean? Prize: Arduino or Gemma wearable"
+		},
+		{
 			"eventtype": "firstbyte",
 			"day": "saturday",
 			"time": "7:00 PM",
