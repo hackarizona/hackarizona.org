@@ -718,6 +718,17 @@
 		{
 			"eventtype": "activity",
 			"day": "saturday",
+			"time": "8:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Classic min-max tree challenge. See #ask-raytheon on Discord for the pdf."
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
 			"time": "9:00 PM",
 			"eventtitle": "Hypnotist",
 			"subtitle": "",

@@ -209,11 +209,11 @@
 		},
 		{
 			"day": "saturday",
-			"time": "6:30 PM",
+			"time": "8:00 PM",
 			"activity": "Raytheon Challenge",
 			"subtitle": "",
 			"location": "Raytheon Floor",
-			"description": "Name 10 movies which contain Raytheon weapons. Prize: Arduino or Gemma wearable"
+			"description": "Classic min-max tree challenge. See #ask-raytheon on Discord for the pdf."
 		},
 		{
 			"day": "saturday",
