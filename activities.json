@@ -140,7 +140,7 @@
 			"time": "5:00 PM",
 			"activity": "Hexagon Mining Challenge",
 			"subtitle": "",
-			"location": "SEL",
+			"location": "SEL Main Floor",
 			"description": "What mineral is used computers, laptops, calculators, and computer circuits? Hurry over to the Hexagon Mining table for some fun swag"
 		},
 		{
@@ -156,7 +156,7 @@
 			"time": "5:00 PM",
 			"activity": "Hexagon Mining Challenge",
 			"subtitle": "",
-			"location": "SEL",
+			"location": "SEL Main Floor",
 			"description": "What mineral is used computers, laptops, calculators, and computer circuits? Hurry over to the Hexagon Mining table for some fun swag"
 		},
 		{
@@ -164,8 +164,32 @@
 			"time": "5:30 PM",
 			"activity": "Hexagon Mining Challenge",
 			"subtitle": "",
-			"location": "SEL",
+			"location": "SEL Main Floor",
 			"description": "The helmet of an astronaut’s space suit is coated with a very thin film of what mineral? Come to the Hexagon Mining table with the correct answer to win a prize!"
+		},
+		{
+			"day": "saturday",
+			"time": "6:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "Raytheon Floor",
+			"description": "Create a program which makes a 10x10 initial Minesweeper game board. Prize: Top 3 get a wearable Gemma computer"
+		},
+		{
+			"day": "saturday",
+			"time": "6:00 PM",
+			"activity": "Raytheon Challenge",
+			"subtitle": "",
+			"location": "Raytheon Floor",
+			"description": "Name 10 programming languages used by Raytheon. Prize: 4 winners, first two get a wifi-enabled Arduino, next two get a T-shirt"
+		},
+		{
+			"day": "saturday",
+			"time": "6:00 PM",
+			"activity": "Hexagon Mining Challenge",
+			"subtitle": "",
+			"location": "SEL Main Floor",
+			"description": "What mineral has the highest thermal conductivity? Give the correct answer at the Hexagon Mining Table to show off your skills!"
 		},
 		{
 			"day": "saturday",

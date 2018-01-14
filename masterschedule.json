@@ -606,6 +606,39 @@
 			"description": "You’ve had to deal with them as a user. They’re aggravating, they’re distracting--and you’re probably making them right now in your own apps. Alex and Mike talk about 5 of the most common app design mistakes and share techniques for avoiding them."
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "6:00 PM",
+			"eventtitle": "Hexagon Mining",
+			"subtitle": "Challenge",
+			"location": "SEL Main Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "What mineral has the highest thermal conductivity? Give the correct answer at the Hexagon Mining Table to show off your skills!"
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "6:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Name 10 programming languages used by Raytheon. Prize: 4 winners, first two get a wifi-enabled Arduino, next two get a T-shirt"
+		},
+		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "6:00 PM",
+			"eventtitle": "Raytheon",
+			"subtitle": "Challenge",
+			"location": "Raytheon Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "Create a program which makes a 10x10 initial Minesweeper game board. Prize: Top 3 get a wearable Gemma computer"
+		},
+		{
 			"eventtype": "firstbyte",
 			"day": "saturday",
 			"time": "7:00 PM",
