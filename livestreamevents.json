@@ -30,6 +30,13 @@
 		{
 				"day": "saturday",
 				"time": "TBA",
+				"title": "Darwin Comedy Show",
+				"location": "SEL Main Floor",
+				"description": "The Charles Darwin Experience is the University’s only all improv comedy group and this year they are making their Hack Arizona debut! Come be an active audience member in shouting out zany suggestions for the improvised games the Darwins will be playing in a fun “Whose Line Is It Anyway?” style performance."
+		},
+		{
+				"day": "saturday",
+				"time": "TBA",
 				"title": "Red Bull Chug",
 				"location": "SEL 3rd Floor",
 				"description": "CHUG! CHUG! CHUG! CHUG! Come shotgun a can to get your weekend started on the 3rd floor!"
