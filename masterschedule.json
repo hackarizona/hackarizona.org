@@ -562,6 +562,17 @@
 			"description": "What mineral is used computers, laptops, calculators, and computer circuits? Hurry over to the Hexagon Mining table for some fun swag"
 		},
 		{
+			"eventtype": "activity",
+			"day": "saturday",
+			"time": "5:30 PM",
+			"eventtitle": "Hexagon Mining",
+			"subtitle": "Challenge",
+			"location": "SEL Main Floor",
+			"sponsor": "",
+			"presenter": "",
+			"description": "The helmet of an astronaut’s space suit is coated with a very thin film of what mineral? Come to the Hexagon Mining table with the correct answer to win a prize!"
+		},
+		{
 			"eventtype": "food",
 			"day": "saturday",
 			"time": "5:30 PM",
