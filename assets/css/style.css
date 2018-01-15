@@ -82,8 +82,11 @@ body {
 	}
 	#hero .inner {
 		position: absolute;
-		top: 76%;
+		top: 64%;
 		left: 10%;
+	}
+	#hero h3 {
+		margin-top: 20px;
 	}
 }
 @media screen and (min-width: 481px) {
