@@ -77,6 +77,14 @@ body {
 		top: 48%;
 		right: 0;
 	}
+	#hero #logo-text {
+		padding-top: 160px;
+	}
+	#hero .inner {
+		position: absolute;
+		top: 76%;
+		left: 10%;
+	}
 }
 @media screen and (min-width: 481px) {
 	#hero {
