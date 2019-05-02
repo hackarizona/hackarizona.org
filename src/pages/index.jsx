@@ -316,7 +316,7 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            Hack Arizona is January 19-21st, 2020, located throughout all 5 spacious stories of UofA's Science-Engineering Library. 
+            Hack Arizona 2020 runs January 19-21st. 
             The event is free and we provide you with free snacks and meals, swag, hardware to hack on, and prizes you can win throughout the weekend. 
           </AboutDesc>
           <br/>
