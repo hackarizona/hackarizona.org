@@ -26,8 +26,10 @@
     "react-emotion": "^9.2.9",
     "react-ga": "^2.5.3",
     "react-helmet": "^5.2.0",
+    "react-scroll": "^1.7.11",
     "react-spring": "^5.7.2",
     "sharp": "^0.22.1",
+    "styled-components": "^4.2.0",
     "tailwindcss": "^0.6.5",
     "typeface-cantata-one": "^0.0.54",
     "typeface-open-sans": "^0.0.54"

@@ -197,6 +197,7 @@ const Index = () => (
         <SVG icon="hexa" width={8} stroke={colors['orange-dark']} left="80%" top="70%" />
       </Divider>
       <Content speed={0.4} offset={0}>
+      
         <Hero>
           <HeroContent>
             <BigTitle>
@@ -315,9 +316,8 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            Hack Arizona is January 18-20th, 2019, located throughout all 5 spacious stories of UofA's Science-Engineering Library. 
+            Hack Arizona is January 19-21st, 2020, located throughout all 5 spacious stories of UofA's Science-Engineering Library. 
             The event is free and we provide you with free snacks and meals, swag, hardware to hack on, and prizes you can win throughout the weekend. 
-            <br/><br/> Our full website for Hack Arizona 2019 will be launching soon with more details.
           </AboutDesc>
           <br/>
           <RegistrationCTA target="_blank" href={RegLink}>Apply for Hack Arizona 2020 now!</RegistrationCTA>
@@ -343,7 +343,7 @@ const Index = () => (
         <Inner>
           <Title id="sponsor">Contact us</Title>
           <ContactText>
-            Email us at <a href="mailto:team@hackarizona.org">team@hackarizona.org</a> with any general questions or to learn about our 2019 sponsorship packages.<br/><br/>
+            Email us at <a href="mailto:team@hackarizona.org">team@hackarizona.org</a> with any general questions or to learn about our 2020 sponsorship packages.<br/><br/>
             Be sure to check out our event on: {' '}
             <a href="https://twitter.com/hack_arizona">Twitter</a>,  {' '}
             <a href="https://www.youtube.com/channel/UC94vU02OOICGg9FyR_6NSpA">Youtube</a>, or {' '}
@@ -354,7 +354,10 @@ const Index = () => (
           <p>© Hack Arizona, Inc. 2015-2019</p>
           <p><a href="https://github.com/hackarizona/hackarizona.org"> Open sourced</a></p>
         </Footer>
+        <br/>
+        
       </Content>
+      
       <Divider speed={0.1} offset={4}>
         <UpDown>
           <SVG icon="upDown" className={hidden} width={8} fill={colors['orange-dark']} left="70%" top="20%" />
@@ -371,7 +374,7 @@ const Index = () => (
         <SVG icon="hexa" width={8} stroke={colors['blue-dark']} left="80%" top="70%" />
       </Divider>
     </Parallax>
-  </React.Fragment>
+  </React.Fragment>  
 );
 
 export default Index;

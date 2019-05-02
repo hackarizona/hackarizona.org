@@ -6,6 +6,8 @@ import ReactGA from 'react-ga';
 import MetaImage from '../images/meta-image.png'
 import Favicon from '../../static/favicons/favicon.png'
 
+import PageHeader from "../components/PageHeader";
+
 function InitializeGA () {
   ReactGA.initialize('UA-129015704-1');
   ReactGA.pageview('/');
