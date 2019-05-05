@@ -1,4 +1,4 @@
-# The official website of Hack Arizona 2018-2019
+# The official website of Hack Arizona 2019-2020
 
 Hack Arizona is a student run hackathon hosted at the University of Arizona. 
 
@@ -20,7 +20,7 @@ This starter template was based on [gatsby-tailwind-demo](https://github.com/jle
 
 ## Technologies used
 
-- [GatsbyJS](https://www.gatsbyjs.org/) v2.0.0
+- [GatsbyJS](https://www.gatsbyjs.org/) v2.5.9
 - [React Spring](https://github.com/drcmda/react-spring) (Used for Parallax effect)
 - [TailwindCSS](https://tailwindcss.com/) & [Emotion](https://emotion.sh/) for styling
     - Use the full power of TailwindCSS while generating small styles (as unused data gets deleted)
@@ -34,6 +34,12 @@ A more detailed contributors guide will *hopefully* be completed soon (10/5/18).
 Check your development environment! You'll need [Node.js](https://nodejs.org/en/), the [Gatsby CLI](https://www.gatsbyjs.org/docs/) and [node-gyp](https://github.com/nodejs/node-gyp#installation) installed. The official Gatsby website also lists two articles regarding this topic:
 - [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
 - [Check your development environment](https://www.gatsbyjs.org/tutorial/part-zero/)
+
+To install all dependencies use the command:
+
+```
+npm install
+```
 
 ### Running in development
 
