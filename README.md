@@ -10,7 +10,8 @@ Our goal is to foster a world class hacker culture in the Southwest.
 - 2016: 650+
 - 2017: 850+
 - 2018: 950+
-- 2019 Estimation: 1100
+- 2019: 1100
+- 2020 Estimation ...
 
 ## Acknowledgments
 
