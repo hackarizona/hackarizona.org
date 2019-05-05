@@ -39,12 +39,18 @@ const Hero = styled.div`
   display: flex;
   flex-direction: row;
 
-  @media screen and (max-width: 1000px){
-    flex-direction: column;
-  }
+  
 
   @media screen and (max-width: 500px) and (max-height: 800px){
-    margin-top: 300px;
+    margin-top: 0px;
+  }
+
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-bottom: 100px;
+  }
+
+  @media screen and (max-width: 1000px){
+    flex-direction: column;
   }
 `;
 
@@ -59,14 +65,16 @@ const HeroImage = styled.img`
   height: 500px;
   margin: auto;
 
-  @media screen and (max-width: 500px) and (max-height: 600px) {
+  @media screen and (max-width: 800px) and (max-height: 800px) {
     display: none
   }
-
 `;
 
 const Inner = styled.div`
   ${tw('w-full xxl:w-2/3 text-center lg:text-left')};
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-top: 100px;
+  }
 `;
 
 const BigTitle = styled.h1`
@@ -76,7 +84,7 @@ const BigTitle = styled.h1`
 `;
 
 const Title = styled.h1`
-  ${tw('text-4xl lg:text-4xl font-sans text-white mb-8 tracking-wide relative inline-block')};
+  ${tw('text-4xl lg:text-4xl font-sans text-white mb-8 tracking-wide relative inline-block md:pt-6')};
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
   &:before {
     content: '';
@@ -134,14 +142,23 @@ const InnerWave = styled.div`
 
 const AboutHero = styled.div`
   ${tw('flex flex-col lg:flex-row items-center mt-8')};
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-top: 100px;
+  }
 `;
 
 const AboutSub = styled.span`
   ${tw('text-white pt-12 lg:pt-0 lg:pl-12 text-2xl lg:text-3xl xl:text-4xl')};
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-top: 100px;
+  }
 `;
 
 const AboutDesc = styled.p`
-  ${tw('text-grey-light text-lg md:text-xl lg:text-2xl font-sans pt-6 md:pt-12')};
+  ${tw('text-grey-light text-lg md:text-xl lg:text-2xl font-sans pt-6 md:pt-6')};
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-top: 100px;
+  }
 `;
 
 const ApplyLink = styled.span`
@@ -154,6 +171,10 @@ const ContactText = styled.p`
     color: #e07628;
     text-decoration: none;
   }
+
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-top: 00px;
+  }
 `;
 
 const Footer = styled.footer`
@@ -161,6 +182,9 @@ const Footer = styled.footer`
   a {
     color: #e07628;
     text-decoration: none;
+  }
+  @media screen and (max-width: 800px) and (max-height: 500px){
+    margin-top: 100px;
   }
 `;
 
