@@ -14,8 +14,7 @@ import { hidden } from '../styles/utils';
 import { colors } from '../../tailwind';
 import triangle from '../images/triangle.svg';
 import '../styles/global';
-import BannerImage from '../../static/images/Banner-Transparent.png'
-//import BannerImage from '../images/hackaz-logo-2020.png';
+import BannerImage from '../../static/images/Banner-Transparent-2020.png'
 
 const Divider = styled(ParallaxLayer)`
   ${tw('absolute w-full h-full')};
@@ -61,7 +60,7 @@ const HeroContent = styled.div`
 
 const HeroImage = styled.img`
   flex: 1;
-  max-width: 300px;
+  max-width: 260px;
   height: 500px;
   margin: auto;
 
@@ -193,6 +192,13 @@ const RegLink = 'https://airtable.com/shrXWfagMcHHGnhVI'
 const Index = () => (
   <React.Fragment>
     <SEO />
+    <a
+      id="mlh-trust-badge" 
+      style={{display: 'block', maxWidth: 100 + 'px', minWidth: 60 + 'px', position: 'fixed', right: 50 + 'px', top: 0, width: 10 + '%', zIndex: 10000}}
+      href="https://mlh.io/seasons/na-2020/events?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2020-season&utm_content=red" 
+      target="_blank">
+      <img src={"https://s3.amazonaws.com/logged-assets/trust-badge/2020/mlh-trust-badge-2020-red.svg"} alt="Major League Hacking 2020 Hackathon Season" style={{width:100 + '%'}}/>
+    </a>
     <Parallax pages={5}>
       <Divider speed={0.2} offset={0}>
         <UpDown>
@@ -218,11 +224,10 @@ const Index = () => (
         <SVG icon="box" className={hidden} width={64} fill={colors['orange-dark']} left="5%" top="90%" />
         <SVG icon="box" width={6} fill={colors['orange-darkest']} left="10%" top="10%" />
         <SVG icon="box" width={12} fill={colors['pink-darker']} left="40%" top="30%" />
-        <SVG icon="hexa" width={16} stroke={colors['orange-light']} left="10%" top="50%" />
+        <SVG icon="hexa" width={16} stroke={colors['orange']} left="10%" top="50%" />
         <SVG icon="hexa" width={8} stroke={colors['orange-dark']} left="80%" top="70%" />
       </Divider>
       <Content speed={0.4} offset={0}>
-      
         <Hero>
           <HeroContent>
             <BigTitle>
@@ -230,7 +235,7 @@ const Index = () => (
             </BigTitle>
             <Subtitle> 
               1,000+ attendees <br/>
-              Jan. 19-21, 2020<br/>
+              Jan. 17-19, 2020<br/>
               University of Arizona <br/>
               Location TBD
             </Subtitle>
@@ -242,7 +247,7 @@ const Index = () => (
         </Hero>
       </Content>
       <DividerMiddle
-        bg="linear-gradient(to right, Orange 0%, IndianRed 100%)"
+        bg="linear-gradient(to right, OrangeRed 0%, Pink 60%, IndianRed 80%)"
         speed={-0.2}
         offset={1.1}
         factor={2}
@@ -329,7 +334,7 @@ const Index = () => (
         <SVG icon="circle" width={6} fill={colors['red-light']} left="4%" top="20%" />
         <SVG icon="circle" width={12} fill={colors['orange-dark']} left="70%" top="60%" />
         <SVG icon="box" width={6} fill={colors.orange} left="10%" top="10%" />
-        <SVG icon="box" width={12} fill={colors['orange-light']} left="20%" top="30%" />
+        <SVG icon="box" width={12} fill={colors['orange']} left="20%" top="30%" />
         <SVG icon="hexa" width={8} stroke={colors['white']} left="80%" top="70%" />
       </Divider>
       <Content speed={0.4} offset={3}>
@@ -341,7 +346,7 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            Hack Arizona 2020 runs January 19-21st. 
+            Hack Arizona 2020 runs January 17-19th. 
             The event is free and we provide you with free snacks and meals, swag, hardware to hack on, and prizes you can win throughout the weekend. 
           </AboutDesc>
           <br/>
@@ -386,14 +391,14 @@ const Index = () => (
       <Divider speed={0.1} offset={4}>
         <UpDown>
           <SVG icon="upDown" className={hidden} width={8} fill={colors['orange-dark']} left="70%" top="20%" />
-          <SVG icon="triangle" width={8} stroke={colors['orange-light']} left="25%" top="5%" />
+          <SVG icon="triangle" width={8} stroke={colors['orange']} left="25%" top="5%" />
         </UpDown>
         <UpDownWide>
           <SVG icon="triangle" width={12} stroke={colors['red-light']} left="95%" top="50%" />
-          <SVG icon="circle" width={6} fill={colors['orange-light']} left="85%" top="15%" />
+          <SVG icon="circle" width={6} fill={colors['orange']} left="85%" top="15%" />
           <SVG icon="upDown" className={hidden} width={8} fill={colors['red-darker']} left="45%" top="10%" />
         </UpDownWide>
-        <SVG icon="circle" width={6} fill={colors['orange-light']} left="4%" top="20%" />
+        <SVG icon="circle" width={6} fill={colors['orange']} left="4%" top="20%" />
         <SVG icon="circle" width={12} fill={colors['orange-dark']} left="70%" top="60%" />
         <SVG icon="box" width={12} fill={colors.orange} left="20%" top="30%" />
         <SVG icon="hexa" width={8} stroke={colors['red']} left="80%" top="70%" />
