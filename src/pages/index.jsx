@@ -249,7 +249,7 @@ const Index = () => (
               Location TBD
             </Subtitle>
             <RegistrationCTA target="_blank" href={RegLink}>
-              Pre-Register Now!
+              Pre-Register Soon!
             </RegistrationCTA>
           </HeroContent>
           <HeroImage src={BannerImage}/>
