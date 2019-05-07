@@ -178,14 +178,16 @@ const ContactText = styled.p`
 
 const MLHFooter = styled.p`
   ${tw('text-center text-grey absolute pin-b p-6 font-sans text-md lg:text-lg')};
-    a {
-      color: #e07628;
-      text-decoration: none;
-    }
+  a {
+    color: #e07628;
+    text-decoration: none;
+  }
+  margin-bottom: 100px;
 `;
 
 const Footer = styled.footer`
   ${tw('text-center text-grey absolute pin-b p-6 font-sans text-md lg:text-lg')};
+  
   a {
     color: #e07628;
     text-decoration: none;
@@ -195,11 +197,10 @@ const Footer = styled.footer`
   }
 `;
 
-const RegLink = 'https://airtable.com/shrXWfagMcHHGnhVI'
+const RegLink = 'https://hackarizona.org'
 
 const Index = () => (
   <React.Fragment>
-    <SEO />
     <a
       id="mlh-trust-badge" 
       style={{display: 'block', maxWidth: 100 + 'px', minWidth: 60 + 'px', position: 'fixed', right: 50 + 'px', top: 0, width: 10 + '%', zIndex: 10000}}
@@ -340,7 +341,7 @@ const Index = () => (
             The event is free and we provide you with free snacks and meals, swag, hardware to hack on, and prizes you can win throughout the weekend. 
           </AboutDesc>
           <br/>
-          <RegistrationCTA target="_blank" href={RegLink}>Apply for Hack Arizona 2020 now!</RegistrationCTA>
+          {/* <RegistrationCTA target="_blank" href={RegLink}>Apply for Hack Arizona 2020 now!</RegistrationCTA> */}
         </Inner>
       </Content>
       <Divider fill="#23262b" speed={0.2} offset={4}>
@@ -369,13 +370,12 @@ const Index = () => (
             <a href="https://www.youtube.com/channel/UC94vU02OOICGg9FyR_6NSpA">Youtube</a>, or {' '}
             <a href="https://www.facebook.com/hackarizona/">Facebook.</a>
           </ContactText>
+        </Inner>
+        <Footer>
           <MLHFooter>
-            <img src={MLHLogo}style={{width: 60 + '%', height: 60 + '%'}}/>
+            <img src={MLHLogo} style={{width: 90 + '%', height: 90 + '%', justifyContent: 'center', alignItems: 'center'}}/>
             <p><a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"> MLH Code of Conduct</a></p>
           </MLHFooter>
-        </Inner>
-        
-        <Footer>
           <p>© Hack Arizona, Inc. 2015-2019</p>
           <p><a href="https://github.com/hackarizona/hackarizona.org"> Open sourced</a></p>
         </Footer>
