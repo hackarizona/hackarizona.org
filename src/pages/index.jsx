@@ -15,6 +15,7 @@ import { colors } from '../../tailwind';
 import triangle from '../images/triangle.svg';
 import '../styles/global';
 import BannerImage from '../../static/images/Banner-Transparent-2020.png'
+import MLHLogo from '../../static/images/mlh-logo-white.svg'
 
 const Divider = styled(ParallaxLayer)`
   ${tw('absolute w-full h-full')};
@@ -37,9 +38,7 @@ const Hero = styled.div`
   ${tw('w-full xl:w-2/3')};
   display: flex;
   flex-direction: row;
-
   
-
   @media screen and (max-width: 500px) and (max-height: 800px){
     margin-top: 0px;
   }
@@ -176,6 +175,14 @@ const ContactText = styled.p`
   }
 `;
 
+const MLHFooter = styled.p`
+  ${tw('text-center text-grey absolute pin-b p-6 font-sans text-md lg:text-lg')};
+    a {
+      color: #e07628;
+      text-decoration: none;
+    }
+`;
+
 const Footer = styled.footer`
   ${tw('text-center text-grey absolute pin-b p-6 font-sans text-md lg:text-lg')};
   a {
@@ -240,14 +247,14 @@ const Index = () => (
               Location TBD
             </Subtitle>
             <RegistrationCTA target="_blank" href={RegLink}>
-              Apply now!
+              Pre-Register Now!
             </RegistrationCTA>
           </HeroContent>
           <HeroImage src={BannerImage}/>
         </Hero>
       </Content>
       <DividerMiddle
-        bg="linear-gradient(to right, OrangeRed 0%, Pink 60%, IndianRed 80%)"
+        bg="linear-gradient(to right, OrangeRed 0%, #ff99cc 60%, IndianRed 80%)"
         speed={-0.2}
         offset={1.1}
         factor={2}
@@ -256,40 +263,22 @@ const Index = () => (
         <Inner>
           <Title>This year's challenge categories include:</Title>
           <ProjectsWrapper>
-            <ProjectCard
-              title="Social Good"
-              bg="linear-gradient(to right, #141E30 0%, #243B55 100%)"
-            >
+            <ProjectCard title="Social Good">
               Hack that could contribute the most social good
             </ProjectCard>
-            <ProjectCard
-              title="Blockchain / DLT"
-              bg="linear-gradient(to right, #141E30 0%, #243B55 100%)"
-            >
+            <ProjectCard title="Blockchain / DLT">
               Best Dapp, blockchain, or distributed ledger project
             </ProjectCard>
-            <ProjectCard
-              title="Artificial Intelligence"
-              bg="linear-gradient(to right, #141E30 0%, #243B55 100%)"
-            >
+            <ProjectCard title="Artificial Intelligence">
               Best overall hack involving artificial intelligence
             </ProjectCard>
-            <ProjectCard
-              title="AR / VR"
-              bg="linear-gradient(to right, #141E30 0%, #243B55 100%)"
-            >
+            <ProjectCard title="AR / VR">
               Most interesting implementation of artificial or virtual reality
             </ProjectCard>
-            <ProjectCard
-              title="Cybersecurity"
-              bg="linear-gradient(to right, #141E30 0%, #243B55 100%)"
-            >
+            <ProjectCard title="Cybersecurity">
               Most surprising cybersecurity project
             </ProjectCard>
-            <ProjectCard
-              title="Hardware/robotics"
-              bg="linear-gradient(to right, #141E30 0%, #243B55 100%)"
-            >
+            <ProjectCard title="Hardware/robotics">
               Best use of hardware.<br/> We like self driving things, in particular!
             </ProjectCard>
           </ProjectsWrapper>
@@ -379,13 +368,16 @@ const Index = () => (
             <a href="https://www.youtube.com/channel/UC94vU02OOICGg9FyR_6NSpA">Youtube</a>, or {' '}
             <a href="https://www.facebook.com/hackarizona/">Facebook.</a>
           </ContactText>
+          <MLHFooter>
+            <img src={MLHLogo}style={{width: 60 + '%', height: 60 + '%'}}/>
+            <p><a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"> MLH Code of Conduct</a></p>
+          </MLHFooter>
         </Inner>
+        
         <Footer>
           <p>© Hack Arizona, Inc. 2015-2019</p>
           <p><a href="https://github.com/hackarizona/hackarizona.org"> Open sourced</a></p>
         </Footer>
-        <br/>
-        
       </Content>
       
       <Divider speed={0.1} offset={4}>

@@ -25,7 +25,7 @@ const Title = styled.div`
 `;
 
 const ProjectCard = ({ title, children, bg }) => (
-  <Wrapper target="_blank" rel="noopener noreferrer" bg={bg}>
+  <Wrapper target="_blank" rel="noopener noreferrer" bg="linear-gradient(to right, #151619 0%, #23262b 100%)">
     <Title>{title}</Title>
     <Text>{children}</Text>
   </Wrapper>
