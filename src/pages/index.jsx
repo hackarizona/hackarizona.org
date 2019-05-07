@@ -197,7 +197,7 @@ const Footer = styled.footer`
   }
 `;
 
-const RegLink = 'https://hackarizona.org'
+const RegLink = 'https://list.arizona.edu/sympa/subscribe/hackaz'
 
 const Index = () => (
   <React.Fragment>
