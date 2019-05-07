@@ -12,8 +12,9 @@ import ProjectCard from '../components/ProjectCard';
 import { rotate, UpDown, UpDownWide, waveAnimation } from '../styles/animations';
 import { hidden } from '../styles/utils';
 import { colors } from '../../tailwind';
-import triangle from '../images/triangle.svg';
 import '../styles/global';
+
+import triangle from '../../static/images/triangle.svg';
 import BannerImage from '../../static/images/Banner-Transparent-2020.png'
 import MLHLogo from '../../static/images/mlh-logo-white.svg'
 
@@ -38,7 +39,7 @@ const Hero = styled.div`
   ${tw('w-full xl:w-2/3')};
   display: flex;
   flex-direction: row;
-  
+
   @media screen and (max-width: 500px) and (max-height: 800px){
     margin-top: 0px;
   }
@@ -254,7 +255,7 @@ const Index = () => (
         </Hero>
       </Content>
       <DividerMiddle
-        bg="linear-gradient(to right, OrangeRed 0%, #ff99cc 60%, IndianRed 80%)"
+        bg="linear-gradient(to right, OrangeRed 0%, #ff99cc 60%, #c33c3c 80%)"
         speed={-0.2}
         offset={1.1}
         factor={2}

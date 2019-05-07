@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import config from '../../config/website';
 import ReactGA from 'react-ga';
 
-import MetaImage from '../images/meta-image.png'
+import MetaImage from '../../static/images/meta-image.png'
 import Favicon from '../../static/favicons/favicon.png'
 
 function InitializeGA () {
