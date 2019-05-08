@@ -169,6 +169,7 @@ const ContactText = styled.p`
   a {
     color: #e07628;
     text-decoration: none;
+    margin-bottom: 100px;
   }
 
   @media screen and (max-width: 800px) and (max-height: 500px){
@@ -182,18 +183,20 @@ const MLHFooter = styled.p`
     color: #e07628;
     text-decoration: none;
   }
-  margin-bottom: 100px;
+  margin-bottom: 70px;
 `;
 
 const Footer = styled.footer`
   ${tw('text-center text-grey absolute pin-b p-6 font-sans text-md lg:text-lg')};
-  
+  margin-top: 100px;
   a {
     color: #e07628;
     text-decoration: none;
+    
   }
-  @media screen and (max-width: 800px) and (max-height: 500px){
-    margin-top: 100px;
+  
+  @media screen and (max-width: 500px) and (max-height: 800px){
+    margin-top: 200px;
   }
 `;
 
