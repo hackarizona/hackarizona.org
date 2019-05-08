@@ -4,7 +4,7 @@ import config from '../../config/website';
 import ReactGA from 'react-ga';
 
 import MetaImage from '../../static/images/meta-image.png'
-import Favicon from '../../static/favicons/favicon.png'
+import Favicon from '../../static/favicons/HackArizona-icon.png'
 
 function InitializeGA () {
   ReactGA.initialize('UA-129015704-1');

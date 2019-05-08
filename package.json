@@ -40,6 +40,7 @@
     "portfolio"
   ],
   "scripts": {
+    "clean": "gatsby clean",
     "develop": "gatsby develop -o",
     "build": "gatsby build",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
