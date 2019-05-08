@@ -270,7 +270,7 @@ const Index = () => (
       <Content speed={0.4} offset={1.2} factor={2}>
         <Inner>
           <Title>This year's challenge categories will be announced during the Fall Semester!</Title>
-          <Title>Some topics from last year include:</Title>
+          <Subtitle>Some topics from last year include:</Subtitle>
           <ProjectsWrapper>
             <ProjectCard title="Social Good">
               Hack that could contribute the most social good
