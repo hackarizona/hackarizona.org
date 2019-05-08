@@ -15,7 +15,7 @@ import { colors } from '../../tailwind';
 import '../styles/global';
 
 import triangle from '../../static/images/triangle.svg';
-import BannerImage from '../../static/images/Banner-Transparent-2020.png'
+import BannerImage from '../../static/images/HackArizona-Banner-Transparent-2020.png'
 import MLHLogo from '../../static/images/mlh-logo-white.svg'
 
 const Divider = styled(ParallaxLayer)`
@@ -60,8 +60,8 @@ const HeroContent = styled.div`
 
 const HeroImage = styled.img`
   flex: 1;
-  max-width: 260px;
-  height: 500px;
+  max-width: 367px;
+  height: 700px;
   margin: auto;
 
   @media screen and (max-width: 800px) and (max-height: 800px) {
