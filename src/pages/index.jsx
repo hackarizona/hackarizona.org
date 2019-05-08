@@ -59,9 +59,11 @@ const HeroContent = styled.div`
 `;
 
 const HeroImage = styled.img`
-  flex: 1;
-  max-width: 367px;
-  height: 700px;
+  
+  height: 85vh;
+  width: 15vw:
+  // max-width: 367px;
+  // height: 700px;
   margin: auto;
 
   @media screen and (max-width: 800px) and (max-height: 800px) {
