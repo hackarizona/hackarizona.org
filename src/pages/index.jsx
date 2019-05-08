@@ -71,7 +71,7 @@ const HeroImage = styled.img`
     margin-top: 25vh;
     margin-left: 20px;
     margin-right: auto;
-    height: 30vh;
+    height: 25vh;
     width: 25vw;
   }
 `;
