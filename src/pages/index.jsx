@@ -190,6 +190,7 @@ const MLHFooter = styled.p`
     color: #e07628;
     text-decoration: none;
   }
+  margin-top: 30vh;
   margin-bottom: 70px;
 `;
 
