@@ -201,6 +201,7 @@ const RegLink = 'https://list.arizona.edu/sympa/subscribe/hackaz'
 
 const Index = () => (
   <React.Fragment>
+    <SEO/>
     <a
       id="mlh-trust-badge" 
       style={{display: 'block', maxWidth: 100 + 'px', minWidth: 60 + 'px', position: 'fixed', right: 50 + 'px', top: 0, width: 10 + '%', zIndex: 10000}}

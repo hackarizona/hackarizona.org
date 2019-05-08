@@ -31,18 +31,7 @@ module.exports = {
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
         display: 'fullscreen',
-        icons: [
-          {
-            src: '',
-            sizes: '192x192',
-            type: 'image/png',
-          },
-          {
-            src: '',
-            sizes: '512x512',
-            type: 'image/png',
-          },
-        ],
+        icon: 'static/favicons/HackArizona-icon.png'
       },
     },
     /* Must be placed at the end */

@@ -44,7 +44,7 @@ const SEO = () => {
   return (
     <Helmet>
       <html lang={config.siteLanguage} />
-      <title>Hack Arizona | The largest hackathon in the Southwest</title>
+      <title>Hack Arizona</title>
       <meta name="description" content='Hack Arizona is the largest hackathon in the Southwest. January 18-20, 2019. Learn more and register now!' />
       <link rel="icon" type="image/png" sizes="32x32" href={Favicon} />
       <link rel="icon" type="image/png" sizes='16x16' href={Favicon} />
