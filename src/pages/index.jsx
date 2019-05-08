@@ -202,7 +202,7 @@ const Footer = styled.footer`
   }
 `;
 
-const RegLink = 'https://list.arizona.edu/sympa/subscribe/hackaz'
+const PreRegLink = 'https://list.arizona.edu/sympa/subscribe/hackaz'
 
 const Index = () => (
   <React.Fragment>
@@ -254,7 +254,7 @@ const Index = () => (
               University of Arizona <br/>
               Albert B. Weaver Science and Engineering Library
             </Subtitle>
-            <RegistrationCTA target="_blank" href={RegLink}>
+            <RegistrationCTA target="_blank" href={PreRegLink}>
               Pre-Register Now!
             </RegistrationCTA>
           </HeroContent>
@@ -269,7 +269,8 @@ const Index = () => (
       />
       <Content speed={0.4} offset={1.2} factor={2}>
         <Inner>
-          <Title>This year's challenge categories include:</Title>
+          <Title>This year's challenge categories will be announced during the Fall Semester!</Title>
+          <Title>Some topics from last year include:</Title>
           <ProjectsWrapper>
             <ProjectCard title="Social Good">
               Hack that could contribute the most social good
