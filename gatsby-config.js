@@ -10,7 +10,6 @@ module.exports = {
   },
   /* Plugins */
   plugins: [
-    `gatsby-plugin-netlify`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-emotion',
     {
@@ -36,6 +35,7 @@ module.exports = {
       },
     },
     /* Must be placed at the end */
-    'gatsby-plugin-offline'
+    'gatsby-plugin-offline',
+    `gatsby-plugin-netlify`
   ],
 };

@@ -6,8 +6,8 @@ module.exports = {
   siteTitleAlt: 'hackarizona',
   siteUrl: 'https://hackarizona.org',
   siteLanguage: 'en',
-  //siteLogo: '', // Used for SEO and manifest
-  siteDescription: 'Hack Arizona is a hackathon Jan. 18-20, 2019, at the University of Arizona',
+  siteLogo: '../../static/favicons/HackArizona-icon.png', // Used for SEO and manifest
+  siteDescription: 'Hack Arizona is a hackathon Jan. 17-19, 2020, at the University of Arizona',
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@hack_arizona', // Twitter Username
