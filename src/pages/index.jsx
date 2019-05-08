@@ -39,9 +39,10 @@ const Hero = styled.div`
   ${tw('w-full xl:w-2/3')};
   display: flex;
   flex-direction: row;
-
+  padding-top: 25vh;
+  margin-bottom: 200px;
   @media screen and (max-width: 500px) and (max-height: 800px){
-    margin-top: 0px;
+    padding-top: 5vh;
   }
 
   @media screen and (max-width: 800px) and (max-height: 500px){
@@ -54,27 +55,31 @@ const Hero = styled.div`
 `;
 
 const HeroContent = styled.div`
-  flex: 1;
   margin: auto;
+  margin-left: 10vw;
+  @media screen and (max-width: 500px){
+    margin-left: 0vw;
+  }
 `;
 
 const HeroImage = styled.img`
-  
   height: 85vh;
-  width: 15vw:
-  // max-width: 367px;
-  // height: 700px;
-  margin: auto;
-
-  @media screen and (max-width: 800px) and (max-height: 800px) {
-    display: none
+  width: 20vw:
+  margin-top: 15vh;
+  @media screen and (max-width: 500px){
+    display: block;
+    margin-top: 25vh;
+    margin-left: 20px;
+    margin-right: auto;
+    height: 30vh;
+    width: 25vw;
   }
 `;
 
 const Inner = styled.div`
   ${tw('w-full xxl:w-2/3 text-center lg:text-left')};
   @media screen and (max-width: 800px) and (max-height: 500px){
-    margin-top: 100px;
+    margin-top: 50px;
   }
 `;
 
@@ -244,6 +249,7 @@ const Index = () => (
       </Divider>
       <Content speed={0.4} offset={0}>
         <Hero>
+        <HeroImage src={BannerImage}/>
           <HeroContent>
             <BigTitle>
               Hack Arizona
@@ -258,7 +264,7 @@ const Index = () => (
               Pre-Register Now!
             </RegistrationCTA>
           </HeroContent>
-          <HeroImage src={BannerImage}/>
+          
         </Hero>
       </Content>
       <DividerMiddle
