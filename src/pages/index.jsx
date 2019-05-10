@@ -388,7 +388,7 @@ const Index = () => (
         <Footer>
           <MLHFooter>
             <img src={MLHLogo} style={{width: 90 + '%', height: 90 + '%', justifyContent: 'center', alignItems: 'center'}}/>
-            <p><a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"> MLH Code of Conduct</a></p>
+            <p><a href="http://mlh.io/code-of-conduct"> MLH Code of Conduct</a></p>
           </MLHFooter>
           <p>© Hack Arizona, Inc. 2015-2019</p>
           <p><a href="https://github.com/hackarizona/hackarizona.org"> Open sourced</a></p>
