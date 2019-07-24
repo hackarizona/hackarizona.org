@@ -1,41 +1,24 @@
-const config = require('./config/website');
-
-const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix;
-
 module.exports = {
-  /* General Information */
-  pathPrefix: config.pathPrefix,
   siteMetadata: {
-    siteUrl: config.siteUrl + pathPrefix,
+    title: "Gatsby Starter - Forty V2",
+    author: "Hunter Chang",
+    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
   },
-  /* Plugins */
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-emotion',
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        path: `${__dirname}/static/images/`,
-        name: 'images',
+        name: 'gatsby-starter-default',
+        short_name: 'starter',
+        start_url: '/',
+        background_color: '#663399',
+        theme_color: '#663399',
+        display: 'minimal-ui',
+        icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
       },
     },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    {
-      resolve: 'gatsby-plugin-manifest',
-      options: {
-        name: config.siteTitle,
-        short_name: config.siteTitleAlt,
-        description: config.siteDescription,
-        start_url: config.pathPrefix,
-        background_color: config.backgroundColor,
-        theme_color: config.themeColor,
-        display: 'fullscreen',
-        icon: 'static/favicons/HackArizona-icon.png'
-      },
-    },
-    /* Must be placed at the end */
-    'gatsby-plugin-offline',
-    `gatsby-plugin-netlify`
+    'gatsby-plugin-sass',
+    'gatsby-plugin-offline'
   ],
-};
+}
