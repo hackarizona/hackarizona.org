@@ -17,4 +17,14 @@ module.exports = {
   // Manifest and Progress color
   themeColor: tailwind.colors.orange,
   backgroundColor: tailwind.colors.blue,
+
+  // Google Analytics
+  plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-144508015-1",
+      },
+    },
+  ],
 };
