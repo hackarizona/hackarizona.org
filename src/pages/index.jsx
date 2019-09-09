@@ -259,7 +259,7 @@ const Index = () => (
               1,000+ attendees <br/>
               Jan. 17-19, 2020<br/>
               University of Arizona <br/>
-              Albert B. Weaver Science and Engineering Library
+              Location TBD (UA Campus)
             </Subtitle>
             <RegistrationCTA target="_blank" href={PreRegLink}>
               Pre-Register Now!
