@@ -1,0 +1,109 @@
+
+/*.footer{
+    background-color: rgba(52,58,64,1);
+    color: white;
+}*/
+.faq{
+  padding: 7%;
+  background-color:rgb(0, 38, 70, 1);
+  color: white;
+}
+
+  .faq .row {
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  .faq-col {
+    float: left;
+    text-align: left;
+    /*width: 33.333%;*/
+    width: 50%;
+  }
+  .faq-col div {
+    margin: 15px;
+    padding: 10px;
+  }
+  .faq-col h3 {
+    font-weight: 600;
+    margin: 0 0 15px;
+    padding: 0;
+  }
+  .faq-col p {
+    text-align: justify;
+  }
+
+  span.plus {
+    display: none;
+    float: right;
+    font-size: 35px;
+    line-height: 15px;
+    transition: all 0.3s linear;
+  }
+  
+
+  @media (max-width: 767px) {
+    .faq-col {
+      width: 100%;
+    }
+  
+    .sched-col {
+      padding: 0 20px 20px;
+      width: 100%;
+    }
+  
+    .schedule h2 {
+      font-size: 14px;
+    }
+  
+    .faq-col div {
+      margin: 0 15px;
+      padding: 5px 10px;
+    }
+  
+    .faq-col h3 {
+      border-bottom: 1px solid #ddd;
+      padding: 0 0 15px;
+    }
+  
+    span.plus {
+      display: inline;
+    }
+  }
+
+  @media (max-width: 580px) {
+    .faq-col {
+      width: 100%;
+    }
+  
+    .sched-col {
+      padding: 0 20px 20px;
+      width: 100%;
+    }
+  
+    .schedule h2 {
+      font-size: 14px;
+    }
+  
+    .plain p {
+      font-size: 13px;
+    }
+  
+    .faq-col div {
+      margin: 0 15px;
+      padding: 5px 10px;
+    }
+  
+    .faq-col h3 {
+      border-bottom: 1px solid #ddd;
+      padding: 0 0 13px;
+      font-size: 13px;
+    }
+  
+    .answer a {
+      size: 12px;
+    }
+  
+    span.plus {
+      display: inline;
+    }
+  }
