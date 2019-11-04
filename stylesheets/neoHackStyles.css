@@ -114,11 +114,12 @@ a.sh-button:link {
 @media (max-width: 768px) {
     #intro h1 {
         text-align: center;
-        font-size: 45px;
+        font-size: 38px;
       } 
     
       #intro p {
         text-align: center;
+        font-size: 25px;
       }
     .main-jumbotron-image {
         width: 30%;
