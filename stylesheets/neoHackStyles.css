@@ -222,6 +222,10 @@ a.sh-button:link {
     width: 40%;
     margin-top: 25%;
   }
+
+  .sh-button{
+    font-size: 15px;
+  }
 }
 
   
