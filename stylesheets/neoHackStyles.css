@@ -224,9 +224,10 @@ a.sh-button:link {
   }
 
   .sh-button{
-    font-size: 15px;
+    font-size: 17px;
     letter-spacing: 0%;
     padding: 0%;
+    /*font-weight: 200px;*/
   }
 }
 
