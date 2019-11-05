@@ -29,7 +29,7 @@
     padding: 0;
   }
   .faq-col p {
-    text-align: justify;
+    text-align: left;
   }
 
   span.plus {
@@ -82,6 +82,7 @@
   
     .schedule h2 {
       font-size: 14px;
+      width: 55%;
     }
   
     .plain p {
@@ -96,7 +97,7 @@
     .faq-col h3 {
       border-bottom: 1px solid #ddd;
       padding: 0 0 13px;
-      font-size: 13px;
+      font-size: 12px;
     }
   
     .answer a {
