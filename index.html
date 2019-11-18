@@ -3,7 +3,8 @@
   <head>
     <title>Hack Arizona</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="./images/HackAZ_2020.png">
     <link rel="stylesheet" href="./stylesheets/neoHackStyles.css">
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">-->
@@ -18,13 +19,22 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" ></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144508015-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-144508015-1');
+    </script>
   </head>
 <body>
 
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" role="navigation">
     
     <a class="navbar-brand page-scroll" href="#page-top">
-      <img src="images/HackAZ_2020.png" width="30" height="30" class="d-inline-block align-top" alt="">
+      <img src="images/HackAZ_2020Logo_White.png" width="34" height="30" class="d-inline-block align-top" alt="">
       Hack Arizona</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -52,7 +62,7 @@
   href="https://mlh.io/seasons/na-2020/events?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2020-season&utm_content=white"
   target="_blank"><img
       src="https://s3.amazonaws.com/logged-assets/trust-badge/2020/mlh-trust-badge-2020-white.svg"
-      alt="Major League Hacking 2020 Hackathon Season" style="width:100%; margin-left: 25%;"></a>
+      alt="Major League Hacking 2020 Hackathon Season" style="width:80%; margin-left: 50%;"></a>
 
   <div class="jumbotron main-jumbotron" id="page-top">
     <img class="main-jumbotron-image overlay" src="images/HackAZ_2020.png" alt="hack arizona">
@@ -61,11 +71,15 @@
         <div id="intro" class="main-jumbotron-text-container">
             
             <h1>Hack Arizona 6.0</h1>
-            <p>January 17th&ndash;19th, 2020</p>
+            <p>January 17th &ndash;19th, 2020</p>
             <p>The University of Arizona</p>
-            <div class="main-jumbotron-text-button">
-                <button class="sh-button" id="hackButton" onclick="location.href='https://list.arizona.edu/sympa/subscribe/hackaz'">Coming Soon</button>
-                <!--<button class="sh-button disabled" id="volunteerButton" onclick="">Apply to Volunteer</button>-->
+            <div class="row mar-main-center">
+                <div class="col-sm-5 mb-2 mar-center">
+                    <button class="sh-button" id="hackButton" onclick="location.href='https://hackarizona.typeform.com/to/pB24bh'">Register Now</button>
+                </div>
+                <div class="col-sm-5 mb-2 mar-center">
+                    <button class="sh-button" id="volunteerButton" onclick="location.href='https://hackarizona.typeform.com/to/SKThZi'">Apply to Volunteer</button>
+                </div>
             </div>
         </div>
     </div>
@@ -89,10 +103,9 @@
               <div class="about-col">
                 <h3 class="title">Our Mission</h3>
                 <p>
-                    positive social impact technology
-                    can have on the world by hosting an event that provides
-                    individuals with all levels of expertise the chance to work with
-                    and learn about new technology.
+                  Emphasize the positive social impact technology can have on 
+                  the world by hosting an event that provides individuals with all levels of
+                   expertise the chance to work with and learn about new technology.
                 </p>
               </div>
             </div>
@@ -133,32 +146,27 @@
             <div class="row">
                 <div class="faq-col">
                     <div>
-                        <h3>What is a Hackathon? <span class="plus">+</span></h3>
-                        <p class="answer">Hackathons are places where you can have many unique experiences. You
-                            can watch
-                            you and your team's project come to life throughout a weekend, network with sponsors
-                            in a
-                            much more casual environment than career fair, meet new friends and learn about the
-                            present
-                            tech community, and learn cool new tech that industry is thrilled to hear about!
-                            Come up with a project, or join a team, and make the coolest invention you've come
-                            up with yet!</p>
+                        <h3>What is a Hackathon? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
+                        <p class="answer">Hackathons are full of unique experiences. Over the course of the weekend, 
+                          come watch you and your team's project come to life, network with sponsors in a much more 
+                          causal environment than a career fair, come meet new friends and learn about new technology 
+                          skills highly sought after.</p>
                     </div>
                     <div>
-                        <h3>Who can attend the event? <span class="plus">+</span></h3>
+                        <h3>Who can attend the event? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">All college, university, or high school students 18 years or older are
                             welcome to attend.</p>
                     </div>
                     <div>
-                        <h3>Code of Conduct? <span class="plus">+</span></h3>
+                        <h3>Code of Conduct? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">As a Major League Hacking member event, we require all attendees
                             (hackers, volunteers,
                             mentors, sponsors, etc) to follow Major League Hacking’s <a
                                 href="http://static.mlh.io/docs/mlh-code-of-conduct.pdf">Code of Conduct</a>.
                         </p>
                     </div>
-                    <div class="m-0">
-                        <h3>I don't have a team yet. Can I still partcipate? <span class="plus">+</span></h3>
+                    <div>
+                        <h3>I don't have a team yet. Can I still partcipate? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">
                             Of course! Teams are by no means a prerequiste for coming
                             to Hack Arizona. We'll host several team formation sessions before
@@ -166,21 +174,21 @@
                         </p>
                     </div>
                     <div>
-                        <h3>Can I get travel reimbursement? <span class="plus">+</span></h3>
+                        <h3>Can I get travel reimbursement? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">We unfortunately do not yet have the funds to reimburse our attendees
                             for their travel. We sincerely apologize, but hope you understand.
                             In the future when we're bigger, we hope to be able to help you out, so stay tuned!
                         </p>
                     </div>
                     <div>
-                        <h3>Is Hack Arizona a free event? <span class="plus">+</span></h3>
+                        <h3>Is Hack Arizona a free event? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">Hack Arizona is a free event, including wifi, food, drinks, prizes
                             and some awesome swag!</p>
                     </div>
                 </div>
                 <div class="faq-col">
                     <div>
-                        <h3>What if I don't have a team?<span class="plus">+</span></h3>
+                        <h3>What if I don't have a team?<span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">Don't have a team? That's okay, after our opening ceremony, stick
                             around to find some team members
                             who want to help you with your project—or maybe you want to help them with theirs!
@@ -188,14 +196,14 @@
                             you find your dream team.</p>
                     </div>
                     <div>
-                        <h3>What about hardware hacks? <span class="plus">+</span></h3>
+                        <h3>What about hardware hacks? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">MLH will be generously renting out cutting edge technology to the
                             hackers. From Oculus Rifts to Arduinos,
                             the sky is the limit. If you have hardware or tools, you are more than welcome to
                             bring them as well.</p>
                     </div>
                     <div>
-                        <h3>What do I need to bring? <span class="plus">+</span></h3>
+                        <h3>What do I need to bring? <span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer"> You'll need to bring your student ID, laptop, phone, chargers,
                             toiletries, and any
                             sleeping items you might want. We will have a sleeping area designated and showers
@@ -203,13 +211,13 @@
                         </p>
                     </div>
                     <div>
-                        <h3>I'm not a student. How do I get involved?<span class="plus">+</span></h3>
+                        <h3>I'm not a student. How do I get involved?<span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">To get the full hackathon experience we highly recommend you stay, but
                             we understand if you need to leave
                             (or if you want to sleep in a real bed for the night).</p>
                     </div>
                     <div>
-                        <h3>My question wasn't answered here.<span class="plus">+</span></h3>
+                        <h3>My question wasn't answered here.<span class="plus"><i class="fa fa-chevron-down" aria-hidden="true"></i></span></h3>
                         <p class="answer">Please reach out to <a href="mailto:team@hackarizona.org"
                                 target="_blank">team@hackarizona.org</a>!</p>
                     </div>
