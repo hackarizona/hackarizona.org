@@ -80,7 +80,8 @@ a.sh-button:link {
   margin-top: 3%;
   background: linear-gradient( rgba(0,39,91,0.20), rgba(0,39,91,0.65) ), url(../images/hackGuy2016.jpg);
   background-size: cover;
-  height: 100%;
+  height: 100vh;
+  min-height: 500px;
 }
 .main-jumbotron-container {
   padding: 0% 0%;
@@ -232,6 +233,10 @@ a.sh-button:link {
 
   #mlh-trust-badge {
     width: 65px;
+  }
+
+  .main-jumbotron {
+    min-height: 500px;
   }
 }
 
