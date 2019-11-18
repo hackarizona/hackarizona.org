@@ -234,6 +234,10 @@ a.sh-button:link {
   #mlh-trust-badge {
     width: 65px;
   }
+
+  .main-jumbotron {
+    height: 700px;
+  }
 }
 
   
