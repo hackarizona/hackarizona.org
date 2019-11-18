@@ -82,7 +82,7 @@ a.sh-button:link {
   background-size: cover;
   height: 100vh;
   /*min-height: 700px;*/
-  min-height: fit-content;
+  min-height: fit-content !important;
 }
 .main-jumbotron-container {
   padding: 0% 0%;
