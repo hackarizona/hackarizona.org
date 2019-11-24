@@ -242,3 +242,21 @@ a.sh-button:link {
   top: 50px;
   width: 96.6667%;
 }
+
+/*team styles*/
+div.item {
+  vertical-align: left;
+  display: inline-block;
+
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  margin: 2%;
+}
+
+#team{
+  padding: 7%;
+  background-color: rgb(27, 33, 36);
+  color: white;
+  text-align: center;
+}
