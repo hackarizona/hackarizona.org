@@ -91,6 +91,11 @@ a.sh-button:link {
   margin: 10%;
   float: right;
 }
+.main-jumbotron-image {
+  width: 20%;
+  margin: 10%;
+  float: right;
+}
 .text-overlay {
     margin: 40vh 5vh;
     display: flex;
@@ -114,30 +119,37 @@ a.sh-button:link {
 
 @media (max-width: 768px) {
     #intro h1 {
-        text-align: center;
-        font-size: 38px;
-      } 
-    
-      #intro p {
-        text-align: center;
-        font-size: 25px;
-      }
+      text-align: center;
+      font-size: 38px;
+    } 
+  
+    #intro p {
+      text-align: center;
+      font-size: 25px;
+    }
     .image-overlay {
-        width: 30%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        float: none;
-      }
-      .text-overlay {
-        position: relative;
-        padding: auto;
-        margin: 0%;
-        margin-bottom: 4%;
-        flex-direction: column;
-        align-items: stretch;
-        justify-content: center;
-        display: flex;
+      width: 30%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: none;
+    }
+    .main-jumbotron-image {
+      width: 30%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: none;
+    }
+    .text-overlay {
+      position: relative;
+      padding: auto;
+      margin: 0%;
+      margin-bottom: 4%;
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: center;
+      display: flex;
     }
     .main-jumbotron-text-button{
       margin: auto;
@@ -220,6 +232,11 @@ a.sh-button:link {
 
 @media (max-width: 575px){
   .image-overlay {
+    width: 40%;
+    margin-top: 25%;
+  }
+
+  .main-jumbotron-image {
     width: 40%;
     margin-top: 25%;
   }
