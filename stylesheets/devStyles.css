@@ -1,0 +1,279 @@
+
+/*@import url('navBar.css');*/
+@import url('faq.css');
+
+#intro h1 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-size: 60px;
+    font-weight: 750;
+  } 
+
+  #intro p {
+    color: #fff;
+    margin: 0%;
+    font-size: 30px;
+  }
+
+  #page-top{
+      margin: 0%;
+  }
+
+  #about{
+    padding: 7%;
+    background-color: rgb(27, 33, 36);
+    color: white;
+    text-align: center;
+  }
+
+.navbar-brand {
+    margin-right: 10%;
+}
+
+@media (min-width: 767px){
+  .mar-main-center{
+    /*width: 80%;*/
+    width:540px;
+  }
+}
+  
+  @media (max-width: 768px) {
+    #intro h2 {
+      font-size: 28px;
+    }
+
+    .mar-center, .mar-main-center{
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+.sh-button {
+    text-align: center !important;
+    background-color: #ff9089;
+    background-color: #e04861;
+    border: 0;
+    border-radius: 3px;
+    font-size: 19px;
+    height: 48px;
+    letter-spacing: 0.03em;
+    line-height: 48px;
+    transition: all 0.23s ease-in-out 0s;
+    left: 50%;
+    width: 200px;
+    margin: 2% !important;
+  }
+  
+.sh-button:hover {
+  background-color: #ff9089;
+  color: #fff;
+  text-decoration: none;
+  /* width: 300px;*/
+}
+a.sh-button:link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.main-jumbotron {
+  /*background-image: url(../images/20160124-IMG_7913.jpg);*/
+  margin-top: 3%;
+  background: linear-gradient( rgba(0,39,91,0.20), rgba(0,39,91,0.65) ), url(../images/hackGuy2016.jpg);
+  background-size: cover;
+  height: 100vh;
+  min-height: 700px;
+}
+.main-jumbotron-container {
+  padding: 0% 0%;
+}
+.image-overlay {
+  width: 20%;
+  margin: 10%;
+  float: right;
+}
+.main-jumbotron-image {
+  width: 20%;
+  margin: 10%;
+  float: right;
+}
+.text-overlay {
+    margin: 40vh 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+
+}
+
+@media (min-width: 769px){
+
+  .text-overlay {
+    justify-content: left;
+  }
+}
+
+.main-jumbotron-text-button{
+  display: flex;
+  /*justify-content: center;*/
+}
+
+@media (max-width: 768px) {
+    #intro h1 {
+      text-align: center;
+      font-size: 38px;
+    } 
+  
+    #intro p {
+      text-align: center;
+      font-size: 25px;
+    }
+    .image-overlay {
+      width: 30%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: none;
+    }
+    .main-jumbotron-image {
+      width: 30%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: none;
+    }
+    .text-overlay {
+      position: relative;
+      padding: auto;
+      margin: 0%;
+      margin-bottom: 4%;
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: center;
+      display: flex;
+    }
+    .main-jumbotron-text-button{
+      margin: auto;
+      /*margin-top: 3%;*/
+      /*justify-content: center;*/
+    }
+    .sh-button {
+      margin: auto;
+    }
+  }
+.main-jumbotron * {
+    text-align: left;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.main-content {
+    /*border-radius: 20px;*/
+    width: 70vw;
+    margin: auto;
+    /*margin-top: -50px;*/
+}
+
+.site-section-heading {
+  float: none !important;
+}
+
+@media (min-width: 768px){
+  .site-section{
+    padding: 7em 0;
+  }
+}
+
+.site-section{
+  padding: 3em 0;
+}
+
+#mlh-trust-badge {
+    display: block;
+    position: fixed;
+    right: 110px;
+    top: 0;
+    width: 100px;
+    z-index: 10000;/*why??*/
+  }
+
+  .foot{
+      padding: 4%;
+      background-color: rgba(52,58,64,1);
+      color: white;
+  }
+
+
+.social a i {
+    color: #e04861;
+    font-size: 30px;
+    margin: 3%
+}
+
+.section-header h2 {
+  font-size: 32px;
+  /*color: #111;*/
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.section-header h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 3px;
+  background: #e04861;
+  bottom: 0;
+  left: calc(50% - 60px);
+}
+
+@media (max-width: 575px){
+  .image-overlay {
+    width: 40%;
+    margin-top: 25%;
+  }
+
+  .main-jumbotron-image {
+    width: 40%;
+    margin-top: 25%;
+  }
+
+  .sh-button{
+    font-size: 19px;
+    letter-spacing: 0%;
+    padding: 0%;
+    /*font-weight: 200px;*/
+  }
+
+  #mlh-trust-badge {
+    width: 65px;
+  }
+}
+
+.main-text {
+  color: #fff;
+  position: absolute;
+  top: 50px;
+  width: 96.6667%;
+}
+
+/*team styles*/
+div.item {
+  vertical-align: left;
+  display: inline-block;
+
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  margin: 2%;
+}
+
+#team{
+  padding: 7%;
+  background-color: rgb(27, 33, 36);
+  color: white;
+  text-align: center;
+}
