@@ -1,4 +1,3 @@
-
 /*@import url('navBar.css');*/
 @import url('faq.css');
 
@@ -83,9 +82,11 @@ a.sh-button:link {
   height: 100vh;
   min-height: 700px;
 }
+
 .main-jumbotron-container {
   padding: 0% 0%;
 }
+
 .main-jumbotron-image {
   width: 20%;
   margin: 10%;
@@ -253,6 +254,3 @@ div.item {
   color: white;
   text-align: center;
 }
-
-
-  
