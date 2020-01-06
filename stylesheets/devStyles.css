@@ -30,6 +30,11 @@
     margin-right: 10%;
 }
 
+.item img {
+  border-radius: 50%;
+  padding: 10px;
+}
+
 @media (min-width: 767px){
   .mar-main-center{
     /*width: 80%;*/
@@ -271,7 +276,7 @@ div.item {
   margin: 2%;
 }
 
-#team{
+#section {
   padding: 7%;
   background-color: rgb(27, 33, 36);
   color: white;
