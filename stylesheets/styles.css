@@ -1,5 +1,6 @@
 
 @import url('faq.css');
+@import url('schedule.css');
 
 /*--------------------------------------------------------------
     Navbar
@@ -183,6 +184,7 @@ a.sh-button:link {
 /*--------------------------------------------------------------
     Section
 --------------------------------------------------------------*/
+.section-header h1,
 .section-header h2 {
   font-size: 32px;
   /*color: #111;*/
@@ -194,6 +196,7 @@ a.sh-button:link {
   padding-bottom: 15px;
 }
 
+.section-header h1::after,
 .section-header h2::after {
   content: '';
   position: absolute;
@@ -203,6 +206,11 @@ a.sh-button:link {
   background: #e04861;
   bottom: 0;
   left: calc(50% - 60px);
+}
+
+.section-header p {
+  color: white;
+  text-align: center;
 }
 
 .site-section-heading {
