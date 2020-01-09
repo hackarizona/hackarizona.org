@@ -2,48 +2,6 @@
  * GRID SCHEDULE LAYOUT
  *************************/
  @media screen and (min-width:700px) {
-	.schedule {
-		display: grid;
-		grid-gap: 10px;
-		grid-template-rows:
-            [tracks] auto
-            [time-0700] 0.5fr
-			[time-0730] 0.5fr
-			[time-0800] 0.5fr
-			[time-0830] 0.5fr
-			[time-0900] 0.5fr
-			[time-0930] 0.5fr
-			[time-1000] 0.5fr
-			[time-1030] 0.5fr
-			[time-1100] 0.5fr
-			[time-1130] 0.5fr
-            [time-1200] 0.5fr
-            [time-1300] 0.5fr
-			[time-1330] 0.5fr
-			[time-1400] 0.5fr
-			[time-1430] 0.5fr
-			[time-1500] 0.5fr
-			[time-1530] 0.5fr
-			[time-1600] 0.5fr
-			[time-1630] 0.5fr
-			[time-1700] 0.5fr
-			[time-1730] 0.5fr
-			[time-1800] 0.5fr;
-			/* Note 1:
-			Use 24hr time for gridline names for simplicity
-
-			Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
-			Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
-			*/
-		
-		grid-template-columns:
-			[times] 4em
-			[track-1-start] 1fr
-			[track-1-end track-2-start] 1fr
-			[track-2-end track-3-start] 1fr
-			[track-3-end track-4-start] 1fr
-			[track-4-end];
-    }
     .friday {
 		display: grid;
 		grid-gap: 10px;
@@ -148,32 +106,7 @@
 			[time-1130] 0.5fr
             [time-1200] 0.5fr
             [time-1230] 0.5fr
-            [time-1300] 0.5fr
-			[time-1330] 0.5fr
-			[time-1400] 0.5fr
-			[time-1430] 0.5fr
-			[time-1500] 0.5fr
-            [time-1530] 0.5fr
-            [time-1600] 0.5fr
-			[time-1630] 0.5fr
-			[time-1700] 0.5fr
-			[time-1730] 0.5fr
-			[time-1800] 0.5fr
-			[time-1830] 0.5fr
-			[time-1900] 0.5fr
-			[time-1930] 0.5fr
-			[time-2000] 0.5fr
-			[time-2030] 0.5fr
-            [time-2100] 0.5fr
-			[time-2130] 0.5fr
-			[time-2200] 0.5fr
-			[time-2230] 0.5fr
-			[time-2300] 0.5fr
-			[time-2330] 0.5fr
-			[time-2400] 0.5fr
-			[time-2430] 0.5fr
-            [time-2500] 0.5fr
-            [time-2530] 0.5fr;
+            [time-1300] 0.5fr;
 
 		grid-template-columns:
 			[times] 4em
@@ -194,22 +127,10 @@
     display: block;
     padding: 10px 5px 5px;
     position: sticky;
-    top: 0;
+    top: 50px;
     z-index: 1000;
     background-color: rgba(255,255,255,.9);
 }
-/*@supports( display:grid ) {
-	@media screen and (min-width:700px) {
-		.track-slot {
-			display: block;
-			padding: 10px 5px 5px;
-			position: sticky;
-			top: 0;
-			z-index: 1000;
-			background-color: rgba(255,255,255,.9);
-		}
-	}
-}*/
 
 /* Small-screen & fallback styles */
 .session {
@@ -323,3 +244,10 @@
 hr {
 	margin: 40px 0;
 }
+
+@media screen and (max-width: 699px) {
+	.hide-time{
+		display: none;
+	}
+  }
+  
