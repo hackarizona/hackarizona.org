@@ -249,14 +249,63 @@ a.sh-button:link {
   text-align: center;
 }
 
-div.item {
+.team-item {
   vertical-align: left;
   display: inline-block;
 
   text-align: center;
-  width: 200px;
+  width: 250px;
   height: 300px;
   margin: 2%;
+}
+
+.team-item img {
+  border-radius: 7%;
+  padding: 10px;
+}
+
+.text-overlay {
+  margin: 40vh 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.main-content {
+  /*border-radius: 20px;*/
+  width: 70vw;
+  margin: auto;
+  /*margin-top: -50px;*/
+}
+
+.main-text {
+  color: #fff;
+  position: absolute;
+  top: 50px;
+  width: 96.6667%;
+}
+
+.no-image{
+  display: none;
+}
+
+@media screen and (max-width: 1000px) {
+	#team{
+		padding-top: 12%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#team{
+		padding-top: 18%;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	#team{
+		padding-top: 23%;
+	}
 }
 /*--------------------------------------------------------------
     Footer

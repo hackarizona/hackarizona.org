@@ -4,29 +4,3 @@
     Add dev styles here in addition to styles.css
 --------------------------------------------------------------*/
 
-.item img {
-  border-radius: 50%;
-  padding: 10px;
-}
-
-.text-overlay {
-  margin: 40vh 5vh;
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  justify-content: center;
-}
-
-.main-content {
-  /*border-radius: 20px;*/
-  width: 70vw;
-  margin: auto;
-  /*margin-top: -50px;*/
-}
-
-.main-text {
-  color: #fff;
-  position: absolute;
-  top: 50px;
-  width: 96.6667%;
-}

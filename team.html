@@ -6,7 +6,7 @@
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="./images/HackAZ_2020.png">
-    <link rel="stylesheet" href="./stylesheets/devStyles.css">
+    <link rel="stylesheet" href="./stylesheets/styles.css">
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
@@ -60,8 +60,18 @@
         </div>
     </nav>
 
+
+    <!-- MLH style has been moved to styles.css, don't forget to update this every year we're an MLH event! -->
+    <a id="mlh-trust-badge"
+    href="https://mlh.io/seasons/na-2020/events?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2020-season&utm_content=white"
+    target="_blank">
+    <img src="https://s3.amazonaws.com/logged-assets/trust-badge/2020/mlh-trust-badge-2020-white.svg"
+    alt="Major League Hacking 2020 Hackathon Season" style="width:80%; margin-left: 50%;" />
+    </a>
+
     <div id="page-top"></div>
-    <section id="section">
+    <!-- Team -->
+    <section id="team">
         <header class="section-header">
             <h2>Team</h2>
             <p>Meet the wonderful team behind this event!</p>
@@ -69,99 +79,117 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
+                    <div class="team-item">
                         <img src="images/portaits/JeremyBernick.jpg" alt="Jeremy Bernick"/>
-                        <span class="text-center">Jeremy Bernick<br/>(Co-Executive Director)</span>
+                        <span class="caption">Jeremy Bernick<br/><i>Co-Executive Director</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
+                    <div class="team-item">
                         <img src="images/portaits/AndrewMorales.jpg" alt="Andrew Morales"/>
-                        <span class="caption">Andrew Morales<br/>(Co-Executive Director)</span>
+                        <span class="caption">Andrew Morales<br/><i>Co-Executive Director</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
+                    <div class="team-item">
                         <img src="images/portaits/RoyceViklund.jpg" alt="Royce Viklund"/>
-                        <span class="caption">Royce Viklund<br/>(Director of Logistics)</span>
+                        <span class="caption">Royce Viklund<br/><i>Director of Logistics</i></span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="item">
+                <div class="col-lg-3 col-md-6 no-image">
+                    <div class="team-item">
                         <img src="images/portaits/MaggieBerti.jpg" alt="Maggie Berti"/>
-                        <span class="caption">Maggie Berti<br/>(Director of Sponsorship)</span>
+                        <span class="caption">Maggie Berti<br/><i>Director of Sponsorship</i></span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 no-image">
+                    <div class="team-item">
+                        <img src="images/portaits/AaronNach.jpg" alt="Aaron Nach"/>
+                        <span class="caption">Aaron Nach<br/><i>Sponsorship Committee</i></span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 no-image">
+                    <div class="team-item">
+                        <img src="images/portaits/JavaughnGray.jpg" alt="Javaughn Gray"/>
+                        <span class="caption">Javaughn Gray<br/><i>Co-Director of Social Media</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/AnitaChavarin.jpg" alt="Anita Chavarin"/>
+                        <span class="caption">Anita Chavarin<br/><i>Co-Director of Social Media</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/AlexSiegel.jpg" alt="Alex Siegel"/>
+                        <span class="caption">Alex Siegel<br/><i>Director of Ceremonies</i></span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 no-image">
+                    <div class="team-item">
+                        <img src="images/portaits/CarsonBock.jpg" alt="Carson Bock"/>
+                        <span class="caption">Carson Bock<br/><i>Director of Budgeting</i></span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 no-image">
+                    <div class="team-item">
+                        <img src="images/portaits/ChaunceyDelosSantos.jpg" alt=">Chauncey Delos Santos"/>
+                        <span class="caption">Chauncey Delos Santos<br/><i>Director of Volunteers</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/KalistaTorres.jpg" alt="Kalista Torres"/>
+                        <span class="caption">Kalista Torres<br/><i>Director of Activites</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/ColtonFlowers.jpg" alt=">Colton Flowers"/>
+                        <span class="caption">Colton Flowers<br/><i>Director of Education</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/ConnorBrett.jpg" alt="Connor Brett"/>
+                        <span class="caption">Connor Brett<br/><i>Director of E-Sports</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/MartinValencia.jpg" alt="Martin Valencia"/>
+                        <span class="caption">Martin Valencia<br/><i>Director of Web Development</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/RachelLindzon.jpg" alt="Rachel Lindzon"/>
+                        <span class="caption">Rachel Lindzon<br/><i>Director of Marketing</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/BenWatchman.jpg" alt="Ben Watchman"/>
+                        <span class="caption">Ben Watchman<br/><i>Director of Design</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/AntoniaMaher.jpg" alt="Antonia Maher"/>
+                        <span class="caption">Antonia Maher<br/><i>Director of Scheduling</i></span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 no-image">
+                    <div class="team-item">
+                        <img src="images/portaits/ZacharyJimenez.jpg" alt="Zachary Jimenez"/>
+                        <span class="caption">Zachary Jimenez<br/><i>Director of Technology</i></span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="item">
-                        <img src="https://source.unsplash.com/250x250/?cat" alt=""/>
-                        <span class="caption">Text below the image</span>
+                    <div class="team-item">
+                        <img src="images/portaits/StephanieSilva.jpg" alt="Stephanie Silva"/>
+                        <span class="caption">Stephanie Silva<br/><i>Director of Media</i></span>
                     </div>
                 </div>
             </div>
