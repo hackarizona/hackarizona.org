@@ -289,6 +289,24 @@ a.sh-button:link {
 .no-image{
   display: none;
 }
+
+@media screen and (max-width: 1000px) {
+	#team{
+		padding-top: 12%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#team{
+		padding-top: 18%;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	#team{
+		padding-top: 23%;
+	}
+}
 /*--------------------------------------------------------------
     Footer
 --------------------------------------------------------------*/
