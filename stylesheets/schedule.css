@@ -185,14 +185,14 @@
 .session-title a {
 	color: #fff;
 	text-decoration-style: dotted;
-	
-	&:hover {
-		font-style: italic;
-	}
-	
-	&:focus {
-		outline: 2px dotted rgba(255,255,255,.8);
-	}
+}
+
+.session-title a:hover {
+	font-style: italic;
+}
+
+.session-title a:focus {
+	outline: 2px dotted rgba(255,255,255,.8);
 }
 
 .track-slot,
