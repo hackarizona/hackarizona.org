@@ -240,6 +240,43 @@ a.sh-button:link {
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
+    Sponsors
+--------------------------------------------------------------*/
+#sponsors{
+  padding: 7%;
+  background-color: rgb(27, 33, 36);
+  color: white;
+  text-align: center;
+}
+
+#prickly-pear img{
+  display: block;
+  width: 60%;
+  margin: auto;
+}
+
+#barrel img{
+  display: block;
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+}
+
+#senita img {
+  display: block;
+  width: 75%;
+  margin: auto;
+}
+
+#amazon{
+  width: 38% !important;
+}
+
+#general-dynamics{
+  width: 100% !important;
+}
+
+/*--------------------------------------------------------------
     Team
 --------------------------------------------------------------*/
 #team{
