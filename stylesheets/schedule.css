@@ -15,6 +15,7 @@
 			[time-1900] 0.5fr
 			[time-1930] 0.5fr
 			[time-2000] 0.5fr
+			[time-2001] 0.5fr
 			[time-2030] 0.5fr
             [time-2100] 0.5fr
 			[time-2130] 0.5fr
@@ -44,7 +45,6 @@
 		grid-gap: 10px;
 		grid-template-rows:
             [tracks] auto
-            [time-0700] 0.5fr
 			[time-0730] 0.5fr
 			[time-0800] 0.5fr
 			[time-0830] 0.5fr
@@ -95,8 +95,8 @@
 		grid-gap: 10px;
 		grid-template-rows:
             [tracks] auto
-			[time-0730] 0.5fr
 			[time-0800] 0.5fr
+			[time-0801] 0.5fr
 			[time-0830] 0.5fr
 			[time-0900] 0.5fr
 			[time-0930] 0.5fr
@@ -155,7 +155,8 @@
 	margin: 0 auto;
     line-height: 1.5;*/
     margin: 0 auto;
-    padding-top: 100px;
+	padding-top: 100px;
+	background-color: rgb(27, 33, 36);
 }
 
 .session {
